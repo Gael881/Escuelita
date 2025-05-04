@@ -41,12 +41,6 @@
     },
     "done": true
   },
-  "jujutsucraft:update": {
-    "criteria": {
-      "update_0": "2025-05-04 22:20:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-05-04 22:17:14 +0000",
@@ -117,6 +111,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-05-04 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:update": {
+    "criteria": {
+      "update_0": "2025-05-04 22:28:49 +0000"
     },
     "done": true
   },
