@@ -10,6 +10,7 @@
       "minecraft:flower_forest": "2025-05-31 21:35:47 +0000",
       "minecraft:beach": "2025-05-30 00:58:52 +0000",
       "minecraft:forest": "2025-05-30 01:02:16 +0000",
+      "minecraft:sparse_jungle": "2025-05-31 22:21:14 +0000",
       "minecraft:river": "2025-05-30 01:10:59 +0000",
       "minecraft:lukewarm_ocean": "2025-05-30 01:11:59 +0000",
       "minecraft:dripstone_caves": "2025-05-30 20:17:30 +0000",
@@ -384,7 +385,8 @@
       "minecraft:skeleton": "2025-05-30 20:09:47 +0000",
       "minecraft:spider": "2025-05-30 01:09:24 +0000",
       "minecraft:zombie": "2025-05-30 20:15:10 +0000",
-      "minecraft:creeper": "2025-05-30 20:24:28 +0000"
+      "minecraft:creeper": "2025-05-30 20:24:28 +0000",
+      "minecraft:drowned": "2025-05-31 22:14:15 +0000"
     },
     "done": false
   },
@@ -432,8 +434,10 @@
       "bread": "2025-05-30 20:23:11 +0000",
       "cooked_chicken": "2025-05-31 21:42:39 +0000",
       "rotten_flesh": "2025-05-30 20:19:00 +0000",
+      "cooked_mutton": "2025-05-31 22:19:04 +0000",
       "glow_berries": "2025-05-31 20:47:48 +0000",
       "salmon": "2025-05-30 01:11:21 +0000",
+      "cooked_beef": "2025-05-31 22:13:23 +0000",
       "porkchop": "2025-05-30 01:10:18 +0000"
     },
     "done": false
@@ -1434,15 +1438,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_white_tulip": "2025-05-31 21:37:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-05-31 21:34:34 +0000"
+      "diamond_helmet": "2025-05-31 21:24:44 +0000"
     },
     "done": true
   },
@@ -1452,9 +1450,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed": {
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
-      "has_gray_wool": "2025-05-31 21:36:08 +0000"
+      "has_leather": "2025-05-31 21:34:34 +0000"
     },
     "done": true
   },
@@ -1476,33 +1474,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-05-31 21:35:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-31 21:34:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2025-05-31 21:24:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-05-31 21:36:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-05-31 21:36:08 +0000"
     },
     "done": true
   },
@@ -1527,6 +1501,72 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-05-31 21:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-31 21:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 21:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 21:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 21:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-05-31 21:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-31 22:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2025-05-31 22:12:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-05-31 22:15:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-05-31 22:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-31 22:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-31 22:15:05 +0000"
     },
     "done": true
   },
