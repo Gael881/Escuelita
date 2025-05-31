@@ -620,6 +620,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-31 22:50:06 +0000",
+      "mutton": "2025-05-31 23:03:59 +0000",
       "golden_apple": "2025-05-31 20:19:58 +0000",
       "bread": "2025-05-31 20:09:06 +0000",
       "honey_bottle": "2025-05-31 20:13:34 +0000",
@@ -629,6 +630,7 @@
       "dried_kelp": "2025-05-31 18:57:34 +0000",
       "cooked_beef": "2025-05-31 19:10:20 +0000",
       "baked_potato": "2025-05-31 20:15:12 +0000",
+      "porkchop": "2025-05-31 22:59:43 +0000",
       "golden_carrot": "2025-05-31 20:11:43 +0000",
       "apple": "2025-05-31 18:50:09 +0000",
       "spider_eye": "2025-05-31 22:37:54 +0000",
@@ -2177,6 +2179,30 @@
   "minecraft:adventure/who_needs_rockets": {
     "criteria": {
       "who_needs_rockets": "2025-05-31 22:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-31 22:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2025-05-31 22:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-31 22:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-31 22:54:51 +0000"
     },
     "done": true
   },
