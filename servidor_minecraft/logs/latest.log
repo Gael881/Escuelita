@@ -1,34 +1,34 @@
-[18:26:31] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[18:26:31] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[18:26:31] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:26:32] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[18:26:32] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[20:42:47] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[20:42:47] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[20:42:47] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:42:48] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[20:42:48] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - Geyser-Spigot (2.7.1-SNAPSHOT), ViaBackwards (5.0.3), ViaVersion (5.3.2), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
-[18:26:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:26:39] [ServerMain/INFO]: Loaded 1290 recipes
-[18:26:39] [ServerMain/INFO]: Loaded 1399 advancements
-[18:26:39] [Server thread/INFO]: Starting minecraft server version 1.21
-[18:26:39] [Server thread/INFO]: Loading properties
-[18:26:39] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[18:26:40] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[18:26:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:26:40] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:26:41] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[18:26:41] [Server thread/INFO]: Default game type: SURVIVAL
-[18:26:41] [Server thread/INFO]: Generating keypair
-[18:26:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:26:41] [Server thread/INFO]: Using epoll channel type
-[18:26:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:26:41] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[18:26:43] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[18:26:45] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[18:26:45] [Server thread/INFO]: [floodgate] Took 2,166ms to boot Floodgate
-[18:26:45] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
-[18:26:45] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
-[18:26:46] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[18:26:46] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[18:26:47] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[18:26:47] [Server thread/ERROR]: [ViaVersion] Error initializing plugin 'ViaVersion-5.3.2.jar' in folder 'plugins' (Is it up to date?)
+[20:42:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:42:53] [ServerMain/INFO]: Loaded 1290 recipes
+[20:42:53] [ServerMain/INFO]: Loaded 1399 advancements
+[20:42:54] [Server thread/INFO]: Starting minecraft server version 1.21
+[20:42:54] [Server thread/INFO]: Loading properties
+[20:42:54] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[20:42:54] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:42:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:42:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:42:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[20:42:55] [Server thread/INFO]: Default game type: SURVIVAL
+[20:42:55] [Server thread/INFO]: Generating keypair
+[20:42:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:42:55] [Server thread/INFO]: Using epoll channel type
+[20:42:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:42:55] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[20:42:56] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[20:42:58] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[20:42:58] [Server thread/INFO]: [floodgate] Took 1,895ms to boot Floodgate
+[20:42:58] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
+[20:42:58] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[20:42:59] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[20:42:59] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[20:43:01] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[20:43:01] [Server thread/ERROR]: [ViaVersion] Error initializing plugin 'ViaVersion-5.3.2.jar' in folder 'plugins' (Is it up to date?)
 java.lang.NoClassDefFoundError: com/viaversion/viaversion/rewriter/ComponentRewriter
 	at java.base/java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
 	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027) ~[?:?]
@@ -56,158 +56,61 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
 	... 21 more
-[18:26:47] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.1-SNAPSHOT
-[18:26:49] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[18:26:49] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[18:26:49] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
-[18:26:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:26:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:26:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:26:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:26:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:26:49] [Server thread/INFO]: Preparing level "world"
-[18:26:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:26:51] [Server thread/INFO]: Time elapsed: 1081 ms
-[18:26:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:26:51] [Server thread/INFO]: Time elapsed: 240 ms
-[18:26:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:26:51] [Server thread/INFO]: Time elapsed: 132 ms
-[18:26:51] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[18:26:52] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
-[18:26:52] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[18:26:52] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.1-SNAPSHOT
-[18:26:53] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
-[18:26:53] [Server thread/INFO]: [spark] Starting background profiler...
-[18:26:53] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[18:26:53] [Server thread/INFO]: [Geyser-Spigot] 
-[18:26:53] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.1-b826 (git-master-bfbbf6c)
-[18:26:53] [Server thread/INFO]: [Geyser-Spigot] 
-[18:26:53] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[18:27:01] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2289
-[18:27:01] [Server thread/INFO]: [Geyser-Spigot] Done (8.266s)! Run /geyser help for help!
-[18:27:02] [Server thread/INFO]: Done preparing level "world" (12.633s)
-[18:27:02] [Server thread/INFO]: Running delayed init tasks
-[18:27:02] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[18:27:02] [Server thread/INFO]: Done (31.659s)! For help, type "help"
-[18:27:02] [Server thread/INFO]: Timings Reset
-[18:39:46] [User Authenticator #0/INFO]: UUID of player Romano2000 is 8428c003-4565-3a99-aa4b-e799c0dda01d
-[18:39:52] [Server thread/INFO]: Romano2000 joined the game
-[18:39:52] [Server thread/INFO]: Romano2000[/127.26.178.57:39475] logged in with entity id 17 at ([world]152.5, 64.0, -118.5)
-[18:42:36] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Aftom5782
-[18:42:36] [localSession-7-2/INFO]: [Geyser-Spigot] Aftom5782 (logged in as: Aftom5782) has connected to the Java server
-[18:42:37] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Aftom5782 joined (UUID: 00000000-0000-0000-0009-01f5536f9644)
-[18:42:37] [Server thread/INFO]: .Aftom5782 joined the game
-[18:42:37] [Server thread/INFO]: .Aftom5782[/127.0.0.1:0] logged in with entity id 569 at ([world]149.5, 67.0, -130.5)
-[18:43:08] [Async Chat Thread - #0/INFO]: [Not Secure] <.Aftom5782> gracias mano
-[18:43:18] [Async Chat Thread - #0/INFO]: [Not Secure] <Romano2000> a la orden brother
-[18:43:39] [Server thread/INFO]: Romano2000 has made the advancement [Stone Age]
-[18:43:53] [Server thread/INFO]: .Aftom5782 has made the advancement [Stone Age]
-[18:44:10] [Server thread/INFO]: Romano2000 has made the advancement [Getting an Upgrade]
-[18:44:32] [Server thread/INFO]: .Aftom5782 has made the advancement [Getting an Upgrade]
-[18:45:38] [Async Chat Thread - #3/INFO]: [Not Secure] <Romano2000> vamos a minar
-[18:48:45] [Server thread/INFO]: Romano2000 drowned
-[18:48:56] [Async Chat Thread - #4/INFO]: [Not Secure] <.Aftom5782> a
-[18:49:21] [Async Chat Thread - #4/INFO]: [Not Secure] <.Aftom5782> encontraste una cueva?
-[18:49:28] [Async Chat Thread - #4/INFO]: [Not Secure] <Romano2000> acuatica
-[18:50:55] [Server thread/INFO]: Romano2000 has made the advancement [Acquire Hardware]
-[18:51:04] [Async Chat Thread - #6/INFO]: [Not Secure] <.Aftom5782> no tienes comida?
-[18:55:05] [Server thread/INFO]: .Aftom5782 has made the advancement [Monster Hunter]
-[18:56:15] [Async Chat Thread - #8/INFO]: [Not Secure] <Romano2000> sali a buscar comida
-[18:56:33] [Async Chat Thread - #8/INFO]: [Not Secure] <.Aftom5782> ok
-[18:57:03] [Server thread/INFO]: .Aftom5782 went up in flames
-[19:01:10] [Server thread/WARN]: .Aftom5782 moved wrongly!
-[19:02:03] [Server thread/INFO]: .Aftom5782 has made the advancement [Voluntary Exile]
-[19:02:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Romano2000> donde andas?
-[19:02:36] [Async Chat Thread - #10/INFO]: [Not Secure] <.Aftom5782> ee
-[19:02:46] [Async Chat Thread - #10/INFO]: [Not Secure] <.Aftom5782> 133 y
-[19:02:51] [Async Chat Thread - #10/INFO]: [Not Secure] <.Aftom5782> -562
-[19:03:17] [Async Chat Thread - #10/INFO]: [Not Secure] <.Aftom5782> creo que hay aldea cerca
-[19:03:50] [Async Chat Thread - #10/INFO]: [Not Secure] <Romano2000> ya voy para alla
-[19:03:52] [Server thread/INFO]: .Aftom5782 has made the advancement [Acquire Hardware]
-[19:05:05] [Server thread/WARN]: .Aftom5782 moved wrongly!
-[19:05:05] [Server thread/WARN]: .Aftom5782 moved wrongly!
-[19:06:44] [Server thread/INFO]: Romano2000 has made the advancement [Not Today, Thank You]
-[19:06:48] [Server thread/INFO]: Romano2000 has made the advancement [Monster Hunter]
-[19:07:47] [Server thread/INFO]: Romano2000 was slain by Spider
-[19:08:58] [Server thread/WARN]: .Aftom5782 moved wrongly!
-[19:08:59] [Server thread/WARN]: .Aftom5782 moved wrongly!
-[19:10:08] [Async Chat Thread - #12/INFO]: [Not Secure] <.Aftom5782> aldeaa
-[19:10:40] [Server thread/INFO]: Romano2000 has made the advancement [Hot Stuff]
-[19:10:52] [Async Chat Thread - #13/INFO]: [Not Secure] <Romano2000> coords
-[19:11:10] [Async Chat Thread - #13/INFO]: [Not Secure] <.Aftom5782> 625 -932
-[19:15:03] [Server thread/INFO]: .Aftom5782 has made the advancement [Isn't It Iron Pick]
-[19:16:01] [Async Chat Thread - #15/INFO]: [Not Secure] <.Aftom5782> por cierto
-[19:16:10] [Async Chat Thread - #15/INFO]: [Not Secure] <.Aftom5782> tebgo para hacer raid
-[19:16:29] [Async Chat Thread - #15/INFO]: [Not Secure] <Romano2000> pero ahorita estamos muy malos
-[19:18:05] [Async Chat Thread - #16/INFO]: [Not Secure] <.Aftom5782> ire q budcar una cueva
-[19:18:13] [Async Chat Thread - #16/INFO]: [Not Secure] <Romano2000> èsperame
-[19:20:42] [Server thread/INFO]: .Aftom5782 was blown up by Creeper
-[19:20:59] [Async Chat Thread - #18/INFO]: [Not Secure] <Romano2000> 922 -950
-[19:21:07] [Async Chat Thread - #18/INFO]: [Not Secure] <.Aftom5782> alumbra todo
-[19:21:39] [Server thread/INFO]: Romano2000 has made the advancement [Isn't It Iron Pick]
-[19:22:15] [Async Chat Thread - #20/INFO]: [Not Secure] <Romano2000> eso es mio
-[19:22:27] [Server thread/INFO]: .Aftom5782 has made the advancement [Hot Stuff]
-[19:22:51] [Async Chat Thread - #21/INFO]: [Not Secure] <.Aftom5782> y el esucudo?
-[19:24:02] [Async Chat Thread - #22/INFO]: [Not Secure] <Romano2000> EL CUBO DE LAVA
-[19:26:55] [Server thread/INFO]: .Aftom5782 has made the advancement [Not Today, Thank You]
-[19:27:03] [Async Chat Thread - #24/INFO]: [Not Secure] <.Aftom5782> VEN
-[19:27:37] [Async Chat Thread - #24/INFO]: [Not Secure] <.Aftom5782> spawner
-[19:27:43] [Async Chat Thread - #24/INFO]: [Not Secure] <.Aftom5782> y mina abandonada
-[19:27:58] [Server thread/INFO]: Romano2000 has made the advancement [Sweet Dreams]
-[19:29:06] [Async Chat Thread - #26/INFO]: [Not Secure] <Romano2000> espera un momento
-[19:29:22] [Server thread/INFO]: Romano2000 has made the advancement [Suit Up]
-[19:29:46] [Server thread/INFO]: .Aftom5782 has made the advancement [Suit Up]
-[19:39:44] [Server thread/INFO]: Romano2000 has made the advancement [Diamonds!]
-[19:40:01] [Async Chat Thread - #28/INFO]: [Not Secure] <Romano2000> vamossss
-[19:40:07] [Async Chat Thread - #28/INFO]: [Not Secure] <.Aftom5782> bieeen
-[19:42:04] [Server thread/WARN]: .Aftom5782 moved wrongly!
-[19:45:50] [Async Chat Thread - #30/INFO]: [Not Secure] <Romano2000> mas diamante
-[19:49:25] [Server thread/WARN]: .Aftom5782 moved wrongly!
-[19:49:25] [Server thread/WARN]: .Aftom5782 moved wrongly!
-[19:49:26] [Server thread/WARN]: .Aftom5782 moved wrongly!
-[19:51:30] [Async Chat Thread - #32/INFO]: [Not Secure] <Romano2000> donde andas?
-[19:52:39] [Async Chat Thread - #35/INFO]: [Not Secure] <.Aftom5782> 789
-[19:52:45] [Async Chat Thread - #35/INFO]: [Not Secure] <.Aftom5782> -46
-[19:52:53] [Async Chat Thread - #35/INFO]: [Not Secure] <.Aftom5782> -825
-[19:53:10] [Server thread/INFO]: .Aftom5782 has made the advancement [Diamonds!]
-[19:53:16] [Async Chat Thread - #35/INFO]: [Not Secure] <Romano2000> bieeenn
-[19:54:36] [Async Chat Thread - #36/INFO]: [Not Secure] <.Aftom5782> maw diamante
-[19:57:23] [Server thread/WARN]: .Aftom5782 moved wrongly!
-[19:58:30] [Async Chat Thread - #38/INFO]: [Not Secure] <.Aftom5782> yo creo que asi estamos bien
-[19:58:41] [Async Chat Thread - #38/INFO]: [Not Secure] <Romano2000> cuantos diamantes tienes/
-[19:58:55] [Async Chat Thread - #39/INFO]: [Not Secure] <.Aftom5782> 10
-[19:59:28] [Async Chat Thread - #38/INFO]: [Not Secure] <.Aftom5782> 12*
-[19:59:32] [Async Chat Thread - #38/INFO]: [Not Secure] <Romano2000> `XD
-[19:59:46] [Async Chat Thread - #38/INFO]: [Not Secure] <Romano2000> `si, yo creo que ya nos podemos ir
-[20:00:52] [Async Chat Thread - #40/INFO]: [Not Secure] <.Aftom5782> MIRA
-[20:00:57] [Async Chat Thread - #40/INFO]: [Not Secure] <.Aftom5782> trial chamber
-[20:01:08] [Async Chat Thread - #40/INFO]: [Not Secure] <Romano2000> `DIOSSS
-[20:01:10] [Server thread/INFO]: .Aftom5782 has made the advancement [Minecraft: Trial(s) Edition]
-[20:01:12] [Server thread/INFO]: Romano2000 has made the advancement [Minecraft: Trial(s) Edition]
-[20:02:05] [Async Chat Thread - #40/INFO]: [Not Secure] <Romano2000> `creo que deberiamos poner la cama aqui
-[20:02:41] [Server thread/INFO]: .Aftom5782 has made the advancement [Cover Me with Diamonds]
-[20:02:45] [Async Chat Thread - #40/INFO]: [Not Secure] <Romano2000> `tienes carbon?
-[20:03:03] [Async Chat Thread - #40/INFO]: [Not Secure] <Romano2000> `bro
-[20:03:11] [Async Chat Thread - #40/INFO]: [Not Secure] <Romano2000> àqui dan armadura de diamantes
-[20:03:18] [Async Chat Thread - #40/INFO]: [Not Secure] <.Aftom5782> yo se
-[20:03:23] [Async Chat Thread - #40/INFO]: [Not Secure] <.Aftom5782> esa misma la guardo
-[20:03:23] [Server thread/INFO]: Romano2000 has made the advancement [Cover Me with Diamonds]
-[20:03:29] [Async Chat Thread - #40/INFO]: [Not Secure] <.Aftom5782> pero pa tener mas protección
-[20:05:16] [Server thread/INFO]: .Aftom5782 fell from a high place
-[20:05:24] [Async Chat Thread - #42/INFO]: [Not Secure] <Romano2000> `menos mal la cama
-[20:06:05] [Async Chat Thread - #43/INFO]: [Not Secure] <.Aftom5782> no tienes mi pico?
-[20:06:09] [Async Chat Thread - #43/INFO]: [Not Secure] <Romano2000> `tengo 4 llaves
-[20:06:18] [Async Chat Thread - #43/INFO]: [Not Secure] <Romano2000> `no
-[20:06:51] [Server thread/INFO]: Romano2000 has made the advancement [Under Lock and Key]
-[20:08:38] [Server thread/INFO]: Romano2000 has made the advancement [Take Aim]
-[20:10:02] [Async Chat Thread - #44/INFO]: [Not Secure] <.Aftom5782> ayudame aqui
-[20:12:02] [Server thread/INFO]: .Aftom5782 has made the advancement [Under Lock and Key]
-[20:12:05] [Async Chat Thread - #46/INFO]: [Not Secure] <Romano2000> `diamante bro
-[20:12:22] [Async Chat Thread - #46/INFO]: [Not Secure] <Romano2000> `si te da botellas de miel guardalas
-[20:12:29] [Async Chat Thread - #47/INFO]: [Not Secure] <Romano2000> `que son como comida
-[20:13:56] [Async Chat Thread - #48/INFO]: [Not Secure] <Romano2000> `me tomo una de raid?
-[20:14:01] [Async Chat Thread - #48/INFO]: [Not Secure] <.Aftom5782> se
-[20:14:22] [Async Chat Thread - #48/INFO]: [Not Secure] <Romano2000> `ven
-[20:14:27] [Async Chat Thread - #48/INFO]: [Not Secure] <Romano2000> `help me
-[20:17:02] [Async Chat Thread - #50/INFO]: [Not Secure] <Romano2000> `BRO
-[20:17:09] [Async Chat Thread - #51/INFO]: [Not Secure] <Romano2000> `toma y ven
+[20:43:01] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.1-SNAPSHOT
+[20:43:02] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[20:43:02] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[20:43:02] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
+[20:43:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:43:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:43:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:43:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:43:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:43:02] [Server thread/INFO]: Preparing level "world"
+[20:43:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:43:04] [Server thread/INFO]: Time elapsed: 1069 ms
+[20:43:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:43:04] [Server thread/INFO]: Time elapsed: 187 ms
+[20:43:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:43:04] [Server thread/INFO]: Time elapsed: 136 ms
+[20:43:04] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[20:43:05] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[20:43:05] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[20:43:05] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.1-SNAPSHOT
+[20:43:06] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
+[20:43:06] [Server thread/INFO]: [spark] Starting background profiler...
+[20:43:06] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[20:43:06] [Server thread/INFO]: [Geyser-Spigot] 
+[20:43:06] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.1-b826 (git-master-bfbbf6c)
+[20:43:06] [Server thread/INFO]: [Geyser-Spigot] 
+[20:43:06] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[20:43:15] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2289
+[20:43:15] [Server thread/INFO]: [Geyser-Spigot] Done (8.649s)! Run /geyser help for help!
+[20:43:15] [Server thread/INFO]: Done preparing level "world" (12.883s)
+[20:43:15] [Server thread/INFO]: Running delayed init tasks
+[20:43:15] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[20:43:15] [Server thread/INFO]: Done (28.821s)! For help, type "help"
+[20:43:15] [Server thread/INFO]: Timings Reset
+[20:43:18] [User Authenticator #0/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[20:43:22] [Server thread/INFO]: Goj0 joined the game
+[20:43:23] [Server thread/INFO]: Goj0[/127.59.36.252:50101] logged in with entity id 17 at ([world]238.10074987345928, 2.0, -743.6708117244319)
+[20:44:44] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Aftom5782
+[20:44:44] [localSession-7-2/INFO]: [Geyser-Spigot] Aftom5782 (logged in as: Aftom5782) has connected to the Java server
+[20:44:45] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Aftom5782 joined (UUID: 00000000-0000-0000-0009-01f5536f9644)
+[20:44:45] [Server thread/INFO]: .Aftom5782 joined the game
+[20:44:45] [Server thread/INFO]: .Aftom5782[/127.0.0.1:0] logged in with entity id 374 at ([world]913.59674, -36.0, -823.30001)
+[20:44:46] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 24f364c2-08b4-4950-acd4-5d229d30162f, mapped to Bat['Bat'/405, uuid='24f364c2-08b4-4950-acd4-5d229d30162f', l='ServerLevel[world]', x=941.39, y=15.53, z=-855.50, cpos=[58, -54], tl=169, v=true], can't add Bat['Bat'/407, uuid='24f364c2-08b4-4950-acd4-5d229d30162f', l='ServerLevel[world]', x=952.45, y=16.68, z=-852.33, cpos=[59, -54], tl=383, v=false]
+[20:44:46] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 070ad9f8-926e-4e53-b0e1-9f69b6ae37fc, mapped to Bat['Bat'/401, uuid='070ad9f8-926e-4e53-b0e1-9f69b6ae37fc', l='ServerLevel[world]', x=958.71, y=36.64, z=-837.53, cpos=[59, -53], tl=235, v=true], can't add Bat['Bat'/412, uuid='070ad9f8-926e-4e53-b0e1-9f69b6ae37fc', l='ServerLevel[world]', x=960.71, y=35.47, z=-836.35, cpos=[60, -53], tl=281, v=false]
+[20:44:46] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: b312e2b2-4ed8-4f27-8580-18a9fdf9e6f6, mapped to Bat['Bat'/419, uuid='b312e2b2-4ed8-4f27-8580-18a9fdf9e6f6', l='ServerLevel[world]', x=866.16, y=12.46, z=-798.98, cpos=[54, -50], tl=1356, v=true], can't add Bat['Bat'/426, uuid='b312e2b2-4ed8-4f27-8580-18a9fdf9e6f6', l='ServerLevel[world]', x=859.88, y=11.10, z=-802.10, cpos=[53, -51], tl=1303, v=false]
+[20:44:46] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 5f9e6afe-c885-4756-abb2-abaf9beaa0c2, mapped to Bat['Bat'/470, uuid='5f9e6afe-c885-4756-abb2-abaf9beaa0c2', l='ServerLevel[world]', x=975.53, y=-49.54, z=-766.09, cpos=[60, -48], tl=1270, v=true], can't add Bat['Bat'/477, uuid='5f9e6afe-c885-4756-abb2-abaf9beaa0c2', l='ServerLevel[world]', x=980.75, y=-50.16, z=-774.99, cpos=[61, -49], tl=1320, v=false]
+[20:44:47] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: b3d335b2-2d61-492f-b273-77380e978ed4, mapped to Bat['Bat'/517, uuid='b3d335b2-2d61-492f-b273-77380e978ed4', l='ServerLevel[world]', x=1017.25, y=-15.11, z=-790.33, cpos=[63, -50], tl=2520, v=true], can't add Bat['Bat'/532, uuid='b3d335b2-2d61-492f-b273-77380e978ed4', l='ServerLevel[world]', x=1026.52, y=-18.00, z=-787.09, cpos=[64, -50], tl=2649, v=false]
+[20:44:50] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d96179c6-d917-4ec6-9a60-9d2e57f41cb9, mapped to Armadillo['Armadillo'/630, uuid='d96179c6-d917-4ec6-9a60-9d2e57f41cb9', l='ServerLevel[world]', x=772.84, y=66.00, z=-926.84, cpos=[48, -58], tl=77779, v=true], can't add Armadillo['Armadillo'/641, uuid='d96179c6-d917-4ec6-9a60-9d2e57f41cb9', l='ServerLevel[world]', x=779.82, y=66.00, z=-929.53, cpos=[48, -59], tl=78011, v=false]
+[20:44:50] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 11830c9e-d05a-44b4-af3e-ba8436eb5f6e, mapped to Armadillo['Armadillo'/638, uuid='11830c9e-d05a-44b4-af3e-ba8436eb5f6e', l='ServerLevel[world]', x=762.38, y=68.00, z=-722.07, cpos=[47, -46], tl=34150, v=true], can't add Armadillo['Armadillo'/646, uuid='11830c9e-d05a-44b4-af3e-ba8436eb5f6e', l='ServerLevel[world]', x=759.98, y=68.00, z=-719.11, cpos=[47, -45], tl=36977, v=false]
+[20:45:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Goj0> pasen cords
+[20:45:11] [Async Chat Thread - #0/INFO]: [Not Secure] <.Aftom5782> 905
+[20:45:16] [Async Chat Thread - #0/INFO]: [Not Secure] <.Aftom5782> -822
+[20:45:21] [Async Chat Thread - #0/INFO]: [Not Secure] <.Aftom5782> y pa abajo
+[20:45:22] [Async Chat Thread - #0/INFO]: [Not Secure] <Goj0> ok
+[20:49:25] [Server thread/WARN]: .Aftom5782 moved wrongly!
+[20:50:41] [Async Chat Thread - #2/INFO]: [Not Secure] <Goj0> 183 -31 -719
+[20:50:52] [Async Chat Thread - #2/INFO]: [Not Secure] <Goj0> anote mis cords por si muero
+[20:50:57] [Async Chat Thread - #2/INFO]: [Not Secure] <.Aftom5782> ok
