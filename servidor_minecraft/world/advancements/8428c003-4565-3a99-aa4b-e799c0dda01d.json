@@ -833,6 +833,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-05-31 20:09:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-05-31 20:09:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-05-31 19:11:19 +0000"
@@ -935,6 +947,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-31 20:08:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 18:47:20 +0000"
@@ -944,6 +962,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-05-31 19:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-05-31 20:06:51 +0000"
     },
     "done": true
   },
@@ -1022,6 +1046,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-05-31 18:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-31 20:06:58 +0000"
     },
     "done": true
   },
@@ -1415,9 +1445,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-31 20:12:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-05-31 19:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-05-31 20:09:25 +0000"
     },
     "done": true
   },
@@ -1481,6 +1523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-31 20:12:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-05-31 19:11:57 +0000"
@@ -1526,10 +1574,13 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-05-31 18:50:09 +0000",
+      "bread": "2025-05-31 20:09:06 +0000",
+      "honey_bottle": "2025-05-31 20:13:34 +0000",
       "rotten_flesh": "2025-05-31 20:00:19 +0000",
       "cooked_mutton": "2025-05-31 19:13:36 +0000",
       "dried_kelp": "2025-05-31 18:57:34 +0000",
-      "cooked_beef": "2025-05-31 19:10:20 +0000"
+      "cooked_beef": "2025-05-31 19:10:20 +0000",
+      "golden_carrot": "2025-05-31 20:11:43 +0000"
     },
     "done": false
   },
@@ -1842,6 +1893,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-05-31 19:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-31 20:09:25 +0000"
     },
     "done": true
   },
