@@ -90,3 +90,18 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [18:27:02] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
 [18:27:02] [Server thread/INFO]: Done (31.659s)! For help, type "help"
 [18:27:02] [Server thread/INFO]: Timings Reset
+[18:39:46] [User Authenticator #0/INFO]: UUID of player Romano2000 is 8428c003-4565-3a99-aa4b-e799c0dda01d
+[18:39:52] [Server thread/INFO]: Romano2000 joined the game
+[18:39:52] [Server thread/INFO]: Romano2000[/127.26.178.57:39475] logged in with entity id 17 at ([world]152.5, 64.0, -118.5)
+[18:42:36] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Aftom5782
+[18:42:36] [localSession-7-2/INFO]: [Geyser-Spigot] Aftom5782 (logged in as: Aftom5782) has connected to the Java server
+[18:42:37] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Aftom5782 joined (UUID: 00000000-0000-0000-0009-01f5536f9644)
+[18:42:37] [Server thread/INFO]: .Aftom5782 joined the game
+[18:42:37] [Server thread/INFO]: .Aftom5782[/127.0.0.1:0] logged in with entity id 569 at ([world]149.5, 67.0, -130.5)
+[18:43:08] [Async Chat Thread - #0/INFO]: [Not Secure] <.Aftom5782> gracias mano
+[18:43:18] [Async Chat Thread - #0/INFO]: [Not Secure] <Romano2000> a la orden brother
+[18:43:39] [Server thread/INFO]: Romano2000 has made the advancement [Stone Age]
+[18:43:53] [Server thread/INFO]: .Aftom5782 has made the advancement [Stone Age]
+[18:44:10] [Server thread/INFO]: Romano2000 has made the advancement [Getting an Upgrade]
+[18:44:32] [Server thread/INFO]: .Aftom5782 has made the advancement [Getting an Upgrade]
+[18:45:38] [Async Chat Thread - #3/INFO]: [Not Secure] <Romano2000> vamos a minar
