@@ -136,3 +136,28 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [21:19:50] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Tastiesum joined (UUID: 00000000-0000-0000-0009-01f44a72789f)
 [21:19:50] [Server thread/INFO]: .Tastiesum joined the game
 [21:19:50] [Server thread/INFO]: .Tastiesum[/127.0.0.1:0] logged in with entity id 3130 at ([world]373.30001, 62.0, 32.2073)
+[21:19:57] [Async Chat Thread - #4/INFO]: [Not Secure] <Goj0> llegate a la base putica
+[21:20:03] [Async Chat Thread - #4/INFO]: [Not Secure] <Goj0> aqui hay un cachicamo
+[21:20:07] [Async Chat Thread - #4/INFO]: [Not Secure] <MarkieZzZ> empeze a chambear,esperate
+[21:20:25] [Async Chat Thread - #4/INFO]: [Not Secure] <Goj0> 676 64 -894
+[21:21:49] [Server thread/WARN]: .Tastiesum moved wrongly!
+[21:21:53] [Server thread/INFO]: .Tastiesum fell from a high place
+[21:22:11] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Tastiesum disconnected
+[21:22:11] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Tastiesum has disconnected from the Java server because of Bedrock client disconnected
+[21:22:11] [Server thread/INFO]: .Tastiesum lost connection: Disconnected
+[21:22:11] [Server thread/INFO]: .Tastiesum left the game
+[21:23:20] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Tastiesum
+[21:23:20] [localSession-7-4/INFO]: [Geyser-Spigot] Tastiesum (logged in as: Tastiesum) has connected to the Java server
+[21:23:20] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Tastiesum joined (UUID: 00000000-0000-0000-0009-01f44a72789f)
+[21:23:20] [Server thread/INFO]: .Tastiesum joined the game
+[21:23:20] [Server thread/INFO]: .Tastiesum[/127.0.0.1:0] logged in with entity id 5115 at ([world]151.69999, 68.0, -136.0904)
+[21:25:19] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> hombre topo duerme
+[21:28:40] [Async Chat Thread - #8/INFO]: [Not Secure] <Goj0> farmeen lana
+[21:28:41] [Server thread/INFO]: MarkieZzZ has made the advancement [Monster Hunter]
+[21:28:41] [Async Chat Thread - #8/INFO]: [Not Secure] <Goj0> para camas
+[21:29:19] [Async Chat Thread - #8/INFO]: [Not Secure] <MarkieZzZ> lc necesito food
+[21:29:22] [Async Chat Thread - #8/INFO]: [Not Secure] <MarkieZzZ> JAJAJAJA
+[21:29:40] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Tastiesum disconnected
+[21:29:40] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Tastiesum has disconnected from the Java server because of Bedrock client timed out
+[21:29:40] [Server thread/INFO]: .Tastiesum lost connection: Disconnected
+[21:29:40] [Server thread/INFO]: .Tastiesum left the game
