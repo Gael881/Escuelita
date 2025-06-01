@@ -212,3 +212,16 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [20:08:08] [Server thread/INFO]: Goj0 joined the game
 [20:08:08] [Server thread/INFO]: Goj0[/127.164.147.19:57733] logged in with entity id 12080 at ([world]690.3169489957128, 68.60131520987476, -891.2136834567667)
 [20:12:14] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Please log into Xbox to join this server.
+[20:12:47] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Tastiesum
+[20:12:47] [localSession-7-2/INFO]: [Geyser-Spigot] Tastiesum (logged in as: Tastiesum) has connected to the Java server
+[20:12:47] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Tastiesum joined (UUID: 00000000-0000-0000-0009-01f44a72789f)
+[20:12:47] [Server thread/INFO]: .Tastiesum joined the game
+[20:12:47] [Server thread/INFO]: .Tastiesum[/127.0.0.1:0] logged in with entity id 14190 at ([world]312.53162, 70.0, -307.69998)
+[20:13:22] [Server thread/WARN]: .Tastiesum moved wrongly!
+[20:14:26] [Async Chat Thread - #2/INFO]: [Not Secure] <Goj0> gio tu eres tastiesum?
+[20:15:18] [Server thread/WARN]: Acacia Boat (vehicle of Goj0) moved wrongly! 0.32693033865893995
+[20:15:18] [Server thread/WARN]: Acacia Boat (vehicle of Goj0) moved wrongly! 0.4778541806241492
+[20:16:36] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Tastiesum disconnected
+[20:16:36] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Tastiesum has disconnected from the Java server because of Bedrock client disconnected
+[20:16:36] [Server thread/INFO]: .Tastiesum lost connection: Disconnected
+[20:16:36] [Server thread/INFO]: .Tastiesum left the game
