@@ -122,3 +122,25 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [19:17:45] [Server thread/INFO]: MarkieZzZ has made the advancement [Getting an Upgrade]
 [19:21:38] [Server thread/INFO]: MarkieZzZ lost connection: Disconnected
 [19:21:38] [Server thread/INFO]: MarkieZzZ left the game
+[19:22:58] [User Authenticator #2/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[19:23:01] [Server thread/INFO]: Goj0 joined the game
+[19:23:01] [Server thread/INFO]: Goj0[/127.59.36.252:55767] logged in with entity id 4174 at ([world]688.9240659659781, 67.0, -889.3089585186885)
+[19:23:16] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Aftom5782 has disconnected from the Java server because of Bedrock client disconnected
+[19:23:16] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Aftom5782 disconnected
+[19:23:16] [Server thread/INFO]: .Aftom5782 lost connection: Disconnected
+[19:23:16] [Server thread/INFO]: .Aftom5782 left the game
+[19:23:34] [Server thread/INFO]: Goj0 lost connection: Timed out
+[19:23:34] [Server thread/INFO]: Goj0 left the game
+[19:23:46] [User Authenticator #2/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[19:23:48] [Server thread/INFO]: Goj0 joined the game
+[19:23:48] [Server thread/INFO]: Goj0[/127.59.36.252:40977] logged in with entity id 4357 at ([world]689.1026334384381, 67.5, -891.6690901285193)
+[19:24:27] [Server thread/INFO]: Goj0 lost connection: Timed out
+[19:24:27] [Server thread/INFO]: Goj0 left the game
+[19:24:31] [User Authenticator #2/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[19:24:32] [Server thread/INFO]: Goj0 joined the game
+[19:24:32] [Server thread/INFO]: Goj0[/127.59.36.252:51515] logged in with entity id 4758 at ([world]685.7028491913683, 67.5, -889.2900978578351)
+[19:25:11] [Server thread/INFO]: Goj0 lost connection: Timed out
+[19:25:11] [Server thread/INFO]: Goj0 left the game
+[19:26:52] [User Authenticator #3/INFO]: UUID of player MarkieZzZ is 65f9debc-1d9d-3ea6-945d-cd039c3742c9
+[19:26:53] [Server thread/INFO]: MarkieZzZ joined the game
+[19:26:53] [Server thread/INFO]: MarkieZzZ[/127.168.232.235:53243] logged in with entity id 5397 at ([world]159.757984232699, 59.0, -176.39216440351984)
