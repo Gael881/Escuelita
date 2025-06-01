@@ -158,3 +158,24 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [19:39:05] [Server thread/INFO]: MarkieZzZ[/127.168.232.235:54925] logged in with entity id 8429 at ([world]169.92743436387923, 58.0, -174.30000001192093)
 [19:40:17] [Server thread/INFO]: MarkieZzZ lost connection: Disconnected
 [19:40:17] [Server thread/INFO]: MarkieZzZ left the game
+[19:42:46] [User Authenticator #6/INFO]: UUID of player MarkieZzZ is 65f9debc-1d9d-3ea6-945d-cd039c3742c9
+[19:42:47] [Server thread/INFO]: MarkieZzZ joined the game
+[19:42:47] [Server thread/INFO]: MarkieZzZ[/127.168.232.235:60595] logged in with entity id 8568 at ([world]169.92743436387923, 58.0, -174.30000001192093)
+[19:46:06] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Tastiesum
+[19:46:06] [localSession-7-4/INFO]: [Geyser-Spigot] Tastiesum (logged in as: Tastiesum) has connected to the Java server
+[19:46:06] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Tastiesum joined (UUID: 00000000-0000-0000-0009-01f44a72789f)
+[19:46:06] [Server thread/INFO]: .Tastiesum joined the game
+[19:46:06] [Server thread/INFO]: .Tastiesum[/127.0.0.1:0] logged in with entity id 8960 at ([world]148.5, 98.0, -135.5)
+[19:48:45] [Server thread/WARN]: .Tastiesum moved wrongly!
+[19:50:14] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Tastiesum has disconnected from the Java server because of Bedrock client timed out
+[19:50:14] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Tastiesum disconnected
+[19:50:14] [Server thread/INFO]: .Tastiesum lost connection: Disconnected
+[19:50:14] [Server thread/INFO]: .Tastiesum left the game
+[19:51:20] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Tastiesum
+[19:51:20] [localSession-7-1/INFO]: [Geyser-Spigot] Tastiesum (logged in as: Tastiesum) has connected to the Java server
+[19:51:21] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Tastiesum joined (UUID: 00000000-0000-0000-0009-01f44a72789f)
+[19:51:21] [Server thread/INFO]: .Tastiesum joined the game
+[19:51:21] [Server thread/INFO]: .Tastiesum[/127.0.0.1:0] logged in with entity id 9564 at ([world]158.69999, 59.0, -173.69999)
+[19:51:44] [Server thread/INFO]: MarkieZzZ was slain by .Tastiesum
+[19:51:46] [Server thread/INFO]: .Tastiesum has made the advancement [Getting an Upgrade]
+[19:51:46] [Server thread/INFO]: .Tastiesum has made the advancement [Stone Age]
