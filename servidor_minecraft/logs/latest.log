@@ -279,3 +279,11 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [20:34:12] [Server thread/INFO]: .Tastiesum[/127.0.0.1:0] logged in with entity id 20400 at ([world]284.62112, 76.0, -328.12622)
 [20:35:54] [Server thread/WARN]: .Tastiesum moved wrongly!
 [20:37:17] [Server thread/WARN]: .Tastiesum moved too quickly! 9.05165999999997,-2.0,-4.329530000000005
+[20:43:10] [Server thread/WARN]: .Tastiesum moved wrongly!
+[20:43:11] [Server thread/WARN]: .Tastiesum moved wrongly!
+[20:43:23] [Server thread/WARN]: .Tastiesum moved wrongly!
+[20:43:28] [Server thread/WARN]: .Tastiesum moved wrongly!
+[20:44:18] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Tastiesum has disconnected from the Java server because of Bedrock client disconnected
+[20:44:18] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Tastiesum disconnected
+[20:44:18] [Server thread/INFO]: .Tastiesum lost connection: Disconnected
+[20:44:18] [Server thread/INFO]: .Tastiesum left the game

@@ -824,6 +824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-06-01 20:41:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-06-01 20:34:50 +0000"
@@ -836,15 +842,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-06-01 20:41:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-06-01 20:38:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-06-01 20:41:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-06-01 20:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-06-01 20:43:07 +0000"
     },
     "done": true
   },
