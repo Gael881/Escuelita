@@ -294,3 +294,139 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [22:00:22] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> el agua no llega
 [22:00:24] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> al centro
 [22:00:27] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> q hago
+[22:00:38] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> PASA BALDE
+[22:01:30] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> podemos hacer un area de mineria para mi?
+[22:01:33] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> aja
+[22:01:34] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> meow meow meow meowww
+[22:01:55] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Tastiesum
+[22:01:55] [localSession-7-4/INFO]: [Geyser-Spigot] Tastiesum (logged in as: Tastiesum) has connected to the Java server
+[22:01:55] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Tastiesum joined (UUID: 00000000-0000-0000-0009-01f44a72789f)
+[22:01:55] [Server thread/INFO]: .Tastiesum joined the game
+[22:01:55] [Server thread/INFO]: .Tastiesum[/127.0.0.1:0] logged in with entity id 18245 at ([world]94.30001, -51.0, -186.69999)
+[22:02:16] [Async Chat Thread - #18/INFO]: [Not Secure] <.Tastiesum> hagan tp
+[22:02:27] [Server thread/INFO]: Goj0 issued server command: /tp .Tastiesum Goj0
+[22:02:27] [Server thread/INFO]: [Goj0: Teleported .Tastiesum to Goj0]
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Server thread/WARN]: .Tastiesum moved too quickly! 548.8711145885771,118.0,-758.3517646483683
+[22:02:27] [Async Chat Thread - #18/INFO]: [Not Secure] <.Tastiesum> pasen cp
+[22:02:31] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> ultimo tp
+[22:02:35] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> fuera negra
+[22:02:40] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> ven
+[22:02:41] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> duerme
+[22:02:49] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> pero ven
+[22:02:52] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> ven que no te voy a dar
+[22:02:55] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> tranquilo yo no muerdo
+[22:02:59] [Server thread/INFO]: .Tastiesum has made the advancement [Sweet Dreams]
+[22:03:02] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> tu y yo somos parte del club
+[22:03:05] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> JAJAJA
+[22:03:29] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> dejalo
+[22:03:34] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> no le pegue a la negra
+[22:03:45] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> yo conozco un perro que se llama asi
+[22:03:48] [Server thread/INFO]: .Tastiesum has made the advancement [Cover Me with Diamonds]
+[22:03:52] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> qbueno
+[22:04:49] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> VENGAN LOS 2
+[22:04:56] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> FOTO DEL CLAN AGUA
+[22:05:06] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> voy
+[22:05:10] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> espera
+[22:05:11] [Server thread/INFO]: MarkieZzZ issued server command: /1
+[22:05:17] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> pero traigo a la perra mike?
+[22:05:24] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> DAE¡LE
+[22:05:25] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> es la mascota
+[22:05:27] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> DALE
+[22:05:43] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> JAJAJAJ
+[22:05:49] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> Ichoperro+
+[22:05:50] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> el perro es racista
+[22:05:57] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> le pega al negro
+[22:05:59] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> apenas lo vio
+[22:06:02] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> ichoperro
+[22:06:13] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> mira como lo ve
+[22:06:16] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> le gruñe
+[22:06:16] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> JAHSJADSKJASDJKSDA
+[22:06:22] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> matalo mike
+[22:06:24] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> COMO LO MIRABA
+[22:06:49] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> gio cazemos unos negro
+[22:06:54] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> DONDE
+[22:07:19] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> ERA BAIT
+[22:07:23] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> VEN QUE NO TE VOY A DAR
+[22:07:24] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> mira
+[22:07:26] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> e perdono
+[22:07:32] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> si te bebes mi leche
+[22:07:41] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> toma
+[22:07:48] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> bebela
+[22:07:56] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> good boy
+[22:08:05] [Async Chat Thread - #18/INFO]: [Not Secure] <.Tastiesum> soy tu perra
+[22:08:07] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> good little boy
+[22:09:01] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> gio
+[22:09:04] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> DIME
+[22:09:08] [Server thread/INFO]: MarkieZzZ has made the advancement [Suit Up]
+[22:09:10] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> donde estas
+[22:09:14] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> toma
+[22:09:15] [Async Chat Thread - #18/INFO]: [Not Secure] <MarkieZzZ> en la base
+[22:09:18] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> bebe mi leche
+[22:09:24] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> bebamosla juntos
+[22:09:27] [Async Chat Thread - #18/INFO]: [Not Secure] <Goj0> es el ritual
+[22:09:30] [Async Chat Thread - #20/INFO]: [Not Secure] <MarkieZzZ> icho huele a queso podrio
+[22:09:38] [Async Chat Thread - #20/INFO]: [Not Secure] <Goj0> tiene esmegma
+[22:09:49] [Async Chat Thread - #20/INFO]: [Not Secure] <Goj0> loco
+[22:09:54] [Async Chat Thread - #20/INFO]: [Not Secure] <Goj0> pero cocina en el alto horno
+[22:09:56] [Async Chat Thread - #20/INFO]: [Not Secure] <Goj0> de mi casa
+[22:10:06] [Async Chat Thread - #20/INFO]: [Not Secure] <MarkieZzZ> y en el horno enano

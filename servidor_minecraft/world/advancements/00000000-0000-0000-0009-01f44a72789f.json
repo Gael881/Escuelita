@@ -10,7 +10,8 @@
       "minecraft:beach": "2025-06-01 19:46:07 +0000",
       "minecraft:forest": "2025-06-01 19:56:11 +0000",
       "minecraft:jungle": "2025-06-01 19:46:31 +0000",
-      "minecraft:birch_forest": "2025-06-01 20:34:46 +0000"
+      "minecraft:birch_forest": "2025-06-01 20:34:46 +0000",
+      "minecraft:savanna": "2025-06-01 22:02:28 +0000"
     },
     "done": false
   },
@@ -556,7 +557,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-06-01 20:01:29 +0000"
+      "cooked_porkchop": "2025-06-01 20:01:29 +0000",
+      "apple": "2025-06-01 22:05:57 +0000"
     },
     "done": false
   },
@@ -1433,6 +1435,18 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-01 21:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-06-01 22:03:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-01 22:02:59 +0000"
     },
     "done": true
   },
