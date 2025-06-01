@@ -260,3 +260,22 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [20:31:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Tastiesum joined (UUID: 00000000-0000-0000-0009-01f44a72789f)
 [20:31:51] [Server thread/INFO]: .Tastiesum joined the game
 [20:31:51] [Server thread/INFO]: .Tastiesum[/127.0.0.1:0] logged in with entity id 19688 at ([world]301.69999, 63.0, -307.39124)
+[20:32:56] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> mira
+[20:32:59] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> desconectate
+[20:33:02] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> asi yo duermo
+[20:33:06] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> y te conectas
+[20:33:08] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> cuenta 10
+[20:33:11] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> o te la meto
+[20:33:15] [Async Chat Thread - #6/INFO]: [Not Secure] <.Tastiesum> dl
+[20:33:17] [Server thread/INFO]: Goj0 issued server command: /meteselo a batiqk
+[20:33:18] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Tastiesum disconnected
+[20:33:18] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Tastiesum has disconnected from the Java server because of Bedrock client disconnected
+[20:33:18] [Server thread/INFO]: .Tastiesum lost connection: Disconnected
+[20:33:18] [Server thread/INFO]: .Tastiesum left the game
+[20:34:12] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Tastiesum
+[20:34:12] [localSession-7-1/INFO]: [Geyser-Spigot] Tastiesum (logged in as: Tastiesum) has connected to the Java server
+[20:34:12] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Tastiesum joined (UUID: 00000000-0000-0000-0009-01f44a72789f)
+[20:34:12] [Server thread/INFO]: .Tastiesum joined the game
+[20:34:12] [Server thread/INFO]: .Tastiesum[/127.0.0.1:0] logged in with entity id 20400 at ([world]284.62112, 76.0, -328.12622)
+[20:35:54] [Server thread/WARN]: .Tastiesum moved wrongly!
+[20:37:17] [Server thread/WARN]: .Tastiesum moved too quickly! 9.05165999999997,-2.0,-4.329530000000005
