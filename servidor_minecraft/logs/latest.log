@@ -449,3 +449,5 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [22:20:33] [Server thread/INFO]: MarkieZzZ lost connection: Disconnected
 [22:20:33] [Server thread/INFO]: MarkieZzZ left the game
 [22:35:45] [Server thread/INFO]: Goj0 has made the advancement [A Seedy Place]
+[23:08:55] [Server thread/WARN]: Player Goj0 just tried to change non-editable sign
+[23:11:20] [User Authenticator #3/INFO]: UUID of player Romano2000 is 8428c003-4565-3a99-aa4b-e799c0dda01d
