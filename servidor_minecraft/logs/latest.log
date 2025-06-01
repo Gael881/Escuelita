@@ -144,3 +144,17 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [19:26:52] [User Authenticator #3/INFO]: UUID of player MarkieZzZ is 65f9debc-1d9d-3ea6-945d-cd039c3742c9
 [19:26:53] [Server thread/INFO]: MarkieZzZ joined the game
 [19:26:53] [Server thread/INFO]: MarkieZzZ[/127.168.232.235:53243] logged in with entity id 5397 at ([world]159.757984232699, 59.0, -176.39216440351984)
+[19:36:08] [Server thread/INFO]: MarkieZzZ lost connection: Disconnected
+[19:36:08] [Server thread/INFO]: MarkieZzZ left the game
+[19:36:14] [Server thread/INFO]: Romano2000 lost connection: Disconnected
+[19:36:14] [Server thread/INFO]: Romano2000 left the game
+[19:36:57] [User Authenticator #4/INFO]: UUID of player MarkieZzZ is 65f9debc-1d9d-3ea6-945d-cd039c3742c9
+[19:36:58] [Server thread/INFO]: MarkieZzZ joined the game
+[19:36:58] [Server thread/INFO]: MarkieZzZ[/127.168.232.235:60473] logged in with entity id 8204 at ([world]169.92743436387923, 58.0, -174.30000001192093)
+[19:38:10] [Server thread/INFO]: MarkieZzZ lost connection: Disconnected
+[19:38:10] [Server thread/INFO]: MarkieZzZ left the game
+[19:39:04] [User Authenticator #5/INFO]: UUID of player MarkieZzZ is 65f9debc-1d9d-3ea6-945d-cd039c3742c9
+[19:39:05] [Server thread/INFO]: MarkieZzZ joined the game
+[19:39:05] [Server thread/INFO]: MarkieZzZ[/127.168.232.235:54925] logged in with entity id 8429 at ([world]169.92743436387923, 58.0, -174.30000001192093)
+[19:40:17] [Server thread/INFO]: MarkieZzZ lost connection: Disconnected
+[19:40:17] [Server thread/INFO]: MarkieZzZ left the game
