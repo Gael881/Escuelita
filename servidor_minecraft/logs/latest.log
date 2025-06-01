@@ -161,3 +161,32 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [21:29:40] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Tastiesum has disconnected from the Java server because of Bedrock client timed out
 [21:29:40] [Server thread/INFO]: .Tastiesum lost connection: Disconnected
 [21:29:40] [Server thread/INFO]: .Tastiesum left the game
+[21:31:04] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Tastiesum
+[21:31:04] [localSession-7-1/INFO]: [Geyser-Spigot] Tastiesum (logged in as: Tastiesum) has connected to the Java server
+[21:31:05] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Tastiesum joined (UUID: 00000000-0000-0000-0009-01f44a72789f)
+[21:31:05] [Server thread/INFO]: .Tastiesum joined the game
+[21:31:05] [Server thread/INFO]: .Tastiesum[/127.0.0.1:0] logged in with entity id 7682 at ([world]165.69999, 62.0, -124.96056)
+[21:32:34] [Async Chat Thread - #10/INFO]: [Not Secure] <MarkieZzZ> edgar
+[21:32:37] [Async Chat Thread - #10/INFO]: [Not Secure] <Goj0> q
+[21:32:44] [Async Chat Thread - #10/INFO]: [Not Secure] <MarkieZzZ> quien es ese amigo ideal
+[21:32:52] [Async Chat Thread - #10/INFO]: [Not Secure] <Goj0> JAJAJAJA
+[21:32:53] [Async Chat Thread - #10/INFO]: [Not Secure] <Goj0> maldito
+[21:33:01] [Async Chat Thread - #10/INFO]: [Not Secure] <MarkieZzZ> responde pues
+[21:33:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Goj0> hombre topo
+[21:33:08] [Async Chat Thread - #10/INFO]: [Not Secure] <MarkieZzZ> quien es ese amigo ideal
+[21:33:13] [Async Chat Thread - #10/INFO]: [Not Secure] <Goj0> hombre topo
+[21:33:33] [Async Chat Thread - #10/INFO]: [Not Secure] <MarkieZzZ> su pico te hace disfrutar
+[21:33:39] [Async Chat Thread - #10/INFO]: [Not Secure] <Goj0> el hombre topo ermitaño atrapado en la cueva de bedrock por mil años
+[21:33:57] [Async Chat Thread - #10/INFO]: [Not Secure] <MarkieZzZ> y este tambien se atrapa
+[21:33:59] [Server thread/INFO]: MarkieZzZ has made the advancement [Diamonds!]
+[21:34:48] [Async Chat Thread - #10/INFO]: [Not Secure] <MarkieZzZ> el esqueleto: quien es ese amigo ideal
+[21:35:02] [Async Chat Thread - #10/INFO]: [Not Secure] <Goj0> el esqueleto: eso fue hace bien harto ya
+[21:35:14] [Async Chat Thread - #10/INFO]: [Not Secure] <MarkieZzZ> la caida: wey fluye
+[21:37:15] [Async Chat Thread - #12/INFO]: [Not Secure] <Goj0> gio farmea lana
+[21:37:20] [Async Chat Thread - #12/INFO]: [Not Secure] <Goj0> para camas
+[21:37:45] [Async Chat Thread - #12/INFO]: [Not Secure] <.Tastiesum> horita no estMos pa eso
+[21:37:59] [Async Chat Thread - #12/INFO]: [Not Secure] <MarkieZzZ> estMos: eso fue hace bien harto ya
+[21:39:43] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Tastiesum disconnected
+[21:39:43] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Tastiesum has disconnected from the Java server because of Bedrock client disconnected
+[21:39:43] [Server thread/INFO]: .Tastiesum lost connection: Disconnected
+[21:39:43] [Server thread/INFO]: .Tastiesum left the game
