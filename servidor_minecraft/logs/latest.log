@@ -24,3 +24,56 @@
 [00:17:06] [Async Chat Thread - #34/INFO]: [Not Secure] <Goj0> loco
 [00:17:10] [Async Chat Thread - #34/INFO]: [Not Secure] <Goj0> ahora vas a buscar lava
 [00:17:57] [Async Chat Thread - #34/INFO]: [Not Secure] <Goj0> toma
+[00:18:00] [Async Chat Thread - #34/INFO]: [Not Secure] <Goj0> ve a buscar lava
+[00:18:05] [Async Chat Thread - #34/INFO]: [Not Secure] <Romano2000> njd
+[00:18:08] [Async Chat Thread - #34/INFO]: [Not Secure] <Goj0> bueno
+[00:18:12] [Async Chat Thread - #34/INFO]: [Not Secure] <Goj0> quien te manda de gafo
+[00:18:16] [Async Chat Thread - #34/INFO]: [Not Secure] <Romano2000> yo estuve media hora farmenado piedra
+[00:18:21] [Async Chat Thread - #34/INFO]: [Not Secure] <Goj0> hazlo o te bananeo
+[00:18:32] [Server thread/INFO]: Romano2000 lost connection: Disconnected
+[00:18:32] [Server thread/INFO]: Romano2000 left the game
+[00:20:32] [Server thread/INFO]: Goj0 lost connection: Disconnected
+[00:20:32] [Server thread/INFO]: Goj0 left the game
+[00:20:32] [User Authenticator #2/INFO]: UUID of player Romano2000 is 8428c003-4565-3a99-aa4b-e799c0dda01d
+[00:20:36] [Server thread/INFO]: Romano2000 joined the game
+[00:20:36] [Server thread/INFO]: Romano2000[/127.26.178.57:42145] logged in with entity id 19207 at ([world]686.5176171745103, 64.78074998688697, -888.0797803546529)
+[00:21:04] [Server thread/INFO]: [Not Secure] [Server] roman loco ya voy a apgar el server
+[00:21:09] [Server thread/INFO]: [Not Secure] [Server] salte
+[00:21:10] [Async Chat Thread - #36/INFO]: [Not Secure] <Romano2000> njd loco
+[00:21:27] [Server thread/INFO]: [Not Secure] [Server] loco ya descansa rolitranco de puta
+[00:21:37] [Server thread/INFO]: [Not Secure] [Server] lo apago en 10 seg salte rapido
+[00:21:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+save<--[HERE]
+[00:21:44] [Server thread/INFO]: Romano2000 lost connection: Disconnected
+[00:21:44] [Server thread/INFO]: Romano2000 left the game
+[00:21:47] [Server thread/INFO]: Stopping the server
+[00:21:47] [Server thread/INFO]: Stopping server
+[00:21:47] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
+[00:21:47] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.1-SNAPSHOT
+[00:21:47] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[00:21:47] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[00:21:47] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[00:21:47] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[00:21:47] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[00:21:47] [Server thread/INFO]: Saving players
+[00:21:48] [WebSocketConnectReadThread-87/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[00:21:48] [Server thread/INFO]: Saving worlds
+[00:21:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:21:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:21:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:21:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:21:48] [Server thread/INFO]: [ChunkHolderManager] Saved 79 block chunks, 324 entity chunks, 0 poi chunks in world 'world' in 0.18s
+[00:21:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:21:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:21:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:21:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:21:48] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 26 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[00:21:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:21:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:21:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:21:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:21:48] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[00:21:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:21:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:21:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:21:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
