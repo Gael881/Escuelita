@@ -1,37 +1,37 @@
-[18:54:32] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[18:54:32] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[18:54:32] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:54:32] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[18:54:32] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[19:05:38] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[19:05:38] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[19:05:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:05:38] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[19:05:38] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - Geyser-Spigot (2.7.1-SNAPSHOT), ViaBackwards (5.0.3), ViaVersion (5.3.2), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
-[18:54:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:54:39] [ServerMain/INFO]: Loaded 1290 recipes
-[18:54:40] [ServerMain/INFO]: Loaded 1399 advancements
-[18:54:40] [Server thread/INFO]: Starting minecraft server version 1.21
-[18:54:40] [Server thread/INFO]: Loading properties
-[18:54:40] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[18:54:41] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[18:54:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:54:41] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:54:41] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[18:54:42] [Server thread/INFO]: Default game type: SURVIVAL
-[18:54:42] [Server thread/INFO]: Generating keypair
-[18:54:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:54:42] [Server thread/INFO]: Using epoll channel type
-[18:54:42] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:54:42] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[18:54:42] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
-[18:54:42] [Server thread/WARN]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
-[18:54:42] [Server thread/WARN]: Perhaps a server is already running on that port?
-[18:54:42] [Server thread/ERROR]: Encountered an unexpected exception
+[19:05:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:05:45] [ServerMain/INFO]: Loaded 1290 recipes
+[19:05:45] [ServerMain/INFO]: Loaded 1399 advancements
+[19:05:46] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:05:46] [Server thread/INFO]: Loading properties
+[19:05:46] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[19:05:46] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:05:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:05:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:05:47] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[19:05:48] [Server thread/INFO]: Default game type: SURVIVAL
+[19:05:48] [Server thread/INFO]: Generating keypair
+[19:05:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:05:48] [Server thread/INFO]: Using epoll channel type
+[19:05:48] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:05:48] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[19:05:48] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[19:05:48] [Server thread/WARN]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[19:05:48] [Server thread/WARN]: Perhaps a server is already running on that port?
+[19:05:48] [Server thread/ERROR]: Encountered an unexpected exception
 java.lang.IllegalStateException: Failed to bind to port
 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:286) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
-[18:54:42] [Server thread/ERROR]: This crash report has been saved to: /workspaces/Escuelita/servidor_minecraft/crash-reports/crash-2025-06-01_18.54.42-server.txt
-[18:54:42] [Server thread/INFO]: Stopping server
-[18:54:42] [Server thread/INFO]: Saving players
-[18:54:42] [Server thread/INFO]: Saving worlds
-[18:54:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:05:48] [Server thread/ERROR]: This crash report has been saved to: /workspaces/Escuelita/servidor_minecraft/crash-reports/crash-2025-06-01_19.05.48-server.txt
+[19:05:48] [Server thread/INFO]: Stopping server
+[19:05:48] [Server thread/INFO]: Saving players
+[19:05:48] [Server thread/INFO]: Saving worlds
+[19:05:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
