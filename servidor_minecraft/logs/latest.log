@@ -179,3 +179,19 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [19:51:44] [Server thread/INFO]: MarkieZzZ was slain by .Tastiesum
 [19:51:46] [Server thread/INFO]: .Tastiesum has made the advancement [Getting an Upgrade]
 [19:51:46] [Server thread/INFO]: .Tastiesum has made the advancement [Stone Age]
+[19:52:35] [Server thread/INFO]: .Tastiesum was slain by MarkieZzZ
+[19:53:23] [Server thread/WARN]: .Tastiesum moved wrongly!
+[19:53:25] [Server thread/WARN]: .Tastiesum moved wrongly!
+[19:57:45] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.21.50 - 1.21.51, 1.21.60 - 1.21.62, 1.21.70 - 1.21.73, 1.21.80
+[20:00:01] [User Authenticator #7/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[20:00:03] [Server thread/INFO]: Goj0 joined the game
+[20:00:03] [Server thread/INFO]: Goj0[/127.59.36.252:54333] logged in with entity id 10972 at ([world]687.1836415356659, 67.5, -892.0238611955552)
+[20:00:35] [Server thread/INFO]: Goj0 lost connection: Timed out
+[20:00:35] [Server thread/INFO]: Goj0 left the game
+[20:01:31] [Server thread/INFO]: MarkieZzZ lost connection: Disconnected
+[20:01:31] [Server thread/INFO]: MarkieZzZ left the game
+[20:01:56] [User Authenticator #8/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
+[20:01:58] [Server thread/INFO]: Goj0 joined the game
+[20:01:58] [Server thread/INFO]: Goj0[/127.59.36.252:54655] logged in with entity id 11552 at ([world]687.0162184033496, 67.5, -890.326604485612)
+[20:01:58] [Server thread/WARN]: .Tastiesum moved wrongly!
+[20:02:00] [Server thread/WARN]: .Tastiesum moved wrongly!
