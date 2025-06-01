@@ -287,3 +287,55 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [20:44:18] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Tastiesum disconnected
 [20:44:18] [Server thread/INFO]: .Tastiesum lost connection: Disconnected
 [20:44:18] [Server thread/INFO]: .Tastiesum left the game
+[20:53:26] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username GiovaxGx
+[20:53:26] [localSession-7-2/INFO]: [Geyser-Spigot] GiovaxGx (logged in as: GiovaxGx) has connected to the Java server
+[20:53:26] [Server thread/INFO]: [floodgate] Floodgate player logged in as .GiovaxGx joined (UUID: 00000000-0000-0000-0009-01f4748656ad)
+[20:53:26] [Server thread/INFO]: .GiovaxGx joined the game
+[20:53:26] [Server thread/INFO]: .GiovaxGx[/127.0.0.1:0] logged in with entity id 25959 at ([world]145.5, 64.0, -118.5)
+[20:54:03] [Async Chat Thread - #8/INFO]: [Not Secure] <Goj0> hola batiqk
+[20:54:16] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .GiovaxGx disconnected
+[20:54:16] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] GiovaxGx has disconnected from the Java server because of Bedrock client disconnected
+[20:54:16] [Server thread/INFO]: .GiovaxGx lost connection: Disconnected
+[20:54:16] [Server thread/INFO]: .GiovaxGx left the game
+[20:54:32] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Tastiesum
+[20:54:32] [localSession-7-3/INFO]: [Geyser-Spigot] Tastiesum (logged in as: Tastiesum) has connected to the Java server
+[20:54:32] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Tastiesum joined (UUID: 00000000-0000-0000-0009-01f44a72789f)
+[20:54:32] [Server thread/INFO]: .Tastiesum joined the game
+[20:54:32] [Server thread/INFO]: .Tastiesum[/127.0.0.1:0] logged in with entity id 26298 at ([world]365.30001, 71.0, 8.69999)
+[20:55:07] [Async Chat Thread - #10/INFO]: [Not Secure] <Goj0> gio
+[20:55:19] [Async Chat Thread - #10/INFO]: [Not Secure] <Goj0> te hago un tp timidingo pero tiene que ser un secreto
+[20:55:26] [Async Chat Thread - #10/INFO]: [Not Secure] <Goj0> timidongo*
+[20:57:26] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Tastiesum has disconnected from the Java server because of Bedrock client timed out
+[20:57:26] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Tastiesum disconnected
+[20:57:26] [Server thread/INFO]: .Tastiesum lost connection: Disconnected
+[20:57:26] [Server thread/INFO]: .Tastiesum left the game
+[20:57:36] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username GiovaxGx
+[20:57:36] [localSession-7-4/INFO]: [Geyser-Spigot] GiovaxGx (logged in as: GiovaxGx) has connected to the Java server
+[20:57:36] [Server thread/INFO]: [floodgate] Floodgate player logged in as .GiovaxGx joined (UUID: 00000000-0000-0000-0009-01f4748656ad)
+[20:57:36] [Server thread/INFO]: .GiovaxGx joined the game
+[20:57:36] [Server thread/INFO]: .GiovaxGx[/127.0.0.1:0] logged in with entity id 27314 at ([world]147.4429, 66.0, -130.69999)
+[20:57:41] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Tastiesum
+[20:57:41] [localSession-7-1/INFO]: [Geyser-Spigot] Tastiesum (logged in as: Tastiesum) has connected to the Java server
+[20:57:42] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Tastiesum joined (UUID: 00000000-0000-0000-0009-01f44a72789f)
+[20:57:42] [Server thread/INFO]: .Tastiesum joined the game
+[20:57:42] [Server thread/INFO]: .Tastiesum[/127.0.0.1:0] logged in with entity id 27450 at ([world]367.69999, 71.0, 8.69999)
+[20:58:32] [Server thread/WARN]: .Tastiesum moved wrongly!
+[20:58:34] [Server thread/WARN]: .Tastiesum moved wrongly!
+[20:59:41] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Tastiesum has disconnected from the Java server because of Bedrock client timed out
+[20:59:41] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Tastiesum disconnected
+[20:59:41] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] GiovaxGx has disconnected from the Java server because of Bedrock client timed out
+[20:59:41] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .GiovaxGx disconnected
+[20:59:41] [Server thread/INFO]: .GiovaxGx lost connection: Disconnected
+[20:59:41] [Server thread/INFO]: .GiovaxGx left the game
+[20:59:41] [Server thread/INFO]: .Tastiesum lost connection: Disconnected
+[20:59:41] [Server thread/INFO]: .Tastiesum left the game
+[21:02:15] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Please log into Xbox to join this server.
+[21:02:16] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Tastiesum
+[21:02:16] [localSession-7-2/INFO]: [Geyser-Spigot] Tastiesum (logged in as: Tastiesum) has connected to the Java server
+[21:02:16] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Tastiesum joined (UUID: 00000000-0000-0000-0009-01f44a72789f)
+[21:02:16] [Server thread/INFO]: .Tastiesum joined the game
+[21:02:16] [Server thread/INFO]: .Tastiesum[/127.0.0.1:0] logged in with entity id 28682 at ([world]376.69999, 64.0, 14.69999)
+[21:03:11] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Tastiesum has disconnected from the Java server because of Bedrock client timed out
+[21:03:11] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Tastiesum disconnected
+[21:03:11] [Server thread/INFO]: .Tastiesum lost connection: Disconnected
+[21:03:11] [Server thread/INFO]: .Tastiesum left the game
