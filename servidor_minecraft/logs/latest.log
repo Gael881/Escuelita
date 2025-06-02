@@ -93,3 +93,31 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [15:34:23] [User Authenticator #0/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
 [15:34:26] [Server thread/INFO]: Goj0 joined the game
 [15:34:26] [Server thread/INFO]: Goj0[/127.59.36.252:46775] logged in with entity id 32 at ([world]672.4278938573194, 64.0, -917.4023867692022)
+[16:01:05] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Aftom5782
+[16:01:05] [localSession-7-2/INFO]: [Geyser-Spigot] Aftom5782 (logged in as: Aftom5782) has connected to the Java server
+[16:01:06] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Aftom5782 joined (UUID: 00000000-0000-0000-0009-01f5536f9644)
+[16:01:06] [Server thread/INFO]: .Aftom5782 joined the game
+[16:01:06] [Server thread/INFO]: .Aftom5782[/127.0.0.1:0] logged in with entity id 4588 at ([world]654.7535, 64.0, -921.23236)
+[16:03:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Goj0> tienes madera?
+[16:03:56] [Async Chat Thread - #0/INFO]: [Not Secure] <.Aftom5782> ahorita nou
+[16:04:04] [Async Chat Thread - #0/INFO]: [Not Secure] <Goj0> duerme
+[16:05:54] [Async Chat Thread - #2/INFO]: [Not Secure] <Goj0> Q Duermas
+[16:06:04] [Async Chat Thread - #2/INFO]: [Not Secure] <Goj0> o te bananeo
+[16:06:08] [Async Chat Thread - #2/INFO]: [Not Secure] <.Aftom5782> no tebgo cama mano
+[16:06:12] [Async Chat Thread - #2/INFO]: [Not Secure] <Goj0> ven a la aldea
+[16:08:30] [Async Chat Thread - #4/INFO]: [Not Secure] <Goj0> mira
+[16:08:39] [Async Chat Thread - #4/INFO]: [Not Secure] <.Aftom5782> que paso
+[16:08:44] [Async Chat Thread - #4/INFO]: [Not Secure] <Goj0> hay q zombificar a el aldeano de armadura
+[16:08:55] [Async Chat Thread - #4/INFO]: [Not Secure] <Goj0> para q nos deje hierro a 1
+[16:09:17] [Async Chat Thread - #4/INFO]: [Not Secure] <.Aftom5782> tu crees que lo infecte a la primera?
+[16:09:22] [Async Chat Thread - #4/INFO]: [Not Secure] <Goj0> con suerte
+[16:11:15] [Async Chat Thread - #6/INFO]: [Not Secure] <.Aftom5782> y no estaban haciendo una granja de hierro?
+[16:11:21] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> ya esta hecha
+[16:11:26] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> pero voy a buscar otra aldea
+[16:11:29] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> hago un rail
+[16:11:33] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> y los traigo
+[16:11:33] [Async Chat Thread - #6/INFO]: [Not Secure] <.Aftom5782> ok
+[16:11:43] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> y hago una granja de hierro full
+[16:11:50] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> y todos que sean con altos hornos
+[16:11:53] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> asi farmeamos full
+[16:12:00] [Server thread/INFO]: Goj0 issued server command: /seed
