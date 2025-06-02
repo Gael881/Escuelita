@@ -3284,5 +3284,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-02 19:59:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
