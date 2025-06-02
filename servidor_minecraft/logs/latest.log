@@ -251,3 +251,15 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [16:59:46] [Server thread/WARN]: Acacia Boat (vehicle of Goj0) moved wrongly! 0.927077403228111
 [17:03:21] [Server thread/INFO]: Romano2000 lost connection: Disconnected
 [17:03:21] [Server thread/INFO]: Romano2000 left the game
+[17:08:22] [Server thread/WARN]: .Aftom5782 moved wrongly!
+[17:09:25] [Async Chat Thread - #32/INFO]: [Not Secure] <Goj0> mira
+[17:09:32] [Async Chat Thread - #32/INFO]: [Not Secure] <.Aftom5782> que paso
+[17:09:38] [Async Chat Thread - #32/INFO]: [Not Secure] <Goj0> ayudame a llevar aldeanos en eun botesito y los dejamos en los railes
+[17:09:46] [Async Chat Thread - #32/INFO]: [Not Secure] <Goj0> y se encierran
+[17:09:55] [Async Chat Thread - #32/INFO]: [Not Secure] <Goj0> con cuantos se reproducen?
+[17:10:15] [Async Chat Thread - #32/INFO]: [Not Secure] <.Aftom5782> con dos y les das zanahorias
+[17:10:24] [Async Chat Thread - #32/INFO]: [Not Secure] <Goj0> el pan funciona tmb
+[17:13:12] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Aftom5782 has disconnected from the Java server because of Bedrock client timed out
+[17:13:12] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Aftom5782 disconnected
+[17:13:12] [Server thread/INFO]: .Aftom5782 lost connection: Disconnected
+[17:13:12] [Server thread/INFO]: .Aftom5782 left the game
