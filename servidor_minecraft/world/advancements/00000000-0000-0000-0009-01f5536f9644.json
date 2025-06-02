@@ -698,6 +698,7 @@
       "minecraft:pillager": "2025-05-31 19:01:54 +0000",
       "minecraft:cave_spider": "2025-05-31 19:49:39 +0000",
       "minecraft:skeleton": "2025-05-31 19:14:30 +0000",
+      "minecraft:piglin": "2025-06-02 16:22:58 +0000",
       "minecraft:breeze": "2025-05-31 21:22:08 +0000",
       "minecraft:zombified_piglin": "2025-06-02 16:02:55 +0000",
       "minecraft:silverfish": "2025-05-31 20:16:07 +0000",
@@ -2027,6 +2028,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-06-01 18:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-02 16:27:44 +0000"
     },
     "done": true
   },
