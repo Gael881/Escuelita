@@ -2043,6 +2043,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-02 16:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-06-02 16:41:17 +0000"
@@ -2070,6 +2076,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-06-02 16:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:bolt_armor_trim_smithing_template_smithing_trim": "2025-06-02 16:45:57 +0000"
     },
     "done": true
   },
