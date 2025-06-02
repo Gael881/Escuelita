@@ -1251,6 +1251,7 @@
       "cooked_chicken": "2025-06-01 22:02:26 +0000",
       "rotten_flesh": "2025-06-02 18:33:08 +0000",
       "cooked_beef": "2025-06-02 19:48:43 +0000",
+      "chorus_fruit": "2025-06-02 22:00:33 +0000",
       "porkchop": "2025-06-02 18:46:39 +0000"
     },
     "done": false
@@ -1886,6 +1887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-06-02 22:00:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/kill_dragon": {
     "criteria": {
       "killed_dragon": "2025-06-02 21:38:13 +0000"
@@ -1895,6 +1902,24 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-06-02 21:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-06-02 22:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-06-02 22:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-06-02 22:02:17 +0000"
     },
     "done": true
   },

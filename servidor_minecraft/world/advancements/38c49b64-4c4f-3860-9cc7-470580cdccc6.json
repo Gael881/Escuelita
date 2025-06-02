@@ -444,6 +444,7 @@
       "glow_berries": "2025-05-31 20:47:48 +0000",
       "salmon": "2025-05-30 01:11:21 +0000",
       "cooked_beef": "2025-05-31 22:13:23 +0000",
+      "chorus_fruit": "2025-06-02 22:07:59 +0000",
       "baked_potato": "2025-06-02 21:17:57 +0000",
       "porkchop": "2025-05-30 01:10:18 +0000",
       "cooked_chicken": "2025-05-31 21:42:39 +0000",
@@ -2552,6 +2553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-06-02 22:07:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-06-02 20:42:55 +0000"
@@ -2645,6 +2652,18 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-02 20:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-06-02 22:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-06-02 21:52:51 +0000"
     },
     "done": true
   },
