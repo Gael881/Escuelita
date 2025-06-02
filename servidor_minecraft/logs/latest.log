@@ -956,3 +956,30 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [21:01:36] [Server thread/INFO]: Goj0 issued server command: /tp Romano2000 Goj0
 [21:01:36] [Server thread/INFO]: [Goj0: Teleported Romano2000 to Goj0]
 [21:02:06] [Server thread/INFO]: Goj0 was slain by Romano2000
+[21:02:09] [Async Chat Thread - #100/INFO]: [Not Secure] <Goj0> q te pasa
+[21:02:13] [Server thread/INFO]: Goj0 issued server command: /tp Goj0 Romano2000
+[21:02:13] [Server thread/INFO]: [Goj0: Teleported Goj0 to Romano2000]
+[21:03:23] [Async Chat Thread - #102/INFO]: [Not Secure] <Romano2000> dame 100 niveles de xp
+[21:03:34] [Async Chat Thread - #102/INFO]: [Not Secure] <Goj0> no
+[21:03:36] [Async Chat Thread - #102/INFO]: [Not Secure] <Goj0> xq
+[21:03:48] [Async Chat Thread - #102/INFO]: [Not Secure] <Romano2000> dale
+[21:06:17] [User Authenticator #10/INFO]: UUID of player MarkieZzZ is 65f9debc-1d9d-3ea6-945d-cd039c3742c9
+[21:06:18] [Server thread/INFO]: MarkieZzZ joined the game
+[21:06:18] [Server thread/INFO]: MarkieZzZ[/127.195.227.130:34601] logged in with entity id 59729 at ([world]645.4408321805896, 64.0, -924.3494644750903)
+[21:06:23] [Async Chat Thread - #104/INFO]: [Not Secure] <Romano2000> hablame
+[21:06:30] [Async Chat Thread - #104/INFO]: [Not Secure] <MarkieZzZ> holap
+[21:06:40] [Async Chat Thread - #104/INFO]: [Not Secure] <Romano2000> ya encontramos el portal del end
+[21:06:50] [Async Chat Thread - #104/INFO]: [Not Secure] <Romano2000> tienes las 8 enderpearl?
+[21:08:17] [Async Chat Thread - #106/INFO]: [Not Secure] <Goj0> tienes comida?
+[21:10:41] [Server thread/INFO]: Goj0 was slain by Romano2000
+[21:10:58] [Server thread/INFO]: Goj0 issued server command: /kill Romano2000
+[21:10:58] [Server thread/INFO]: Romano2000 was killed
+[21:10:58] [Server thread/INFO]: [Goj0: Killed Romano2000]
+[21:11:04] [Async Chat Thread - #108/INFO]: [Not Secure] <Romano2000> BRO
+[21:11:12] [Async Chat Thread - #108/INFO]: [Not Secure] <Romano2000> tp
+[21:11:19] [Server thread/INFO]: Goj0 issued server command: /tp Romano2000 Goj0
+[21:11:19] [Server thread/INFO]: [Goj0: Teleported Romano2000 to Goj0]
+[21:11:41] [Async Chat Thread - #108/INFO]: [Not Secure] <Goj0> mira
+[21:11:52] [Async Chat Thread - #108/INFO]: [Not Secure] <Goj0> gio se quiere conseguir netherite para despues matar el dragon
+[21:12:02] [Async Chat Thread - #108/INFO]: [Not Secure] <Romano2000> Dale
+[21:12:14] [Async Chat Thread - #108/INFO]: [Not Secure] <Goj0> chamo asi mismo lc k ladila
