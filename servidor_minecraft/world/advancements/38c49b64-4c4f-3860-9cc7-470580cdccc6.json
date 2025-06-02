@@ -381,12 +381,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-02 01:07:08 +0000",
       "minecraft:cave_spider": "2025-05-30 20:40:42 +0000",
       "minecraft:skeleton": "2025-05-30 20:09:47 +0000",
       "minecraft:spider": "2025-05-30 01:09:24 +0000",
       "minecraft:zombie": "2025-05-30 20:15:10 +0000",
       "minecraft:creeper": "2025-05-30 20:24:28 +0000",
-      "minecraft:drowned": "2025-05-31 22:14:15 +0000"
+      "minecraft:drowned": "2025-05-31 22:14:15 +0000",
+      "minecraft:ravager": "2025-06-02 01:08:55 +0000"
     },
     "done": false
   },

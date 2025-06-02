@@ -1056,17 +1056,19 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:cave_spider": "2025-05-31 19:33:15 +0000",
+      "minecraft:pillager": "2025-06-02 01:07:04 +0000",
       "minecraft:skeleton": "2025-05-31 19:06:48 +0000",
-      "minecraft:breeze": "2025-05-31 20:04:09 +0000",
       "minecraft:zombified_piglin": "2025-06-01 19:00:40 +0000",
+      "minecraft:hoglin": "2025-06-02 00:25:16 +0000",
+      "minecraft:cave_spider": "2025-05-31 19:33:15 +0000",
+      "minecraft:breeze": "2025-05-31 20:04:09 +0000",
+      "minecraft:vindicator": "2025-06-02 01:07:50 +0000",
       "minecraft:silverfish": "2025-05-31 20:16:14 +0000",
       "minecraft:stray": "2025-05-31 20:04:15 +0000",
       "minecraft:enderman": "2025-05-31 22:42:12 +0000",
       "minecraft:spider": "2025-05-31 19:11:51 +0000",
       "minecraft:zombie": "2025-05-31 19:07:36 +0000",
-      "minecraft:creeper": "2025-05-31 19:07:15 +0000",
-      "minecraft:hoglin": "2025-06-02 00:25:16 +0000"
+      "minecraft:creeper": "2025-05-31 19:07:15 +0000"
     },
     "done": false
   },
@@ -2952,6 +2954,18 @@
   "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
       "has_log": "2025-06-02 00:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-02 01:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-02 01:10:00 +0000"
     },
     "done": true
   },
