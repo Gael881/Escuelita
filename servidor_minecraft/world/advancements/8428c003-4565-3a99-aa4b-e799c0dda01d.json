@@ -1060,6 +1060,7 @@
       "minecraft:pillager": "2025-06-02 01:07:04 +0000",
       "minecraft:skeleton": "2025-05-31 19:06:48 +0000",
       "minecraft:zombified_piglin": "2025-06-01 19:00:40 +0000",
+      "minecraft:ravager": "2025-06-02 16:40:21 +0000",
       "minecraft:hoglin": "2025-06-02 00:25:16 +0000",
       "minecraft:cave_spider": "2025-05-31 19:33:15 +0000",
       "minecraft:breeze": "2025-05-31 20:04:09 +0000",
@@ -2973,6 +2974,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-06-02 01:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-02 16:32:34 +0000"
     },
     "done": true
   },
