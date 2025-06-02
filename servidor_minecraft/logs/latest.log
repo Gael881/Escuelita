@@ -443,3 +443,75 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [19:30:17] [Async Chat Thread - #51/INFO]: [Not Secure] <Romano2000> pon en pacifico
 [19:30:26] [Async Chat Thread - #51/INFO]: [Not Secure] <Goj0> no puedo
 [19:30:35] [Async Chat Thread - #52/INFO]: [Not Secure] <Romano2000> cñsm
+[19:30:40] [Server thread/INFO]: Goj0 was slain by Hoglin
+[19:31:03] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> ahi lo intente
+[19:31:05] [Server thread/INFO]: Goj0 was doomed to fall by Creeper
+[19:31:12] [Async Chat Thread - #53/INFO]: [Not Secure] <Romano2000> voy a entrar por bedrock
+[19:31:24] [Async Chat Thread - #53/INFO]: [Not Secure] <Romano2000> en mi cel
+[19:31:27] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> dale
+[19:31:28] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> salte pe
+[19:31:38] [Async Chat Thread - #53/INFO]: [Not Secure] <Romano2000> pa que
+[19:31:50] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> salte en la de roman y entras en la otra no?
+[19:31:55] [Server thread/INFO]: Goj0 issued server command: /kick Romano2000
+[19:31:55] [Server thread/INFO]: Romano2000 lost connection: Kicked by an operator
+[19:31:55] [Server thread/INFO]: Romano2000 left the game
+[19:31:55] [Server thread/INFO]: [Goj0: Kicked Romano2000: Kicked by an operator]
+[19:32:00] [Server thread/INFO]: Goj0 issued server command: /gamemode creative
+[19:32:00] [Server thread/INFO]: [Goj0: Set own game mode to Creative Mode]
+[19:32:01] [User Authenticator #5/INFO]: UUID of player Romano2000 is 8428c003-4565-3a99-aa4b-e799c0dda01d
+[19:32:06] [Server thread/INFO]: Romano2000 joined the game
+[19:32:06] [Server thread/INFO]: Romano2000[/127.26.178.57:39405] logged in with entity id 33844 at ([world_nether]475.30000001192093, 40.0, 457.30000001192093)
+[19:32:12] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> te ayude
+[19:32:25] [Async Chat Thread - #53/INFO]: [Not Secure] <Romano2000> Se me salio
+[19:32:32] [Async Chat Thread - #53/INFO]: [Not Secure] <Romano2000> estoy la laptop
+[19:32:43] [Async Chat Thread - #53/INFO]: [Not Secure] <Romano2000> y juego en el cel
+[19:33:05] [Async Chat Thread - #53/INFO]: [Not Secure] <Romano2000> me hiciste /kick desgraciao
+[19:33:20] [Async Chat Thread - #53/INFO]: [Not Secure] <Romano2000> ayudame dando comida
+[19:33:21] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> roman loca
+[19:33:24] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> perdi todo
+[19:33:29] [Async Chat Thread - #53/INFO]: [Not Secure] <Romano2000> nwbn
+[19:33:34] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> bueno
+[19:33:45] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> ahora me quiero pasar el juego
+[19:33:48] [Async Chat Thread - #53/INFO]: [Not Secure] <Romano2000> te doy 30 diamantes despues
+[19:33:52] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> y salirme
+[19:33:57] [Server thread/INFO]: Goj0 issued server command: /kill
+[19:33:57] [Server thread/INFO]: Goj0 was killed
+[19:33:57] [Server thread/INFO]: [Goj0: Killed Goj0]
+[19:34:15] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> tengo 5 enderpearls y tu
+[19:34:21] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> respondeme en 5
+[19:34:21] [Async Chat Thread - #53/INFO]: [Not Secure] <Romano2000> 4
+[19:34:23] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> o te kickeo
+[19:34:25] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> buena
+[19:34:27] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> aja
+[19:34:32] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> farmea 5 mas pue
+[19:34:36] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> ya yo no entro al nether
+[19:34:41] [Async Chat Thread - #53/INFO]: [Not Secure] <Romano2000> tengo medio cora pndj
+[19:34:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/gamemode spectator Romano2000<--[HERE]
+[19:35:08] [Server thread/INFO]: Goj0 issued server command: /gamemode spectator Romano2000
+[19:35:08] [Server thread/INFO]: [Goj0: Set Romano2000's game mode to Spectator Mode]
+[19:35:14] [Async Chat Thread - #53/INFO]: [Not Secure] <Romano2000> que
+[19:35:18] [Server thread/INFO]: Goj0 issued server command: /gamemode adventure
+[19:35:18] [Server thread/INFO]: [Goj0: Set own game mode to Adventure Mode]
+[19:35:28] [Async Chat Thread - #53/INFO]: [Not Secure] <Goj0> ahora mejor juego en modo aventura
+[19:35:39] [Async Chat Thread - #53/INFO]: [Not Secure] <Romano2000> ponme en survival
+[19:35:48] [Async Chat Thread - #53/INFO]: [Not Secure] <Romano2000> me pusiste en espectador
+[19:36:16] [Server thread/INFO]: Goj0 issued server command: /gamemode survival
+[19:36:16] [Server thread/INFO]: [Goj0: Set own game mode to Survival Mode]
+[19:36:20] [Server thread/INFO]: Goj0 issued server command: /gamemode survival Romano2000
+[19:36:20] [Server thread/INFO]: [Goj0: Set Romano2000's game mode to Survival Mode]
+[19:36:51] [Async Chat Thread - #54/INFO]: [Not Secure] <Romano2000> ay vhamo
+[19:36:58] [User Authenticator #6/INFO]: UUID of player SarahZzZ is 5d9c8b1a-1393-34c6-9380-a3665cfde7d5
+[19:37:01] [Server thread/INFO]: SarahZzZ joined the game
+[19:37:01] [Server thread/INFO]: SarahZzZ[/127.195.227.130:44557] logged in with entity id 35155 at ([world]143.5, 64.0, -121.5)
+[19:37:02] [Async Chat Thread - #54/INFO]: [Not Secure] <Romano2000> volvi al overworld
+[19:38:15] [User Authenticator #7/INFO]: UUID of player MarkieZzZ is 65f9debc-1d9d-3ea6-945d-cd039c3742c9
+[19:38:16] [Server thread/INFO]: MarkieZzZ joined the game
+[19:38:16] [Server thread/INFO]: MarkieZzZ[/127.195.227.130:35301] logged in with entity id 35723 at ([world]948.3683660558017, 63.0, -950.7964155115267)
+[19:38:24] [Async Chat Thread - #56/INFO]: [Not Secure] <Romano2000> hablame gio
+[19:38:26] [Async Chat Thread - #56/INFO]: [Not Secure] <MarkieZzZ> AHI ENTRO MI PRIMA
+[19:38:32] [Async Chat Thread - #56/INFO]: [Not Secure] <Romano2000> aaah
+[19:39:12] [Async Chat Thread - #56/INFO]: [Not Secure] <Romano2000> en 670 -900 esta la base
+[19:39:56] [Async Chat Thread - #56/INFO]: [Not Secure] <Romano2000> EDGAR
+[19:40:02] [Async Chat Thread - #56/INFO]: [Not Secure] <MarkieZzZ> ROMAN COMO PONGO LAS COORDS EN PC Q NO ME AGARRA EL F3
+[19:40:14] [Async Chat Thread - #56/INFO]: [Not Secure] <Romano2000> pulsa Fn y F3
