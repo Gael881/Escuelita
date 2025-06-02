@@ -12,6 +12,7 @@
       "minecraft:forest": "2025-06-01 19:56:32 +0000",
       "minecraft:jungle": "2025-06-01 19:15:02 +0000",
       "minecraft:river": "2025-06-01 21:48:34 +0000",
+      "minecraft:dripstone_caves": "2025-06-02 18:32:46 +0000",
       "minecraft:savanna": "2025-06-01 21:41:54 +0000",
       "minecraft:plains": "2025-06-01 21:50:47 +0000"
     },
@@ -1242,7 +1243,8 @@
     "criteria": {
       "cooked_porkchop": "2025-06-01 21:43:58 +0000",
       "chicken": "2025-06-01 21:58:18 +0000",
-      "cooked_chicken": "2025-06-01 22:02:26 +0000"
+      "cooked_chicken": "2025-06-01 22:02:26 +0000",
+      "rotten_flesh": "2025-06-02 18:33:08 +0000"
     },
     "done": false
   },
@@ -1537,6 +1539,42 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-06-02 18:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-02 18:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-02 18:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-02 18:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-02 18:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-02 18:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-02 18:26:24 +0000"
     },
     "done": true
   },
