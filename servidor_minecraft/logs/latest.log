@@ -867,3 +867,32 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [20:41:33] [Async Chat Thread - #84/INFO]: [Not Secure] <Romano2000> aqui hay otra
 [20:41:42] [Async Chat Thread - #84/INFO]: [Not Secure] <Goj0> guarda cors
 [20:41:45] [Async Chat Thread - #84/INFO]: [Not Secure] <Goj0> primero la mia
+[20:43:21] [Async Chat Thread - #86/INFO]: [Not Secure] <Goj0> llama a gio
+[20:43:48] [Server thread/INFO]: Goj0 issued server command: /tp Goj0 Romano2000
+[20:43:48] [Server thread/INFO]: [Goj0: Teleported Goj0 to Romano2000]
+[20:44:55] [Server thread/INFO]: Goj0 issued server command: /tp Goj0 Romano2000
+[20:44:55] [Server thread/INFO]: [Goj0: Teleported Goj0 to Romano2000]
+[20:47:58] [Server thread/INFO]: Goj0 issued server command: /tp Goj0 Romano2000}
+[20:48:00] [Server thread/INFO]: Goj0 issued server command: /tp Goj0 Romano2000
+[20:48:00] [Server thread/INFO]: [Goj0: Teleported Goj0 to Romano2000]
+[20:48:03] [Async Chat Thread - #88/INFO]: [Not Secure] <Romano2000> vamonos a la base
+[20:48:05] [Server thread/INFO]: Goj0 was slain by Romano2000
+[20:48:07] [Server thread/INFO]: Goj0 issued server command: /tp Goj0 Romano2000
+[20:48:07] [Server thread/INFO]: [Goj0: Teleported Goj0 to Romano2000]
+[20:48:11] [Server thread/INFO]: Goj0 issued server command: /kill Romano2000
+[20:48:11] [Server thread/INFO]: Romano2000 was killed
+[20:48:11] [Server thread/INFO]: [Goj0: Killed Romano2000]
+[20:48:44] [Async Chat Thread - #88/INFO]: [Not Secure] <Romano2000> tp
+[20:49:14] [Server thread/INFO]: Romano2000 was slain by Pufferfish
+[20:49:47] [Server thread/INFO]: Romano2000 drowned
+[20:50:04] [Server thread/INFO]: Goj0 issued server command: /tp Romano2000 go
+[20:50:06] [Server thread/INFO]: Goj0 issued server command: /tp Romano2000 Goj0
+[20:50:06] [Server thread/INFO]: [Goj0: Teleported Romano2000 to Goj0]
+[20:50:47] [Async Chat Thread - #90/INFO]: [Not Secure] <Goj0> aver
+[20:50:48] [Async Chat Thread - #90/INFO]: [Not Secure] <Goj0> dame
+[20:50:51] [Async Chat Thread - #90/INFO]: [Not Secure] <Romano2000> tp a casa
+[20:51:25] [Server thread/INFO]: Goj0 issued server command: /tp 900 -870
+[20:51:35] [Server thread/INFO]: Goj0 issued server command: /tp 900 -870
+[20:51:41] [Server thread/INFO]: Goj0 issued server command: /tp Goj0 900 -870
+[20:51:45] [Async Chat Thread - #90/INFO]: [Not Secure] <Romano2000> 310 630
+[20:51:54] [Server thread/INFO]: Goj0 issued server command: /tp 310 630
