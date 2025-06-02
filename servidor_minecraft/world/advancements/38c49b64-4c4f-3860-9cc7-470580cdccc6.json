@@ -384,11 +384,13 @@
       "minecraft:pillager": "2025-06-02 01:07:08 +0000",
       "minecraft:cave_spider": "2025-05-30 20:40:42 +0000",
       "minecraft:skeleton": "2025-05-30 20:09:47 +0000",
+      "minecraft:piglin": "2025-06-02 19:20:56 +0000",
       "minecraft:spider": "2025-05-30 01:09:24 +0000",
       "minecraft:zombie": "2025-05-30 20:15:10 +0000",
       "minecraft:creeper": "2025-05-30 20:24:28 +0000",
       "minecraft:drowned": "2025-05-31 22:14:15 +0000",
-      "minecraft:ravager": "2025-06-02 01:08:55 +0000"
+      "minecraft:ravager": "2025-06-02 01:08:55 +0000",
+      "minecraft:hoglin": "2025-06-02 19:24:31 +0000"
     },
     "done": false
   },
@@ -2410,6 +2412,43 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-06-02 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-02 19:21:39 +0000",
+      "minecraft:nether_wastes": "2025-06-02 19:20:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-02 19:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-02 19:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-02 19:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-02 19:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-02 19:24:57 +0000"
     },
     "done": true
   },
