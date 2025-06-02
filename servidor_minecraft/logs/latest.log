@@ -121,3 +121,37 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [16:11:50] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> y todos que sean con altos hornos
 [16:11:53] [Async Chat Thread - #6/INFO]: [Not Secure] <Goj0> asi farmeamos full
 [16:12:00] [Server thread/INFO]: Goj0 issued server command: /seed
+[16:14:17] [Async Chat Thread - #8/INFO]: [Not Secure] <Goj0> 1232 -544
+[16:14:22] [Async Chat Thread - #8/INFO]: [Not Secure] <Goj0> ya la encontre
+[16:14:30] [Async Chat Thread - #8/INFO]: [Not Secure] <.Aftom5782> que bien
+[16:14:36] [Async Chat Thread - #8/INFO]: [Not Secure] <.Aftom5782> tiene herreria?
+[16:14:41] [Async Chat Thread - #8/INFO]: [Not Secure] <Goj0> q seyo
+[16:14:42] [Async Chat Thread - #8/INFO]: [Not Secure] <Goj0> mira
+[16:14:46] [Async Chat Thread - #8/INFO]: [Not Secure] <Goj0> tienes oro
+[16:14:48] [Async Chat Thread - #8/INFO]: [Not Secure] <Goj0> o redstone
+[16:14:53] [Async Chat Thread - #8/INFO]: [Not Secure] <Goj0> para los railes
+[16:15:04] [Async Chat Thread - #8/INFO]: [Not Secure] <.Aftom5782> tebgo 18 de oro
+[16:15:11] [Async Chat Thread - #8/INFO]: [Not Secure] <Goj0> sirve
+[16:15:18] [Async Chat Thread - #8/INFO]: [Not Secure] <.Aftom5782> voy a la aldea
+[16:16:42] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Aftom5782 has disconnected from the Java server because of Bedrock client timed out
+[16:16:42] [Server thread/INFO]: .Aftom5782 lost connection: Disconnected
+[16:16:42] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Aftom5782 disconnected
+[16:16:42] [Server thread/INFO]: .Aftom5782 left the game
+[16:17:04] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Aftom5782
+[16:17:04] [localSession-7-3/INFO]: [Geyser-Spigot] Aftom5782 (logged in as: Aftom5782) has connected to the Java server
+[16:17:04] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Aftom5782 joined (UUID: 00000000-0000-0000-0009-01f5536f9644)
+[16:17:04] [Server thread/INFO]: .Aftom5782 joined the game
+[16:17:04] [Server thread/INFO]: .Aftom5782[/127.0.0.1:0] logged in with entity id 7980 at ([world]986.09644, 64.8461079954834, -964.6328)
+[16:17:34] [Async Chat Thread - #10/INFO]: [Not Secure] <Goj0> mira
+[16:17:37] [Async Chat Thread - #10/INFO]: [Not Secure] <Goj0> donde andas
+[16:17:41] [Async Chat Thread - #11/INFO]: [Not Secure] <Goj0> necesito redstone
+[16:17:46] [Async Chat Thread - #11/INFO]: [Not Secure] <.Aftom5782> camino a la aldea
+[16:18:46] [Async Chat Thread - #12/INFO]: [Not Secure] <.Aftom5782> le recuerdas las coords?
+[16:18:56] [Async Chat Thread - #12/INFO]: [Not Secure] <Goj0> 646 -931
+[16:19:10] [Async Chat Thread - #12/INFO]: [Not Secure] <.Aftom5782> no pero de la aldea
+[16:19:16] [Async Chat Thread - #13/INFO]: [Not Secure] <Goj0> son esas
+[16:21:37] [Async Chat Thread - #14/INFO]: [Not Secure] <Goj0> apura
+[16:21:42] [Async Chat Thread - #14/INFO]: [Not Secure] <Goj0> no tienes una cama?
+[16:21:52] [Async Chat Thread - #14/INFO]: [Not Secure] <Goj0> duerme
+[16:22:33] [Async Chat Thread - #14/INFO]: [Not Secure] <Goj0> mira
+[16:22:37] [Async Chat Thread - #14/INFO]: [Not Secure] <Goj0> donde hago la otra aldea
