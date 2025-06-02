@@ -1065,7 +1065,8 @@
       "minecraft:enderman": "2025-05-31 22:42:12 +0000",
       "minecraft:spider": "2025-05-31 19:11:51 +0000",
       "minecraft:zombie": "2025-05-31 19:07:36 +0000",
-      "minecraft:creeper": "2025-05-31 19:07:15 +0000"
+      "minecraft:creeper": "2025-05-31 19:07:15 +0000",
+      "minecraft:hoglin": "2025-06-02 00:25:16 +0000"
     },
     "done": false
   },
@@ -2918,6 +2919,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-02 00:24:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-01 23:49:47 +0000"
@@ -2927,6 +2934,24 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-06-01 23:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-02 00:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-06-02 00:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-06-02 00:24:27 +0000"
     },
     "done": true
   },
