@@ -263,3 +263,14 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [17:13:12] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Aftom5782 disconnected
 [17:13:12] [Server thread/INFO]: .Aftom5782 lost connection: Disconnected
 [17:13:12] [Server thread/INFO]: .Aftom5782 left the game
+[17:17:59] [User Authenticator #4/INFO]: UUID of player Romano2000 is 8428c003-4565-3a99-aa4b-e799c0dda01d
+[17:18:03] [Server thread/INFO]: Romano2000 joined the game
+[17:18:03] [Server thread/INFO]: Romano2000[/127.26.178.57:50709] logged in with entity id 27723 at ([world_nether]26.55506875567534, 85.0, -169.90200190808864)
+[17:18:16] [Server thread/INFO]: Romano2000 lost connection: Disconnected
+[17:18:16] [Server thread/INFO]: Romano2000 left the game
+[17:18:17] [User Authenticator #4/INFO]: UUID of player Romano2000 is 8428c003-4565-3a99-aa4b-e799c0dda01d
+[17:18:21] [Server thread/INFO]: Romano2000 joined the game
+[17:18:21] [Server thread/INFO]: Romano2000[/127.26.178.57:34595] logged in with entity id 27855 at ([world_nether]26.55506875567534, 85.0, -169.90200190808864)
+[17:19:07] [Server thread/INFO]: Romano2000 has made the advancement [Oh Shiny]
+[17:21:47] [Server thread/INFO]: Romano2000 issued server command: /seed
+[17:22:50] [Server thread/INFO]: Villager Villager['Nitwit'/10272, uuid='15580b9b-fb31-4b23-84c4-e468e31600fc', l='ServerLevel[world_nether]', x=82.82, y=100.00, z=-94.31, cpos=[5, -6], tl=170272, v=true] died, message: 'Nitwit was slain by Romano2000'
