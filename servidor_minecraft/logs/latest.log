@@ -100,3 +100,30 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [17:48:54] [User Authenticator #1/INFO]: UUID of player Goj0 is 38c49b64-4c4f-3860-9cc7-470580cdccc6
 [17:48:56] [Server thread/INFO]: Goj0 joined the game
 [17:48:56] [Server thread/INFO]: Goj0[/127.164.147.19:44079] logged in with entity id 3001 at ([world]675.3000000119209, 64.0, -915.3616775134542)
+[17:49:20] [Async Chat Thread - #0/INFO]: [Not Secure] <Goj0> ola
+[17:49:31] [Async Chat Thread - #0/INFO]: [Not Secure] <Goj0> roman
+[17:49:32] [Async Chat Thread - #0/INFO]: [Not Secure] <Romano2000> ola
+[17:49:38] [Async Chat Thread - #0/INFO]: [Not Secure] <Goj0> ayudame a traer aldeanos
+[17:49:44] [Async Chat Thread - #0/INFO]: [Not Secure] <Goj0> ven
+[17:50:53] [Async Chat Thread - #2/INFO]: [Not Secure] <Goj0> q me robaste
+[17:50:57] [Async Chat Thread - #2/INFO]: [Not Secure] <Romano2000> un cubo
+[17:51:14] [Async Chat Thread - #2/INFO]: [Not Secure] <Goj0> mira
+[17:51:18] [Async Chat Thread - #2/INFO]: [Not Secure] <Goj0> revisa si no tienes mi pico
+[17:51:21] [Async Chat Thread - #2/INFO]: [Not Secure] <Goj0> lo solte creo
+[17:51:27] [Async Chat Thread - #2/INFO]: [Not Secure] <Romano2000> no bro
+[17:52:16] [Async Chat Thread - #3/INFO]: [Not Secure] <Goj0> mira
+[17:52:20] [Async Chat Thread - #3/INFO]: [Not Secure] <Goj0> prestame diamantes
+[17:52:25] [Async Chat Thread - #3/INFO]: [Not Secure] <Goj0> para otro pico
+[17:52:31] [Async Chat Thread - #3/INFO]: [Not Secure] <Goj0> y otra hacha
+[17:52:47] [Async Chat Thread - #3/INFO]: [Not Secure] <Romano2000> tu no tenias 30?
+[17:52:52] [Async Chat Thread - #3/INFO]: [Not Secure] <Goj0> los tiene gio
+[17:53:11] [Async Chat Thread - #3/INFO]: [Not Secure] <Goj0> vamos pe
+[17:54:25] [Async Chat Thread - #4/INFO]: [Not Secure] <Romano2000> toma
+[17:54:30] [Async Chat Thread - #4/INFO]: [Not Secure] <Romano2000> me tengo que ir
+[17:54:47] [Server thread/INFO]: Romano2000 lost connection: Disconnected
+[17:54:47] [Server thread/INFO]: Romano2000 left the game
+[17:58:19] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Aftom5782
+[17:58:19] [localSession-7-2/INFO]: [Geyser-Spigot] Aftom5782 (logged in as: Aftom5782) has connected to the Java server
+[17:58:19] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Aftom5782 joined (UUID: 00000000-0000-0000-0009-01f5536f9644)
+[17:58:20] [Server thread/INFO]: .Aftom5782 joined the game
+[17:58:20] [Server thread/INFO]: .Aftom5782[/127.0.0.1:0] logged in with entity id 4693 at ([world]658.4995, 64.0, -918.2859)
