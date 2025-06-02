@@ -636,7 +636,8 @@
       "golden_carrot": "2025-05-31 20:11:43 +0000",
       "apple": "2025-05-31 18:50:09 +0000",
       "spider_eye": "2025-05-31 22:37:54 +0000",
-      "cooked_chicken": "2025-05-31 22:37:41 +0000"
+      "cooked_chicken": "2025-05-31 22:37:41 +0000",
+      "pumpkin_pie": "2025-06-02 01:15:10 +0000"
     },
     "done": false
   },
@@ -2921,12 +2922,6 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-06-02 00:24:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-01 23:49:47 +0000"
@@ -2939,9 +2934,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/respawn_anchor": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "has_obsidian": "2025-06-02 00:24:58 +0000"
+      "has_raw_copper": "2025-06-01 23:49:47 +0000"
     },
     "done": true
   },
@@ -2957,6 +2952,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-02 00:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-02 00:24:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-06-02 01:07:13 +0000"
@@ -2966,12 +2973,6 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-06-02 01:10:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-06-01 23:49:47 +0000"
     },
     "done": true
   },
