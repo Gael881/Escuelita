@@ -1063,6 +1063,7 @@
       "minecraft:ravager": "2025-06-02 16:40:21 +0000",
       "minecraft:hoglin": "2025-06-02 00:25:16 +0000",
       "minecraft:cave_spider": "2025-05-31 19:33:15 +0000",
+      "minecraft:piglin": "2025-06-02 16:56:48 +0000",
       "minecraft:breeze": "2025-05-31 20:04:09 +0000",
       "minecraft:vindicator": "2025-06-02 01:07:50 +0000",
       "minecraft:silverfish": "2025-05-31 20:16:14 +0000",
@@ -2541,7 +2542,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-06-01 18:58:14 +0000",
-      "minecraft:nether_wastes": "2025-06-01 18:57:46 +0000"
+      "minecraft:nether_wastes": "2025-06-01 18:57:46 +0000",
+      "minecraft:soul_sand_valley": "2025-06-02 17:01:10 +0000"
     },
     "done": false
   },
@@ -2980,6 +2982,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-06-02 16:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-02 17:01:16 +0000"
     },
     "done": true
   },
