@@ -1,116 +1,213 @@
-[03Sep2025 23:02:01.487] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[03Sep2025 23:02:01.490] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
-[03Sep2025 23:02:01.685] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirector CoreMod initialized successfully!
-[03Sep2025 23:02:01.788] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[03Sep2025 23:02:01.851] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Escuelita/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[03Sep2025 23:02:02.224] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file Mod File: /workspaces/Escuelita/servidor_minecraft/mods/better-end-0.9.8.5-pre.jar is missing mods.toml file
-[03Sep2025 23:02:02.225] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: File /workspaces/Escuelita/servidor_minecraft/mods/better-end-0.9.8.5-pre.jar has been ignored - it is invalid
-[03Sep2025 23:02:02.225] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file Mod File: /workspaces/Escuelita/servidor_minecraft/mods/better-nether-5.0.7.jar is missing mods.toml file
-[03Sep2025 23:02:02.226] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: File /workspaces/Escuelita/servidor_minecraft/mods/better-nether-5.0.7.jar has been ignored - it is invalid
-[03Sep2025 23:02:02.495] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[03Sep2025 23:02:02.591] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[03Sep2025 23:02:02.597] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[03Sep2025 23:02:03.421] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[03Sep2025 23:02:03.515] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Unit
-[03Sep2025 23:02:03.561] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/util/Unit
-[03Sep2025 23:02:03.639] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Util$IdentityStrategy
-[03Sep2025 23:02:04.241] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction
-[03Sep2025 23:02:04.243] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction$AxisDirection
-[03Sep2025 23:02:04.244] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction$Axis
-[03Sep2025 23:02:04.312] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/material/PushReaction
-[03Sep2025 23:02:04.428] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction$Plane
-[03Sep2025 23:02:04.430] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/jigsaw/JigsawOrientation
-[03Sep2025 23:02:04.437] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/AttachFace
-[03Sep2025 23:02:04.438] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/BellAttachment
-[03Sep2025 23:02:04.439] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/WallHeight
-[03Sep2025 23:02:04.439] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/RedstoneSide
-[03Sep2025 23:02:04.440] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/DoubleBlockHalf
-[03Sep2025 23:02:04.441] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/Half
-[03Sep2025 23:02:04.442] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/RailShape
-[03Sep2025 23:02:04.443] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/BedPart
-[03Sep2025 23:02:04.444] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/ChestType
-[03Sep2025 23:02:04.446] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/ComparatorMode
-[03Sep2025 23:02:04.447] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/DoorHingeSide
-[03Sep2025 23:02:04.448] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/NoteBlockInstrument
-[03Sep2025 23:02:04.450] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/PistonType
-[03Sep2025 23:02:04.451] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/SlabType
-[03Sep2025 23:02:04.452] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/StairsShape
-[03Sep2025 23:02:04.453] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/StructureMode
-[03Sep2025 23:02:04.455] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/BambooLeaves
-[03Sep2025 23:02:04.587] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/DyeColor
-[03Sep2025 23:02:04.649] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/potion/EffectType
-[03Sep2025 23:02:04.650] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/text/TextFormatting
-[03Sep2025 23:02:04.654] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/attributes/AttributeModifier$Operation
-[03Sep2025 23:02:04.835] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/PressurePlateBlock$Sensitivity
-[03Sep2025 23:02:04.996] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/SkullBlock$Types
-[03Sep2025 23:02:05.557] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/Heightmap$Type
-[03Sep2025 23:02:05.558] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/Heightmap$Usage
-[03Sep2025 23:02:05.582] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/EntityClassification
-[03Sep2025 23:02:05.687] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$CataFuseSame
-[03Sep2025 23:02:05.689] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$CataFuseDifferent
-[03Sep2025 23:02:05.690] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$LensAppId
-[03Sep2025 23:02:05.691] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$LensComp
-[03Sep2025 23:02:05.692] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$AppNest
-[03Sep2025 23:02:05.693] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$LensCompFunc
-[03Sep2025 23:02:05.693] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$CompAssocLeft
-[03Sep2025 23:02:05.694] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$SortInj
-[03Sep2025 23:02:05.696] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$SortProj
-[03Sep2025 23:02:05.696] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/functions/PointFreeRule$CompAssocRight
-[03Sep2025 23:02:06.016] [Worker-Bootstrap-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/TypeRewriteRule$Nop
-[03Sep2025 23:02:06.125] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/goal/Goal$Flag
-[03Sep2025 23:02:06.396] [Worker-Bootstrap-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/FunctionType$Instance
-[03Sep2025 23:02:06.706] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/GenerationStage$Carving
-[03Sep2025 23:02:06.772] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/GenerationStage$Decoration
-[03Sep2025 23:02:06.774] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/MineshaftStructure$Type
-[03Sep2025 23:02:06.779] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/RuinedPortalStructure$Location
-[03Sep2025 23:02:06.784] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/OceanRuinStructure$Type
-[03Sep2025 23:02:06.860] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/jigsaw/JigsawPattern$PlacementBehaviour
-[03Sep2025 23:02:06.899] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/JigsawTileEntity$OrientationType
-[03Sep2025 23:02:06.939] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/Biome$TemperatureModifier
-[03Sep2025 23:02:06.942] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/Biome$RainType
-[03Sep2025 23:02:06.944] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/Biome$Category
-[03Sep2025 23:02:06.951] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/BiomeAmbience$GrassColorModifier
-[03Sep2025 23:02:07.137] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/inventory/EquipmentSlotType
-[03Sep2025 23:02:07.138] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/inventory/EquipmentSlotType$Group
-[03Sep2025 23:02:07.139] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/enchantment/Enchantment$Rarity
-[03Sep2025 23:02:07.139] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/enchantment/ProtectionEnchantment$Type
-[03Sep2025 23:02:07.140] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/enchantment/EnchantmentType
-[03Sep2025 23:02:07.259] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/Rarity
-[03Sep2025 23:02:07.331] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/ArmorMaterial
-[03Sep2025 23:02:07.490] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/ItemTier
-[03Sep2025 23:02:07.503] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/item/minecart/AbstractMinecartEntity$Type
-[03Sep2025 23:02:07.507] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/item/BoatEntity$Type
-[03Sep2025 23:02:07.532] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/BannerPattern
-[03Sep2025 23:02:07.577] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/scoreboard/ScoreCriteria$RenderType
-[03Sep2025 23:02:07.586] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/chunk/ChunkStatus$Type
-[03Sep2025 23:02:07.995] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/brigadier/arguments/StringArgumentType$StringType
-[03Sep2025 23:02:08.152] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/LogicalSidedProvider
-[03Sep2025 23:02:08.220] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/ModLoadingStage
-[03Sep2025 23:02:08.231] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/ModLoadingStage$ThreadSelector
-[03Sep2025 23:02:08.319] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/network/NetworkDirection
-[03Sep2025 23:02:08.321] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/LogicalSide
-[03Sep2025 23:02:08.385] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/config/ModConfig$Type
-[03Sep2025 23:02:08.420] [main/FATAL] [net.minecraftforge.fml.ModLoader/CORE]: Error during pre-loading phase
-net.minecraftforge.fml.ModLoadingException: Mod §edungeons_enhanced§r requires §6structure_gel§r §o1.7.8 or above, and below 2.0.0§r
-§7Currently, §6structure_gel§r§7 is §o§nnot installed
-	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[forge:?]
+[03Sep2025 23:44:18.811] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[03Sep2025 23:44:18.814] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
+[03Sep2025 23:44:19.015] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirector CoreMod initialized successfully!
+[03Sep2025 23:44:19.120] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[03Sep2025 23:44:19.182] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Escuelita/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[03Sep2025 23:44:19.577] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file Mod File: /workspaces/Escuelita/servidor_minecraft/mods/better-end-0.9.8.5-pre.jar is missing mods.toml file
+[03Sep2025 23:44:19.577] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: File /workspaces/Escuelita/servidor_minecraft/mods/better-end-0.9.8.5-pre.jar has been ignored - it is invalid
+[03Sep2025 23:44:19.578] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file Mod File: /workspaces/Escuelita/servidor_minecraft/mods/better-nether-5.0.7.jar is missing mods.toml file
+[03Sep2025 23:44:19.578] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: File /workspaces/Escuelita/servidor_minecraft/mods/better-nether-5.0.7.jar has been ignored - it is invalid
+[03Sep2025 23:44:19.862] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[03Sep2025 23:44:19.964] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[03Sep2025 23:44:19.972] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[03Sep2025 23:44:19.979] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[03Sep2025 23:44:20.177] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:141 token recognition error at: ';'
+[03Sep2025 23:44:21.604] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[03Sep2025 23:44:21.607] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[03Sep2025 23:44:21.632] [main/INFO] [opotato/]: Mod BetterCaves-Forge-1.16.4-1.1.2.jar loaded!
+[03Sep2025 23:44:21.633] [main/INFO] [opotato/]: Mod BetterMineshafts-Forge-1.16.4-2.0.4.jar loaded!
+[03Sep2025 23:44:21.633] [main/INFO] [opotato/]: Mod BiomesOPlenty-1.16.5-13.1.0.488-universal.jar loaded!
+[03Sep2025 23:44:21.633] [main/INFO] [opotato/]: Mod BrassAmberBattleTowers-1.16.5-1.6.3.jar loaded!
+[03Sep2025 23:44:21.633] [main/INFO] [opotato/]: Mod CC(FG1.16.5) v1.1.6.jar loaded!
+[03Sep2025 23:44:21.633] [main/INFO] [opotato/]: Mod Chunky-1.2.123.jar loaded!
+[03Sep2025 23:44:21.633] [main/INFO] [opotato/]: Mod DungeonCrawl-1.16.5-2.3.12.jar loaded!
+[03Sep2025 23:44:21.635] [main/INFO] [opotato/]: Mod DungeonsArise-1.16.5-2.1.49-beta.jar loaded!
+[03Sep2025 23:44:21.635] [main/INFO] [opotato/]: Mod FpsReducer-forge-1.24-mc1.16.5.jar loaded!
+[03Sep2025 23:44:21.635] [main/INFO] [opotato/]: Mod Hwyla-forge-1.10.11-B78_1.16.2.jar loaded!
+[03Sep2025 23:44:21.635] [main/INFO] [opotato/]: Mod InventoryHud_[1.16.2-1.16.5].forge-3.4.1.jar loaded!
+[03Sep2025 23:44:21.635] [main/INFO] [opotato/]: Mod Ksyxis-1.3.4.jar loaded!
+[03Sep2025 23:44:21.635] [main/INFO] [opotato/]: Mod Mantle-1.16.5-1.6.157.jar loaded!
+[03Sep2025 23:44:21.635] [main/INFO] [opotato/]: Mod NDIIIAlpha4.jar loaded!
+[03Sep2025 23:44:21.635] [main/INFO] [opotato/]: Mod NoChatLagForge-1.1.0-1.16.jar loaded!
+[03Sep2025 23:44:21.635] [main/INFO] [opotato/]: Mod OnlyLooking-1.16.5-1.0.0.jar loaded!
+[03Sep2025 23:44:21.635] [main/INFO] [opotato/]: Mod OresAboveDiamonds-1.16.5-v6.4.1.jar loaded!
+[03Sep2025 23:44:21.636] [main/INFO] [opotato/]: Mod Paraglider-1.16.5-1.3.2.14.jar loaded!
+[03Sep2025 23:44:21.636] [main/INFO] [opotato/]: Mod PlayerRevive_v2.0.0-pre04__mc1.16.5.jar loaded!
+[03Sep2025 23:44:21.636] [main/INFO] [opotato/]: Mod SimpleCoreLib-1.16.5-2.0.8.22.jar loaded!
+[03Sep2025 23:44:21.636] [main/INFO] [opotato/]: Mod SimpleOres2-1.16.5-2.4.7.2.jar loaded!
+[03Sep2025 23:44:21.636] [main/INFO] [opotato/]: Mod SkyVillage_1.0.0_1.16.5.jar loaded!
+[03Sep2025 23:44:21.636] [main/INFO] [opotato/]: Mod TConstruct-1.16.5-3.3.4.335.jar loaded!
+[03Sep2025 23:44:21.636] [main/INFO] [opotato/]: Mod TravelersBackpack-1.16.5-5.4.51.jar loaded!
+[03Sep2025 23:44:21.637] [main/INFO] [opotato/]: Mod Waystones_1.16.5-7.6.4.jar loaded!
+[03Sep2025 23:44:21.637] [main/INFO] [opotato/]: Mod Xaeros_Minimap_25.2.6_Forge_1.16.5.jar loaded!
+[03Sep2025 23:44:21.637] [main/INFO] [opotato/]: Mod YungsApi-1.16.4-Forge-13.jar loaded!
+[03Sep2025 23:44:21.637] [main/INFO] [opotato/]: Mod [1.16.5] SecurityCraft v1.10.jar loaded!
+[03Sep2025 23:44:21.637] [main/INFO] [opotato/]: Mod alexsmobs-1.12.1.jar loaded!
+[03Sep2025 23:44:21.637] [main/INFO] [opotato/]: Mod appleskin-forge-mc1.16.x-2.5.1.jar loaded!
+[03Sep2025 23:44:21.637] [main/INFO] [opotato/]: Mod bettervillage-forge-1.16.5-3.3.1.jar loaded!
+[03Sep2025 23:44:21.638] [main/INFO] [opotato/]: Mod byg-1.3.6.jar loaded!
+[03Sep2025 23:44:21.638] [main/INFO] [opotato/]: Mod castle_dungeons-3.3-1.16.5-forge.jar loaded!
+[03Sep2025 23:44:21.639] [main/INFO] [opotato/]: Mod citadel-1.8.1-1.16.5.jar loaded!
+[03Sep2025 23:44:21.640] [main/INFO] [opotato/]: Mod collective-1.16.5-5.49.jar loaded!
+[03Sep2025 23:44:21.641] [main/INFO] [opotato/]: Mod dragonseeker-1.1.jar loaded!
+[03Sep2025 23:44:21.641] [main/INFO] [opotato/]: Mod dungeons_1.10.3_mc1.16.5.jar loaded!
+[03Sep2025 23:44:21.641] [main/INFO] [opotato/]: Mod dungeons_enhanced-1.16.5-1.9.2.jar loaded!
+[03Sep2025 23:44:21.641] [main/INFO] [opotato/]: Mod embeddium-0.3.18+mc1.16.5.jar loaded!
+[03Sep2025 23:44:21.641] [main/INFO] [opotato/]: Mod embeddiumextension-1.16.5-0.1.1.jar loaded!
+[03Sep2025 23:44:21.641] [main/INFO] [opotato/]: Mod embeddiumextras-1.16.5-1.12.0.jar loaded!
+[03Sep2025 23:44:21.641] [main/INFO] [opotato/]: Mod entitycollisionfpsfix-1.16-1.0.1.jar loaded!
+[03Sep2025 23:44:21.641] [main/INFO] [opotato/]: Mod ferritecore-2.1.1-forge.jar loaded!
+[03Sep2025 23:44:21.641] [main/INFO] [opotato/]: Mod forge-1.16.5-36.2.42-server.jar loaded!
+[03Sep2025 23:44:21.642] [main/INFO] [opotato/]: Mod forge-1.16.5-36.2.42-universal.jar loaded!
+[03Sep2025 23:44:21.642] [main/INFO] [opotato/]: Mod francium-1.16.5-1.0.1.jar loaded!
+[03Sep2025 23:44:21.643] [main/INFO] [opotato/]: Mod geckolib-forge-1.16.5-3.0.106.jar loaded!
+[03Sep2025 23:44:21.643] [main/INFO] [opotato/]: Mod gemsplusplus-1.16.5-1.8.5.jar loaded!
+[03Sep2025 23:44:21.645] [main/INFO] [opotato/]: Mod guardvillagers-1.16.5.1.2.6.jar loaded!
+[03Sep2025 23:44:21.645] [main/INFO] [opotato/]: Mod iceandfire-2.1.12-1.16.5-patch-1.jar loaded!
+[03Sep2025 23:44:21.645] [main/INFO] [opotato/]: Mod jei-1.16.5-7.8.0.1013.jar loaded!
+[03Sep2025 23:44:21.645] [main/INFO] [opotato/]: Mod lazydfu-0.1.3.jar loaded!
+[03Sep2025 23:44:21.645] [main/INFO] [opotato/]: Mod libraryferret-forge-1.16.5-4.0.0.jar loaded!
+[03Sep2025 23:44:21.645] [main/INFO] [opotato/]: Mod modernfix-forge-5.18.0+mc1.16.5.jar loaded!
+[03Sep2025 23:44:21.646] [main/INFO] [opotato/]: Mod morevanillaarmor-1.16.4-1.2.6.jar loaded!
+[03Sep2025 23:44:21.646] [main/INFO] [opotato/]: Mod morevanillalib-1.16.4-1.4.1.jar loaded!
+[03Sep2025 23:44:21.646] [main/INFO] [opotato/]: Mod mowziesmobs-1.5.27.jar loaded!
+[03Sep2025 23:44:21.646] [main/INFO] [opotato/]: Mod mutantmore-1.16.5-1.0.2.jar loaded!
+[03Sep2025 23:44:21.646] [main/INFO] [opotato/]: Mod opotato-1.16.5-2.3.0.jar loaded!
+[03Sep2025 23:44:21.646] [main/INFO] [opotato/]: Mod repurposed_structures_forge-3.4.7+1.16.5.jar loaded!
+[03Sep2025 23:44:21.646] [main/INFO] [opotato/]: Mod rhodonite-1.16.5-1.0.1.jar loaded!
+[03Sep2025 23:44:21.646] [main/INFO] [opotato/]: Mod smoothchunk1.16.5-2.0.jar loaded!
+[03Sep2025 23:44:21.646] [main/INFO] [opotato/]: Mod structure_gel-1.16.5-1.7.8.jar loaded!
+[03Sep2025 23:44:21.646] [main/INFO] [opotato/]: Mod supertools-1.16.5-4.5.jar loaded!
+[03Sep2025 23:44:21.647] [main/INFO] [opotato/]: Mod textrue_embeddium_options-0.1.2+mc1.16.5.jar loaded!
+[03Sep2025 23:44:21.647] [main/INFO] [opotato/]: Mod tombstone-1.16.5-6.9.7.jar loaded!
+[03Sep2025 23:44:21.647] [main/INFO] [opotato/]: Mod towers_of_the_wild-1.16.4-2.0.1.jar loaded!
+[03Sep2025 23:44:21.647] [main/INFO] [opotato/]: Mod unnamedanimalmod-1.0.0.jar loaded!
+[03Sep2025 23:44:21.647] [main/INFO] [opotato/]: Mod useless-sword-1.16.5-V1.3.7.jar loaded!
+[03Sep2025 23:44:21.647] [main/INFO] [opotato/]: Mod valhelsia_core-16.0.15.jar loaded!
+[03Sep2025 23:44:21.647] [main/INFO] [opotato/]: Mod valhelsia_structures-1.16.5-0.1.6.jar loaded!
+[03Sep2025 23:44:21.647] [main/INFO] [opotato/]: Mod villagernames_1.16.5-4.3.jar loaded!
+[03Sep2025 23:44:21.654] [main/INFO] [opotato/]: Loaded configuration file for Opotato: 37 options available, 0 override(s) found
+[03Sep2025 23:44:21.851] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.0+mc1.16.5: 89 options available, 0 override(s) found
+[03Sep2025 23:44:22.621] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[03Sep2025 23:44:22.640] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/embeddedt/modernfix/forge/shadow/mixinextras/service/MixinExtrasVersion
+[03Sep2025 23:44:22.880] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 104 options available, 0 override(s) found
+[03Sep2025 23:44:22.962] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/kall/embeddiumextras/mixinextras/service/MixinExtrasVersion
+[03Sep2025 23:44:22.970] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/kall/embeddiumextras/mixinextras/lib/semver/VersionParser$CharType
+[03Sep2025 23:44:23.063] [main/INFO] [Embeddium Extra Config/]: Loaded configuration file for Embeddium Extra: 27 options available, 0 override(s) found
+[03Sep2025 23:44:24.938] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Unit
+[03Sep2025 23:44:24.966] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/util/Unit
+[03Sep2025 23:44:24.980] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via me.kall.embeddiumextras.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[03Sep2025 23:44:25.254] [main/INFO] [net.minecraft.util.registry.Bootstrap/]: ModernFix reached bootstrap stage (7.296 s after launch)
+[03Sep2025 23:44:25.359] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Util$IdentityStrategy
+[03Sep2025 23:44:26.329] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction
+[03Sep2025 23:44:26.331] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction$AxisDirection
+[03Sep2025 23:44:26.332] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction$Axis
+[03Sep2025 23:44:26.424] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/material/PushReaction
+[03Sep2025 23:44:26.537] [main/INFO] [FerriteCore - class definer/]: Using Java 9+ class definer
+[03Sep2025 23:44:26.549] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction$Plane
+[03Sep2025 23:44:26.551] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/jigsaw/JigsawOrientation
+[03Sep2025 23:44:26.556] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/AttachFace
+[03Sep2025 23:44:26.557] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/BellAttachment
+[03Sep2025 23:44:26.557] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/WallHeight
+[03Sep2025 23:44:26.558] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/RedstoneSide
+[03Sep2025 23:44:26.559] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/DoubleBlockHalf
+[03Sep2025 23:44:26.559] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/Half
+[03Sep2025 23:44:26.560] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/RailShape
+[03Sep2025 23:44:26.561] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/BedPart
+[03Sep2025 23:44:26.562] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/ChestType
+[03Sep2025 23:44:26.563] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/ComparatorMode
+[03Sep2025 23:44:26.563] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/DoorHingeSide
+[03Sep2025 23:44:26.568] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/NoteBlockInstrument
+[03Sep2025 23:44:26.569] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/PistonType
+[03Sep2025 23:44:26.570] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/SlabType
+[03Sep2025 23:44:26.570] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/StairsShape
+[03Sep2025 23:44:26.571] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/StructureMode
+[03Sep2025 23:44:26.571] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/BambooLeaves
+[03Sep2025 23:44:26.697] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/DyeColor
+[03Sep2025 23:44:26.748] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/potion/EffectType
+[03Sep2025 23:44:26.749] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/text/TextFormatting
+[03Sep2025 23:44:26.752] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/attributes/AttributeModifier$Operation
+[03Sep2025 23:44:26.843] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/PressurePlateBlock$Sensitivity
+[03Sep2025 23:44:26.982] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/SkullBlock$Types
+[03Sep2025 23:44:27.305] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/Heightmap$Type
+[03Sep2025 23:44:27.306] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/Heightmap$Usage
+[03Sep2025 23:44:27.329] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/EntityClassification
+[03Sep2025 23:44:27.428] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/goal/Goal$Flag
+[03Sep2025 23:44:27.731] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/GenerationStage$Carving
+[03Sep2025 23:44:27.791] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/GenerationStage$Decoration
+[03Sep2025 23:44:27.793] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/MineshaftStructure$Type
+[03Sep2025 23:44:27.796] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/RuinedPortalStructure$Location
+[03Sep2025 23:44:27.801] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/OceanRuinStructure$Type
+[03Sep2025 23:44:27.831] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/jigsaw/JigsawPattern$PlacementBehaviour
+[03Sep2025 23:44:27.863] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/JigsawTileEntity$OrientationType
+[03Sep2025 23:44:27.884] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/Biome$TemperatureModifier
+[03Sep2025 23:44:27.886] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/Biome$RainType
+[03Sep2025 23:44:27.888] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/Biome$Category
+[03Sep2025 23:44:27.889] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/BiomeAmbience$GrassColorModifier
+[03Sep2025 23:44:27.975] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/inventory/EquipmentSlotType
+[03Sep2025 23:44:27.976] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/inventory/EquipmentSlotType$Group
+[03Sep2025 23:44:27.977] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/enchantment/Enchantment$Rarity
+[03Sep2025 23:44:27.978] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/enchantment/ProtectionEnchantment$Type
+[03Sep2025 23:44:27.978] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/enchantment/EnchantmentType
+[03Sep2025 23:44:28.080] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/Rarity
+[03Sep2025 23:44:28.115] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/ArmorMaterial
+[03Sep2025 23:44:28.127] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/ItemTier
+[03Sep2025 23:44:28.136] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/item/minecart/AbstractMinecartEntity$Type
+[03Sep2025 23:44:28.139] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/item/BoatEntity$Type
+[03Sep2025 23:44:28.161] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/BannerPattern
+[03Sep2025 23:44:28.198] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/scoreboard/ScoreCriteria$RenderType
+[03Sep2025 23:44:28.216] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/chunk/ChunkStatus$Type
+[03Sep2025 23:44:28.472] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/brigadier/arguments/StringArgumentType$StringType
+[03Sep2025 23:44:28.527] [main/INFO] [net.minecraft.util.registry.Bootstrap/]: Vanilla bootstrap took 3269 milliseconds
+[03Sep2025 23:44:28.594] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/LogicalSidedProvider
+[03Sep2025 23:44:28.629] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/ModLoadingStage
+[03Sep2025 23:44:28.633] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/ModLoadingStage$ThreadSelector
+[03Sep2025 23:44:28.689] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/network/NetworkDirection
+[03Sep2025 23:44:28.692] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/LogicalSide
+[03Sep2025 23:44:28.713] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/config/ModConfig$Type
+[03Sep2025 23:44:28.748] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Welcome! /workspaces/Escuelita/servidor_minecraft/config/libraryferret_1.properties created and initialized with default value
+[03Sep2025 23:44:28.758] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[03Sep2025 23:44:28.760] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[03Sep2025 23:44:28.760] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[03Sep2025 23:44:28.761] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[03Sep2025 23:44:28.816] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/component/SearedTankBlock$TankType
+[03Sep2025 23:44:28.817] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/shared/block/SlimeType
+[03Sep2025 23:44:28.818] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/gadgets/entity/FrameType
+[03Sep2025 23:44:28.829] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Escuelita/servidor_minecraft/config/smoothchunk-common.toml is not correct. Correcting
+[03Sep2025 23:44:28.830] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Config category was corrected from null to its default, SimpleCommentedConfig:{}. 
+[03Sep2025 23:44:28.830] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Config category.chunkSaveDelay was corrected from null to its default, 300. 
+[03Sep2025 23:44:28.830] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Config category.debugLogging was corrected from null to its default, false. 
+[03Sep2025 23:44:28.882] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Welcome! /workspaces/Escuelita/servidor_minecraft/config/bettervillage_1.properties created and initialized with default value
+[03Sep2025 23:44:28.911] [main/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to load class team.creative.playerrevive.PlayerRevive
+java.lang.NoClassDefFoundError: team/creative/creativecore/common/network/CreativeNetwork
+	at team.creative.playerrevive.PlayerRevive.<clinit>(PlayerRevive.java:45) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.<init>(FMLModContainer.java:47) ~[forge:36.2]
+	at jdk.internal.reflect.GeneratedConstructorAccessor35.newInstance(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider$FMLModTarget.loadMod(FMLJavaModLanguageProvider.java:62) ~[forge:36.2]
+	at net.minecraftforge.fml.ModLoader.buildModContainerFromTOML(ModLoader.java:288) ~[forge:?]
+	at net.minecraftforge.fml.ModLoader.lambda$buildMods$29(ModLoader.java:267) ~[forge:?]
 	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
-	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1655) ~[?:?]
+	at java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1764) ~[?:?]
 	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
 	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
 	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
-	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497) ~[?:?]
-	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:274) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.buildMods(ModLoader.java:269) ~[forge:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$11(ModLoader.java:169) ~[forge:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
 	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1655) ~[?:?]
 	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
 	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
 	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
 	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
 	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
-	at net.minecraftforge.fml.ModLoader.<init>(ModLoader.java:106) ~[forge:?]
-	at net.minecraftforge.fml.ModLoader.get(ModLoader.java:140) ~[forge:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:171) ~[forge:?]
 	at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:30) ~[forge:?]
 	at net.minecraft.server.Main.main(Main.java:95) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
@@ -126,34 +223,284 @@ net.minecraftforge.fml.ModLoadingException: Mod §edungeons_enhanced§r requires
 	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?]
 	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?]
 	at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?]
-[03Sep2025 23:02:08.450] [main/INFO] [STDOUT/]: [net.minecraft.crash.CrashReport:func_85057_a:196]: Negative index in crash report handler (16/18)
-[03Sep2025 23:02:08.483] [main/FATAL] [net.minecraftforge.fml.server.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-09-03_23.02.08-fml.txt
-[03Sep2025 23:02:08.490] [main/FATAL] [net.minecraft.server.Main/]: Failed to start the minecraft server
+Caused by: java.lang.ClassNotFoundException: team.creative.creativecore.common.network.CreativeNetwork
+	at java.lang.ClassLoader.findClass(ClassLoader.java:724) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:594) ~[?:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:106) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	... 43 more
+	Suppressed: java.lang.ClassNotFoundException
+		at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:282) ~[modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+		at team.creative.playerrevive.PlayerRevive.<clinit>(PlayerRevive.java:45) ~[?:?]
+		at java.lang.Class.forName0(Native Method) ~[?:?]
+		at java.lang.Class.forName(Class.java:398) ~[?:?]
+		at net.minecraftforge.fml.javafmlmod.FMLModContainer.<init>(FMLModContainer.java:47) ~[forge:36.2]
+		at jdk.internal.reflect.GeneratedConstructorAccessor35.newInstance(Unknown Source) ~[?:?]
+		at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+		at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+		at net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider$FMLModTarget.loadMod(FMLJavaModLanguageProvider.java:62) ~[forge:36.2]
+		at net.minecraftforge.fml.ModLoader.buildModContainerFromTOML(ModLoader.java:288) ~[forge:?]
+		at net.minecraftforge.fml.ModLoader.lambda$buildMods$29(ModLoader.java:267) ~[forge:?]
+		at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+		at java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1764) ~[?:?]
+		at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+		at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+		at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
+		at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+		at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+		at net.minecraftforge.fml.ModLoader.buildMods(ModLoader.java:269) ~[forge:?]
+		at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$11(ModLoader.java:169) ~[forge:?]
+		at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+		at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+		at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1655) ~[?:?]
+		at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+		at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+		at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
+		at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+		at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+		at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:171) ~[forge:?]
+		at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:30) ~[forge:?]
+		at net.minecraft.server.Main.main(Main.java:95) ~[?:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+		at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+		at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:37) ~[forge-1.16.5-36.2.42.jar:36.2]
+		at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+		at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?]
+		at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?]
+		at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?]
+[03Sep2025 23:44:28.916] [main/FATAL] [net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider/LOADING]: Failed to build mod
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.GeneratedConstructorAccessor35.newInstance(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider$FMLModTarget.loadMod(FMLJavaModLanguageProvider.java:62) ~[forge:36.2]
+	at net.minecraftforge.fml.ModLoader.buildModContainerFromTOML(ModLoader.java:288) ~[forge:?]
+	at net.minecraftforge.fml.ModLoader.lambda$buildMods$29(ModLoader.java:267) ~[forge:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1764) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.buildMods(ModLoader.java:269) ~[forge:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$11(ModLoader.java:169) ~[forge:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1655) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:171) ~[forge:?]
+	at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:30) ~[forge:?]
+	at net.minecraft.server.Main.main(Main.java:95) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:37) ~[forge-1.16.5-36.2.42.jar:36.2]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?]
+Caused by: net.minecraftforge.fml.ModLoadingException: PlayerRevive has class loading errors
+§7java.lang.NoClassDefFoundError: team/creative/creativecore/common/network/CreativeNetwork
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.<init>(FMLModContainer.java:53) ~[forge:36.2]
+	... 39 more
+Caused by: java.lang.NoClassDefFoundError: team/creative/creativecore/common/network/CreativeNetwork
+	at team.creative.playerrevive.PlayerRevive.<clinit>(PlayerRevive.java:45) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.<init>(FMLModContainer.java:47) ~[forge:36.2]
+	... 39 more
+Caused by: java.lang.ClassNotFoundException: team.creative.creativecore.common.network.CreativeNetwork
+	at java.lang.ClassLoader.findClass(ClassLoader.java:724) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:594) ~[?:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:106) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at team.creative.playerrevive.PlayerRevive.<clinit>(PlayerRevive.java:45) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.<init>(FMLModContainer.java:47) ~[forge:36.2]
+	... 39 more
+	Suppressed: java.lang.ClassNotFoundException
+		at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:282) ~[modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+		at team.creative.playerrevive.PlayerRevive.<clinit>(PlayerRevive.java:45) ~[?:?]
+		at java.lang.Class.forName0(Native Method) ~[?:?]
+		at java.lang.Class.forName(Class.java:398) ~[?:?]
+		at net.minecraftforge.fml.javafmlmod.FMLModContainer.<init>(FMLModContainer.java:47) ~[forge:36.2]
+		at jdk.internal.reflect.GeneratedConstructorAccessor35.newInstance(Unknown Source) ~[?:?]
+		at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+		at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+		at net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider$FMLModTarget.loadMod(FMLJavaModLanguageProvider.java:62) ~[forge:36.2]
+		at net.minecraftforge.fml.ModLoader.buildModContainerFromTOML(ModLoader.java:288) ~[forge:?]
+		at net.minecraftforge.fml.ModLoader.lambda$buildMods$29(ModLoader.java:267) ~[forge:?]
+		at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+		at java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1764) ~[?:?]
+		at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+		at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+		at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
+		at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+		at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+		at net.minecraftforge.fml.ModLoader.buildMods(ModLoader.java:269) ~[forge:?]
+		at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$11(ModLoader.java:169) ~[forge:?]
+		at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+		at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+		at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1655) ~[?:?]
+		at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+		at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+		at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
+		at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+		at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+		at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:171) ~[forge:?]
+		at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:30) ~[forge:?]
+		at net.minecraft.server.Main.main(Main.java:95) ~[?:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+		at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+		at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:37) ~[forge-1.16.5-36.2.42.jar:36.2]
+		at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+		at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?]
+		at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?]
+		at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?]
+[03Sep2025 23:44:28.929] [main/FATAL] [net.minecraftforge.fml.ModLoader/CORE]: Failed to initialize mod containers
+net.minecraftforge.fml.ModLoadingException: PlayerRevive has class loading errors
+§7java.lang.NoClassDefFoundError: team/creative/creativecore/common/network/CreativeNetwork
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.<init>(FMLModContainer.java:53) ~[forge:36.2]
+	at jdk.internal.reflect.GeneratedConstructorAccessor35.newInstance(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider$FMLModTarget.loadMod(FMLJavaModLanguageProvider.java:62) ~[forge:36.2]
+	at net.minecraftforge.fml.ModLoader.buildModContainerFromTOML(ModLoader.java:288) ~[forge:?]
+	at net.minecraftforge.fml.ModLoader.lambda$buildMods$29(ModLoader.java:267) ~[forge:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1764) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.buildMods(ModLoader.java:269) ~[forge:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$11(ModLoader.java:169) ~[forge:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1655) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:171) ~[forge:?]
+	at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:30) ~[forge:?]
+	at net.minecraft.server.Main.main(Main.java:95) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:37) ~[forge-1.16.5-36.2.42.jar:36.2]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?]
+Caused by: java.lang.NoClassDefFoundError: team/creative/creativecore/common/network/CreativeNetwork
+	at team.creative.playerrevive.PlayerRevive.<clinit>(PlayerRevive.java:45) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.<init>(FMLModContainer.java:47) ~[forge:36.2]
+	... 39 more
+Caused by: java.lang.ClassNotFoundException: team.creative.creativecore.common.network.CreativeNetwork
+	at java.lang.ClassLoader.findClass(ClassLoader.java:724) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:594) ~[?:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:106) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at team.creative.playerrevive.PlayerRevive.<clinit>(PlayerRevive.java:45) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.<init>(FMLModContainer.java:47) ~[forge:36.2]
+	... 39 more
+	Suppressed: java.lang.ClassNotFoundException
+		at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:282) ~[modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+		at team.creative.playerrevive.PlayerRevive.<clinit>(PlayerRevive.java:45) ~[?:?]
+		at java.lang.Class.forName0(Native Method) ~[?:?]
+		at java.lang.Class.forName(Class.java:398) ~[?:?]
+		at net.minecraftforge.fml.javafmlmod.FMLModContainer.<init>(FMLModContainer.java:47) ~[forge:36.2]
+		at jdk.internal.reflect.GeneratedConstructorAccessor35.newInstance(Unknown Source) ~[?:?]
+		at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+		at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+		at net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider$FMLModTarget.loadMod(FMLJavaModLanguageProvider.java:62) ~[forge:36.2]
+		at net.minecraftforge.fml.ModLoader.buildModContainerFromTOML(ModLoader.java:288) ~[forge:?]
+		at net.minecraftforge.fml.ModLoader.lambda$buildMods$29(ModLoader.java:267) ~[forge:?]
+		at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+		at java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1764) ~[?:?]
+		at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+		at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+		at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
+		at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+		at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+		at net.minecraftforge.fml.ModLoader.buildMods(ModLoader.java:269) ~[forge:?]
+		at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$11(ModLoader.java:169) ~[forge:?]
+		at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+		at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+		at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1655) ~[?:?]
+		at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+		at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+		at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
+		at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+		at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+		at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:171) ~[forge:?]
+		at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:30) ~[forge:?]
+		at net.minecraft.server.Main.main(Main.java:95) ~[?:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+		at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+		at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:37) ~[forge-1.16.5-36.2.42.jar:36.2]
+		at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+		at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+		at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?]
+		at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?]
+		at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?]
+[03Sep2025 23:44:28.955] [main/INFO] [STDOUT/]: [net.minecraft.crash.CrashReport:func_85057_a:196]: Negative index in crash report handler (16/18)
+[03Sep2025 23:44:28.962] [main/FATAL] [net.minecraftforge.fml.server.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-09-03_23.44.28-fml.txt
+[03Sep2025 23:44:28.965] [main/FATAL] [net.minecraft.server.Main/]: Failed to start the minecraft server
 net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
-	Mod §edungeons_enhanced§r requires §6structure_gel§r §o1.7.8 or above, and below 2.0.0§r
-§7Currently, §6structure_gel§r§7 is §o§nnot installed,
-	Mod §ealexsmobs§r requires §6citadel§r §o1.8.0 or above§r
-§7Currently, §6citadel§r§7 is §o§nnot installed,
-	Mod §ebettercaves§r requires §6yungsapi§r §o1.16.4-Forge-2 or above§r
-§7Currently, §6yungsapi§r§7 is §o§nnot installed,
-	Mod §emowziesmobs§r requires §6geckolib3§r §o3.0.104 or above§r
-§7Currently, §6geckolib3§r§7 is §o§nnot installed,
-	Mod §ebettervillage§r requires §6libraryferret§r §o4.0.0 or above§r
-§7Currently, §6libraryferret§r§7 is §o§nnot installed,
-	Mod §evalhelsia_structures§r requires §6valhelsia_core§r §o16.0.10 or above§r
-§7Currently, §6valhelsia_core§r§7 is §o§nnot installed,
-	Mod §esimpleores§r requires §6simplecorelib§r §o1.16.5-2.0.8.0 or above, and below 1.16.5-2.0.9.0§r
-§7Currently, §6simplecorelib§r§7 is §o§nnot installed,
-	Mod §evillagernames§r requires §6collective§r §o5.15 or above§r
-§7Currently, §6collective§r§7 is §o§nnot installed,
-	Mod §ebettermineshafts§r requires §6yungsapi§r §o1.16.4-Forge-3 or above§r
-§7Currently, §6yungsapi§r§7 is §o§nnot installed,
-	Mod §etconstruct§r requires §6mantle§r §o1.6.152 or above§r
-§7Currently, §6mantle§r§7 is §o§nnot installed,
-	Mod §eiceandfire§r requires §6citadel§r §obetween 1.8.1 and 1.8.99 (inclusive)§r
-§7Currently, §6citadel§r§7 is §o§nnot installed
+	PlayerRevive has class loading errors
+§7java.lang.NoClassDefFoundError: team/creative/creativecore/common/network/CreativeNetwork
 ]
-	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:164) ~[forge:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:176) ~[forge:?]
 	at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:30) ~[forge:?]
 	at net.minecraft.server.Main.main(Main.java:95) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
