@@ -1380,3 +1380,97 @@
 [05Sep2025 17:45:09.869] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:glowboar
 [05Sep2025 17:45:09.869] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:glowboar
 [05Sep2025 17:45:09.870] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:glowboar
+[05Sep2025 17:46:34.611] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cave_dwarf
+[05Sep2025 17:46:34.612] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cave_dwarf
+[05Sep2025 17:46:34.612] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cave_dwarf
+[05Sep2025 17:46:34.612] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cave_dwarf
+[05Sep2025 17:46:34.612] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cave_dwarf
+[05Sep2025 17:47:06.621] [Worker-Main-16/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cave_dwarf
+[05Sep2025 17:47:06.621] [Worker-Main-16/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cave_dwarf
+[05Sep2025 17:47:06.621] [Worker-Main-16/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cave_dwarf
+[05Sep2025 17:47:06.621] [Worker-Main-16/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cave_dwarf
+[05Sep2025 17:47:06.622] [Worker-Main-16/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cave_dwarf
+[05Sep2025 17:48:45.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Pic-A-Nic Basket?]
+[05Sep2025 17:49:31.665] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:knight
+[05Sep2025 17:49:31.665] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:knight
+[05Sep2025 17:49:31.666] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:knight
+[05Sep2025 17:49:31.666] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:knight
+[05Sep2025 17:49:31.666] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:knight
+[05Sep2025 17:49:44.018] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/player/PlayerEntity$SleepResult
+[05Sep2025 17:49:51.253] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:platinum_knight
+[05Sep2025 17:49:58.007] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 17:49:58.008] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 17:49:58.008] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 17:49:58.008] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 17:49:58.009] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 17:49:58.009] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 17:49:58.010] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 17:49:58.010] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 17:49:58.010] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 17:49:58.011] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 17:49:58.011] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 17:49:58.012] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 17:50:10.039] [Worker-Main-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@5a8c4f76' to registry
+[05Sep2025 17:50:10.040] [Worker-Main-1/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[05Sep2025 17:50:17.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Best Friends Forever]
+[05Sep2025 17:50:42.089] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Sep2025 17:50:42.092] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Sep2025 17:50:42.099] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Sep2025 17:50:42.099] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Sep2025 17:50:42.105] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Sep2025 17:50:42.108] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Sep2025 17:50:42.172] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Sep2025 17:50:42.175] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Sep2025 17:50:42.370] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cursed
+[05Sep2025 17:50:42.371] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cursed
+[05Sep2025 17:50:42.371] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cursed
+[05Sep2025 17:50:42.371] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cursed
+[05Sep2025 17:50:42.371] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cursed
+[05Sep2025 17:50:44.053] [Worker-Main-16/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@5a8c4f76' to registry
+[05Sep2025 17:50:44.054] [Worker-Main-16/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[05Sep2025 17:50:54.844] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sasquatch
+[05Sep2025 17:50:54.844] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sasquatch
+[05Sep2025 17:50:56.831] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 17:50:56.831] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 17:50:56.832] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 17:50:56.832] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 17:50:56.832] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 17:50:56.835] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 17:50:56.836] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 17:50:56.836] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 17:50:56.836] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 17:50:56.837] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 17:50:56.837] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 17:50:56.837] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 17:50:56.838] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 17:50:56.838] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 17:50:56.838] [Worker-Main-15/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 17:51:01.304] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:death_druid
+[05Sep2025 17:51:01.305] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:death_druid
+[05Sep2025 17:51:01.305] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:death_druid
+[05Sep2025 17:51:19.895] [Worker-Main-16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[05Sep2025 17:51:20.444] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:draugr
+[05Sep2025 17:51:20.445] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:draugr
+[05Sep2025 17:51:20.445] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:draugr
+[05Sep2025 17:51:20.445] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:draugr
+[05Sep2025 17:51:20.445] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:draugr
+[05Sep2025 17:51:20.445] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:draugr
+[05Sep2025 17:52:25.734] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cometron
+[05Sep2025 17:52:25.734] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cometron
+[05Sep2025 17:52:25.735] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cometron
+[05Sep2025 17:52:25.735] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cometron
+[05Sep2025 17:52:25.735] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cometron
+[05Sep2025 17:52:26.307] [Worker-Main-16/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:alien
+[05Sep2025 17:52:26.307] [Worker-Main-16/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:alien
+[05Sep2025 17:52:26.308] [Worker-Main-16/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:alien
+[05Sep2025 17:52:26.308] [Worker-Main-16/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:alien
+[05Sep2025 17:52:43.345] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cursed
+[05Sep2025 17:52:43.345] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cursed
+[05Sep2025 17:52:43.345] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cursed
+[05Sep2025 17:52:43.345] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cursed
+[05Sep2025 17:52:43.345] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cursed
+[05Sep2025 17:52:55.205] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=838, y=22, z=-346} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 17:52:55.205] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=838, y=22, z=-346}
+[05Sep2025 17:52:55.205] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=835, y=21, z=-343} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 17:52:55.205] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=835, y=21, z=-343}
+[05Sep2025 17:53:46.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seed: [-5770088765811967411]
