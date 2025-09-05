@@ -5207,3 +5207,85 @@ java.lang.ClassNotFoundException: null
 [05Sep2025 18:34:06.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Sweet Dreams]
 [05Sep2025 18:35:56.938] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [05Sep2025 18:35:56.947] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Sep2025 18:37:48.021] [Worker-Main-52/DEBUG] [ModernFix/]: Using cached upgraded version of nuggets_dungeons_ii:broodmotherden
+[05Sep2025 18:37:48.025] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:spider_broodmother_boss
+[05Sep2025 18:38:04.132] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:knight
+[05Sep2025 18:38:04.132] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:knight
+[05Sep2025 18:38:04.132] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:knight
+[05Sep2025 18:38:04.133] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:knight
+[05Sep2025 18:38:04.133] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:knight
+[05Sep2025 18:38:11.099] [Worker-Main-52/DEBUG] [ModernFix/]: Structure nuggets_dungeons_ii:nightmaredungeon is being run through DFU (hash 56444de8680320442817e74203e43916bf8d244cd43881cf5f199190661b25bf), this will cause launch time delays
+[05Sep2025 18:38:11.398] [Worker-Main-52/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 18:38:11.398] [Worker-Main-52/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 18:38:11.398] [Worker-Main-52/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 18:38:14.975] [Worker-Main-51/DEBUG] [ModernFix/]: Structure nuggets_dungeons_ii:cavesquatchden is being run through DFU (hash edd54bb5017a9cfa3bccc7cc8991cba39773de4e32bdf53bda439dc05ebfebf3), this will cause launch time delays
+[05Sep2025 18:38:14.983] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cavesquatch
+[05Sep2025 18:38:14.983] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cavesquatch
+[05Sep2025 18:38:14.983] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cavesquatch
+[05Sep2025 18:38:17.410] [Worker-Main-51/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@5a8c4f76' to registry
+[05Sep2025 18:38:17.411] [Worker-Main-51/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[05Sep2025 18:38:21.761] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:spider_broodfather
+[05Sep2025 18:40:01.982] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:treebug
+[05Sep2025 18:40:01.983] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:treebug
+[05Sep2025 18:40:01.983] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:treebug
+[05Sep2025 18:40:01.983] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:treebug
+[05Sep2025 18:40:01.984] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:treebug
+[05Sep2025 18:40:26.386] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:beetle
+[05Sep2025 18:40:26.387] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:beetle
+[05Sep2025 18:40:26.387] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:beetle
+[05Sep2025 18:40:26.387] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:beetle
+[05Sep2025 18:40:32.380] [Worker-Main-51/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at 16 -1072 3 6 true
+[05Sep2025 18:40:32.583] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sasquatch
+[05Sep2025 18:40:32.583] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sasquatch
+[05Sep2025 18:40:32.598] [Worker-Main-52/DEBUG] [ModernFix/]: Structure nuggets_dungeons_ii:marbleguarddungeon is being run through DFU (hash 198e62eccd40c2c2d18eaf0c281cf9e5b0d940c12dedd9b5d1edc0e4515e87e2), this will cause launch time delays
+[05Sep2025 18:40:32.611] [Worker-Main-52/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 18:40:32.611] [Worker-Main-52/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 18:40:32.611] [Worker-Main-52/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 18:40:35.175] [Worker-Main-52/DEBUG] [ModernFix/]: Using cached upgraded version of nuggets_dungeons_ii:cavescorpionden
+[05Sep2025 18:40:35.176] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cave_scorpion
+[05Sep2025 18:40:35.176] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cave_scorpion
+[05Sep2025 18:40:35.176] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cave_scorpion
+[05Sep2025 18:40:35.182] [Worker-Main-52/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 18:40:35.182] [Worker-Main-52/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 18:40:35.183] [Worker-Main-52/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 18:40:35.218] [Worker-Main-43/DEBUG] [ModernFix/]: Using cached upgraded version of nuggets_dungeons_ii:meteorite
+[05Sep2025 18:40:35.221] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:meteoron
+[05Sep2025 18:40:35.222] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:meteoron
+[05Sep2025 18:40:35.222] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:meteoron
+[05Sep2025 18:40:35.222] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:meteoron
+[05Sep2025 18:40:35.904] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:beetle
+[05Sep2025 18:40:35.904] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:beetle
+[05Sep2025 18:40:35.904] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:beetle
+[05Sep2025 18:40:35.905] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:beetle
+[05Sep2025 18:40:42.066] [Worker-Main-51/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 18:40:42.067] [Worker-Main-51/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 18:40:42.067] [Worker-Main-51/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 18:40:42.067] [Worker-Main-51/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 18:40:42.067] [Worker-Main-51/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 18:40:42.067] [Worker-Main-51/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 18:40:42.068] [Worker-Main-51/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 18:40:42.068] [Worker-Main-51/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 18:40:42.068] [Worker-Main-51/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 18:40:42.068] [Worker-Main-51/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 18:40:42.068] [Worker-Main-51/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 18:40:42.069] [Worker-Main-51/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 18:40:46.292] [Worker-Main-52/DEBUG] [ModernFix/]: Structure nuggets_dungeons_ii:scarecrowcircle is being run through DFU (hash 9837bb534600e37b4c4e7ad658d7cd5ece03d521c6ca530fc6b2fc5ec40721a4), this will cause launch time delays
+[05Sep2025 18:40:46.435] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:scarecrow
+[05Sep2025 18:40:46.488] [Worker-Main-52/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 18:40:46.489] [Worker-Main-52/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 18:40:46.489] [Worker-Main-52/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 18:40:49.203] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 18:40:49.203] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 18:40:49.203] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 18:40:54.327] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:lunaron
+[05Sep2025 18:40:54.327] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:lunaron
+[05Sep2025 18:40:54.327] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:lunaron
+[05Sep2025 18:40:54.327] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:lunaron
+[05Sep2025 18:40:54.327] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:lunaron
+[05Sep2025 18:40:56.938] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Sep2025 18:40:56.944] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Sep2025 18:44:15.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was slain by Cave Spider
+[05Sep2025 18:44:15.933] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:-24, y:20, z:-744, dim:minecraft:overworld]
+[05Sep2025 18:44:15.935] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[05Sep2025 18:45:56.940] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Sep2025 18:45:56.950] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
