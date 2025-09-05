@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-09-05 17:51:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-09-04 22:52:24 +0000"
@@ -281,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-09-05 17:51:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-05 17:33:18 +0000"
@@ -344,6 +356,12 @@
   "betterendforge:recipes/betterendforge/terminite_pickaxe_smithing": {
     "criteria": {
       "has_stick": "2025-09-04 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-09-05 17:51:45 +0000"
     },
     "done": true
   },
@@ -1013,6 +1031,10 @@
       "minecraft:forest": "2025-09-04 22:50:34 +0000",
       "minecraft:mountains": "2025-09-05 17:37:58 +0000",
       "minecraft:taiga": "2025-09-05 17:17:22 +0000",
+      "minecraft:taiga_hills": "2025-09-05 17:51:11 +0000",
+      "minecraft:desert": "2025-09-05 17:58:02 +0000",
+      "minecraft:birch_forest": "2025-09-05 17:57:05 +0000",
+      "minecraft:birch_forest_hills": "2025-09-05 17:57:42 +0000",
       "minecraft:wooded_mountains": "2025-09-05 17:45:08 +0000",
       "minecraft:wooded_hills": "2025-09-04 23:12:08 +0000"
     },
@@ -1081,6 +1103,12 @@
   "simpleores:recipes/simpleores/adamantium_ingot_from_blasting": {
     "criteria": {
       "adamantium_ingot_from_blasting": "2025-09-04 23:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-09-05 17:51:45 +0000"
     },
     "done": true
   },
@@ -1559,6 +1587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-09-05 17:51:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2025-09-05 17:47:33 +0000"
@@ -1742,6 +1776,12 @@
   "minecraft:recipes/travelersbackpack/blue_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2025-09-05 17:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-09-05 17:51:45 +0000"
     },
     "done": true
   },
@@ -1940,6 +1980,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-09-05 17:40:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-09-05 17:58:55 +0000"
     },
     "done": true
   },
@@ -2144,6 +2190,12 @@
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-09-04 22:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-09-05 17:51:45 +0000"
     },
     "done": true
   },

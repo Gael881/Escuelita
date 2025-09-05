@@ -1474,3 +1474,62 @@
 [05Sep2025 17:52:55.205] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=835, y=21, z=-343} but found not block entity block Block{minecraft:stone} at location
 [05Sep2025 17:52:55.205] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=835, y=21, z=-343}
 [05Sep2025 17:53:46.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seed: [-5770088765811967411]
+[05Sep2025 17:55:42.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seed: [-5770088765811967411]
+[05Sep2025 17:57:04.178] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:spider_broodfather
+[05Sep2025 17:57:04.206] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=858, y=26, z=-300} but found not block entity block Block{minecraft:cave_air} at location
+[05Sep2025 17:57:04.206] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=858, y=26, z=-300}
+[05Sep2025 17:57:04.382] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=863, y=27, z=-305} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 17:57:04.382] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=863, y=27, z=-305}
+[05Sep2025 17:57:04.382] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=848, y=21, z=-312} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 17:57:04.382] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=848, y=21, z=-312}
+[05Sep2025 17:57:04.382] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=861, y=21, z=-311} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 17:57:04.383] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=861, y=21, z=-311}
+[05Sep2025 17:57:04.383] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=861, y=22, z=-307} but found not block entity block Block{caves_and_cliffs:unnamed_stone} at location
+[05Sep2025 17:57:04.383] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{caves_and_cliffs:unnamed_stone} but failed at location BlockPos{x=861, y=22, z=-307}
+[05Sep2025 17:57:04.435] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=852, y=21, z=-322} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 17:57:04.435] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=852, y=21, z=-322}
+[05Sep2025 17:57:09.261] [Worker-Main-44/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@5a8c4f76' to registry
+[05Sep2025 17:57:09.262] [Worker-Main-44/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[05Sep2025 17:57:17.716] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 17:57:17.716] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 17:57:17.717] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 17:57:17.717] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 17:57:17.717] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 17:57:17.717] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 17:57:17.718] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 17:57:17.718] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 17:57:17.718] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 17:57:17.718] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 17:57:17.718] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 17:57:17.718] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 17:57:17.719] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 17:57:17.719] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 17:57:17.719] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 17:57:55.220] [Worker-Main-44/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cometron
+[05Sep2025 17:57:55.221] [Worker-Main-44/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cometron
+[05Sep2025 17:57:55.221] [Worker-Main-44/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cometron
+[05Sep2025 17:57:55.221] [Worker-Main-44/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cometron
+[05Sep2025 17:57:55.221] [Worker-Main-44/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cometron
+[05Sep2025 17:57:55.396] [Worker-Main-44/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:wind_elemental
+[05Sep2025 17:57:55.397] [Worker-Main-44/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:wind_elemental
+[05Sep2025 17:57:55.397] [Worker-Main-44/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:wind_elemental
+[05Sep2025 17:57:55.397] [Worker-Main-44/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:wind_elemental
+[05Sep2025 17:58:55.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Eye of The Storm]
+[05Sep2025 18:00:53.561] [Worker-Main-45/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 18:00:53.561] [Worker-Main-45/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 18:00:53.561] [Worker-Main-45/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 18:00:53.562] [Worker-Main-45/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 18:00:53.562] [Worker-Main-45/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 18:00:53.562] [Worker-Main-45/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 18:00:53.562] [Worker-Main-45/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 18:00:53.562] [Worker-Main-45/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 18:00:53.562] [Worker-Main-45/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 18:00:53.563] [Worker-Main-45/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 18:00:53.563] [Worker-Main-45/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 18:00:53.563] [Worker-Main-45/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 18:00:53.638] [Worker-Main-45/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:caverachnid
+[05Sep2025 18:00:53.639] [Worker-Main-45/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:caverachnid
+[05Sep2025 18:00:53.639] [Worker-Main-45/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:caverachnid
+[05Sep2025 18:00:53.639] [Worker-Main-45/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:caverachnid
+[05Sep2025 18:01:02.331] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Goj0 lost connection: Disconnected
+[05Sep2025 18:01:02.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 left the game
