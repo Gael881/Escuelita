@@ -2080,3 +2080,29 @@
 [05Sep2025 19:05:44.944] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sandsquatch
 [05Sep2025 19:05:44.945] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sandsquatch
 [05Sep2025 19:05:44.945] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sandsquatch
+[05Sep2025 19:06:41.376] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/passive/IronGolemEntity$Cracks
+[05Sep2025 19:07:21.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was shot by Skeleton
+[05Sep2025 19:07:21.091] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[05Sep2025 19:07:33.819] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[05Sep2025 19:08:21.963] [Worker-Main-51/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@5a8c4f76' to registry
+[05Sep2025 19:08:21.964] [Worker-Main-51/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[05Sep2025 19:08:24.782] [Worker-Main-52/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@5a8c4f76' to registry
+[05Sep2025 19:08:24.783] [Worker-Main-52/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[05Sep2025 19:08:24.791] [Worker-Main-43/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@5a8c4f76' to registry
+[05Sep2025 19:08:24.791] [Worker-Main-43/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[05Sep2025 19:08:45.476] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/village/GossipType
+[05Sep2025 19:09:25.433] [Worker-Main-79/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:jungle_bottom pattern registered.
+[05Sep2025 19:09:25.445] [Worker-Main-79/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:jungle_bottom
+[05Sep2025 19:10:18.585] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:biter
+[05Sep2025 19:10:18.585] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:biter
+[05Sep2025 19:10:18.586] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:biter
+[05Sep2025 19:10:18.714] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 737b0cf9-82a6-44cd-931b-2afbc0d6a363. Existing mca:male_villager#19877, new: mca:male_villager#19877
+[05Sep2025 19:10:18.842] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:ancient_antlion
+[05Sep2025 19:10:18.844] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:ancient_antlion
+[05Sep2025 19:10:18.844] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:ancient_antlion
+[05Sep2025 19:10:18.844] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:ancient_antlion
+[05Sep2025 19:10:19.028] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:desert_knight
+[05Sep2025 19:10:19.029] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:desert_knight
+[05Sep2025 19:10:19.029] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:desert_knight
+[05Sep2025 19:10:19.029] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:desert_knight
+[05Sep2025 19:10:19.029] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:desert_knight
