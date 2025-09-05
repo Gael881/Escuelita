@@ -1917,3 +1917,166 @@
 [05Sep2025 18:54:50.493] [Worker-Main-52/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
 [05Sep2025 18:54:50.493] [Worker-Main-52/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
 [05Sep2025 18:54:50.493] [Worker-Main-52/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 19:00:25.142] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:dust_mummy
+[05Sep2025 19:00:25.142] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:dust_mummy
+[05Sep2025 19:00:25.143] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:dust_mummy
+[05Sep2025 19:00:25.143] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:dust_mummy
+[05Sep2025 19:00:25.622] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 75a8428f-60ad-46f7-bc9d-0d5e00f341e9. Existing mca:female_villager#16088, new: mca:female_villager#16088
+[05Sep2025 19:00:40.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [The Desert Swimmers]
+[05Sep2025 19:01:08.939] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID ebbdee9b-0d40-4075-ad72-e1bc164e0cf2. Existing mca:female_villager#16315, new: mca:female_villager#16315
+[05Sep2025 19:01:09.231] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 3f3f2edb-b8c8-4b49-a894-8fd6632b700d. Existing mca:female_villager#16352, new: mca:female_villager#16352
+[05Sep2025 19:01:11.994] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:mummy_cobra_king
+[05Sep2025 19:01:11.995] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:mummy_cobra
+[05Sep2025 19:01:11.995] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:mummy_cobra
+[05Sep2025 19:01:11.995] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:mummy_cobra
+[05Sep2025 19:01:11.995] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:mummy_cobra
+[05Sep2025 19:01:11.995] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:mummy_cobra
+[05Sep2025 19:01:11.995] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:mummy_cobra
+[05Sep2025 19:01:12.311] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 65ab2324-318e-4dd6-bc20-82038d78feec. Existing mca:male_villager#16411, new: mca:male_villager#16411
+[05Sep2025 19:01:51.087] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:hobgoblin
+[05Sep2025 19:01:51.087] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:hobgoblin
+[05Sep2025 19:01:51.087] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:hobgoblin
+[05Sep2025 19:01:51.088] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:hobgoblin_chief
+[05Sep2025 19:01:51.088] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:hobgoblin
+[05Sep2025 19:01:51.088] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:hobgoblin
+[05Sep2025 19:01:51.517] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 91d1c5e9-349a-449f-874b-7f20efdeea27. Existing mca:male_villager#16551, new: mca:male_villager#16551
+[05Sep2025 19:01:56.155] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID d3611551-a87b-4cb4-86c5-aa7125c42159. Existing mca:female_villager#16564, new: mca:female_villager#16564
+[05Sep2025 19:01:56.185] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID bc449917-6087-4a3f-b29c-e48ffff76c33. Existing mca:male_villager#16568, new: mca:male_villager#16568
+[05Sep2025 19:01:56.185] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID d68f747a-9d4e-49c2-bdf1-65a249c739cf. Existing mca:female_villager#16571, new: mca:female_villager#16571
+[05Sep2025 19:01:56.204] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID bf674d4b-cce8-4db9-a865-d94f7f0e62e0. Existing mca:male_villager#16572, new: mca:male_villager#16572
+[05Sep2025 19:01:57.231] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID a529bad5-a8bd-4595-b37b-413d6985aaf2. Existing mca:female_villager#16590, new: mca:female_villager#16590
+[05Sep2025 19:02:19.780] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[05Sep2025 19:02:19.781] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[05Sep2025 19:02:48.017] [Worker-Main-79/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 19:02:48.017] [Worker-Main-79/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 19:02:48.018] [Worker-Main-79/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 19:02:48.018] [Worker-Main-79/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 19:02:48.018] [Worker-Main-79/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 19:02:48.018] [Worker-Main-79/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 19:02:48.018] [Worker-Main-79/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 19:02:48.019] [Worker-Main-79/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 19:02:48.019] [Worker-Main-79/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 19:02:48.019] [Worker-Main-79/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 19:02:48.019] [Worker-Main-79/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 19:02:48.019] [Worker-Main-79/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 19:02:48.405] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sky_knight
+[05Sep2025 19:02:48.406] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sky_knight
+[05Sep2025 19:02:48.406] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sky_knight
+[05Sep2025 19:02:48.406] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sky_knight
+[05Sep2025 19:02:48.406] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sky_knight
+[05Sep2025 19:02:48.406] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sky_knight
+[05Sep2025 19:02:48.638] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 01d2e288-16f8-40dc-8588-14f5566ffda4. Existing mca:male_villager#16721, new: mca:male_villager#16721
+[05Sep2025 19:02:49.780] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[05Sep2025 19:02:51.253] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:marzian
+[05Sep2025 19:02:51.253] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:marzian
+[05Sep2025 19:02:51.253] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:marzian
+[05Sep2025 19:02:51.253] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:marzian
+[05Sep2025 19:02:51.253] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:marzian
+[05Sep2025 19:02:51.520] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID c13eaf19-9975-4d06-8937-7c3e78bc557e. Existing mca:female_villager#16735, new: mca:female_villager#16735
+[05Sep2025 19:02:57.730] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID da779c49-12af-48a6-bc33-480f97b209be. Existing mca:female_villager#16821, new: mca:female_villager#16821
+[05Sep2025 19:02:57.785] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID c2b290cb-1af5-4e19-b794-93f752bf9307. Existing mca:male_villager#16838, new: mca:male_villager#16838
+[05Sep2025 19:03:01.325] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 302d24ab-22bd-4a59-8b5f-a85c117dce7e. Existing mca:male_villager#16903, new: mca:male_villager#16903
+[05Sep2025 19:03:04.138] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-130, y=27, z=-1858} but found not block entity block Block{minecraft:diorite} at location
+[05Sep2025 19:03:04.138] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:diorite} but failed at location BlockPos{x=-130, y=27, z=-1858}
+[05Sep2025 19:03:04.138] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-144, y=27, z=-1858} but found not block entity block Block{caves_and_cliffs:unnamed_stone} at location
+[05Sep2025 19:03:04.138] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{caves_and_cliffs:unnamed_stone} but failed at location BlockPos{x=-144, y=27, z=-1858}
+[05Sep2025 19:03:04.904] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:beetle
+[05Sep2025 19:03:04.904] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:beetle
+[05Sep2025 19:03:04.904] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:beetle
+[05Sep2025 19:03:04.904] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:beetle
+[05Sep2025 19:03:05.097] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:bandit_chief
+[05Sep2025 19:03:05.097] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:bandit
+[05Sep2025 19:03:05.097] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:bandit
+[05Sep2025 19:03:05.097] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:bandit
+[05Sep2025 19:03:05.097] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:bandit
+[05Sep2025 19:03:05.097] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:bandit
+[05Sep2025 19:03:05.097] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:bandit
+[05Sep2025 19:03:13.387] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 19:03:13.387] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 19:03:13.388] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 19:03:13.388] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 19:03:13.388] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 19:03:13.388] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 19:03:13.388] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 19:03:13.388] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 19:03:13.388] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 19:03:13.389] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 19:03:13.389] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 19:03:13.389] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 19:03:13.417] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-127, y=27, z=-1858} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 19:03:13.417] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-127, y=27, z=-1858}
+[05Sep2025 19:03:17.864] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-105, y=29, z=-1845} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 19:03:17.864] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-105, y=29, z=-1845}
+[05Sep2025 19:03:17.864] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-102, y=30, z=-1843} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 19:03:17.864] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-102, y=30, z=-1843}
+[05Sep2025 19:03:26.791] [Worker-Main-51/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@5a8c4f76' to registry
+[05Sep2025 19:03:26.792] [Worker-Main-51/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[05Sep2025 19:03:41.438] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:terramancer
+[05Sep2025 19:03:41.438] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:terramancer
+[05Sep2025 19:03:41.438] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:terramancer
+[05Sep2025 19:03:41.438] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:terramancer
+[05Sep2025 19:04:12.757] [Worker-Main-43/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[05Sep2025 19:04:12.912] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 02d19746-bf0b-40ce-8787-d06b36020e2b. Existing mca:male_villager#17269, new: mca:male_villager#17269
+[05Sep2025 19:04:16.269] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:bloody_mummy
+[05Sep2025 19:04:16.269] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:bloody_mummy
+[05Sep2025 19:04:16.269] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:bloody_mummy
+[05Sep2025 19:04:16.270] [Worker-Main-51/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:bloody_mummy
+[05Sep2025 19:04:16.284] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 36f7bd16-ddd6-4de9-b650-19e33693abd2. Existing mca:female_villager#17304, new: mca:female_villager#17304
+[05Sep2025 19:04:16.328] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sand_muncher
+[05Sep2025 19:04:16.329] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sand_muncher
+[05Sep2025 19:04:16.329] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sand_muncher
+[05Sep2025 19:04:16.329] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sand_muncher
+[05Sep2025 19:04:16.329] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sand_muncher
+[05Sep2025 19:04:16.397] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 58c3eda4-bc75-4bc5-ab51-661a79260532. Existing mca:female_villager#17307, new: mca:female_villager#17307
+[05Sep2025 19:04:16.743] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 4a0caa39-8342-4c06-ba17-3416209949c4. Existing mca:male_villager#17351, new: mca:male_villager#17351
+[05Sep2025 19:04:16.743] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 6a692d6d-9019-4e1f-a680-bc94ad346ca8. Existing mca:female_villager#17352, new: mca:female_villager#17352
+[05Sep2025 19:04:19.522] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 383f2f31-9759-48f2-869e-c7928821bf3b. Existing mca:male_villager#17454, new: mca:male_villager#17454
+[05Sep2025 19:04:19.523] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 13113645-c374-4a01-833d-88c562bc02d8. Existing mca:female_villager#17478, new: mca:female_villager#17478
+[05Sep2025 19:04:26.992] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 19:04:26.993] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 19:04:26.993] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 19:04:26.993] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 19:04:26.993] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 19:04:26.993] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 19:04:26.994] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 19:04:26.994] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 19:04:26.994] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 19:04:26.994] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.swimSpeed'
+[05Sep2025 19:04:26.994] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.nameTagDistance'
+[05Sep2025 19:04:26.994] [Worker-Main-43/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge.entity_gravity'
+[05Sep2025 19:04:27.093] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID b7695a4f-d97d-4a3f-819b-6a3451b25955. Existing mca:female_villager#17534, new: mca:female_villager#17534
+[05Sep2025 19:04:41.508] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-552, y=48, z=-1925} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 19:04:41.509] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-552, y=48, z=-1925}
+[05Sep2025 19:04:41.509] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-553, y=48, z=-1925} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 19:04:41.509] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-553, y=48, z=-1925}
+[05Sep2025 19:04:41.509] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-555, y=50, z=-1921} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 19:04:41.509] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-555, y=50, z=-1921}
+[05Sep2025 19:04:41.509] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-552, y=48, z=-1928} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 19:04:41.509] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-552, y=48, z=-1928}
+[05Sep2025 19:04:41.509] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-560, y=54, z=-1925} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 19:04:41.510] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-560, y=54, z=-1925}
+[05Sep2025 19:04:41.510] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-556, y=48, z=-1929} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 19:04:41.510] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-556, y=48, z=-1929}
+[05Sep2025 19:04:41.510] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-555, y=48, z=-1930} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 19:04:41.510] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-555, y=48, z=-1930}
+[05Sep2025 19:04:41.510] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-553, y=49, z=-1932} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 19:04:41.510] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-553, y=49, z=-1932}
+[05Sep2025 19:04:41.510] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-560, y=50, z=-1924} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 19:04:41.510] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-560, y=50, z=-1924}
+[05Sep2025 19:04:41.510] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-552, y=54, z=-1930} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 19:04:41.510] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-552, y=54, z=-1930}
+[05Sep2025 19:04:41.510] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-551, y=54, z=-1924} but found not block entity block Block{minecraft:dirt} at location
+[05Sep2025 19:04:41.511] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:dirt} but failed at location BlockPos{x=-551, y=54, z=-1924}
+[05Sep2025 19:04:41.511] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-552, y=48, z=-1929} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 19:04:41.511] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-552, y=48, z=-1929}
+[05Sep2025 19:04:41.511] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-558, y=48, z=-1925} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 19:04:41.511] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-558, y=48, z=-1925}
+[05Sep2025 19:04:41.511] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-557, y=48, z=-1927} but found not block entity block Block{minecraft:stone} at location
+[05Sep2025 19:04:41.511] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-557, y=48, z=-1927}
+[05Sep2025 19:05:44.766] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cavesquatch
+[05Sep2025 19:05:44.766] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cavesquatch
+[05Sep2025 19:05:44.766] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cavesquatch
+[05Sep2025 19:05:44.944] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sandsquatch
+[05Sep2025 19:05:44.944] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sandsquatch
+[05Sep2025 19:05:44.945] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sandsquatch
+[05Sep2025 19:05:44.945] [Worker-Main-52/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sandsquatch
