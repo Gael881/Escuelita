@@ -5768,3 +5768,64 @@ java.lang.ClassNotFoundException: null
 [05Sep2025 19:22:22.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Book of Monsters]
 [05Sep2025 19:25:56.949] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [05Sep2025 19:25:56.956] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Sep2025 19:27:06.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [No Step on Snake]
+[05Sep2025 19:28:19.155] [Worker-Main-98/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:spider_broodmother_boss
+[05Sep2025 19:28:55.587] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:aeromancer
+[05Sep2025 19:28:55.588] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:aeromancer
+[05Sep2025 19:28:55.588] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:aeromancer
+[05Sep2025 19:28:55.588] [Worker-Main-43/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:aeromancer
+[05Sep2025 19:28:55.594] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:ant
+[05Sep2025 19:28:55.594] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:ant
+[05Sep2025 19:28:55.594] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:ant
+[05Sep2025 19:28:55.594] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:ant
+[05Sep2025 19:28:55.594] [Worker-Main-79/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:ant
+[05Sep2025 19:28:55.645] [Worker-Main-98/DEBUG] [ModernFix/]: Structure nuggets_dungeons_ii:fireantnest is being run through DFU (hash b473004022384824234f8069d7060ccbb4b65f154b1a0645f227c4b5da891d00), this will cause launch time delays
+[05Sep2025 19:28:55.647] [Worker-Main-98/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:fire_ant
+[05Sep2025 19:28:55.647] [Worker-Main-98/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:fire_ant
+[05Sep2025 19:28:55.647] [Worker-Main-98/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:fire_ant
+[05Sep2025 19:29:39.574] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Reed'/18791, l='ServerLevel[world]', x=-532.49, y=69.00, z=-1863.41] died, message: 'Reed hit the ground too hard whilst trying to escape Iron Golem'
+[05Sep2025 19:29:39.579] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[05Sep2025 19:29:49.500] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 25057874-90eb-4aff-8a93-8108b6e7bf91. Existing mca:female_villager#22337, new: mca:female_villager#22337
+[05Sep2025 19:29:49.500] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID ef5fc52e-93d2-4aee-9a3a-ae0ee507b1a8. Existing mca:male_villager#22338, new: mca:male_villager#22338
+[05Sep2025 19:29:49.588] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 5ed4212d-bf5a-4393-af2f-b129292ad915. Existing mca:female_villager#22340, new: mca:female_villager#22340
+[05Sep2025 19:29:49.637] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 83c191d8-a831-4261-8f49-509501b77a81. Existing mca:male_villager#22341, new: mca:male_villager#22341
+[05Sep2025 19:30:22.434] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID f86c1747-c490-4061-bf3f-c6d95aad97a0. Existing mca:male_villager#22435, new: mca:male_villager#22435
+[05Sep2025 19:30:22.541] [Worker-Main-98/DEBUG] [ModernFix/]: Structure nuggets_dungeons_ii:fleshrachnidnest is being run through DFU (hash a4109f9a89893596a3146a866448a7c0dd2557e6e4e0b9e1e21a62159b5edff1), this will cause launch time delays
+[05Sep2025 19:30:22.544] [Worker-Main-98/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:fleshrachnid
+[05Sep2025 19:30:22.544] [Worker-Main-98/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:fleshrachnid
+[05Sep2025 19:30:22.545] [Worker-Main-98/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:fleshrachnid
+[05Sep2025 19:30:22.545] [Worker-Main-98/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:fleshrachnid
+[05Sep2025 19:30:22.579] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 86aaa56a-f44b-4772-9354-869e5b53848d. Existing mca:female_villager#22450, new: mca:female_villager#22450
+[05Sep2025 19:30:23.476] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1ee34a0d
+[05Sep2025 19:30:34.287] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 6856edac-2209-4375-9f82-8e2ea57ad248. Existing mca:female_villager#22546, new: mca:female_villager#22546
+[05Sep2025 19:30:34.287] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID ec7dd31f-a9ef-431a-aaa2-44f03df34356. Existing mca:female_villager#22547, new: mca:female_villager#22547
+[05Sep2025 19:30:34.287] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID b8063ed8-35c2-44f4-b1e2-06958bca6ed2. Existing mca:male_villager#22548, new: mca:male_villager#22548
+[05Sep2025 19:30:56.944] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Sep2025 19:30:56.951] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Sep2025 19:31:40.769] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 9d1b885c-9aa8-44b9-b845-3fcfc6d9c3da. Existing mca:female_villager#22702, new: mca:female_villager#22702
+[05Sep2025 19:31:40.770] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 9fd02b69-8c93-4560-9239-d2cb66ec59cb. Existing mca:male_villager#22703, new: mca:male_villager#22703
+[05Sep2025 19:31:59.494] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Goj0 lost connection: Disconnected
+[05Sep2025 19:31:59.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 left the game
+[05Sep2025 19:33:16.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[05Sep2025 19:33:16.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: STOP<--[HERE]
+[05Sep2025 19:33:18.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[05Sep2025 19:33:18.472] [Server thread/INFO] [ModernFix/]: Shutting down locating executor service
+[05Sep2025 19:33:18.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Sep2025 19:33:18.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Sep2025 19:33:18.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Sep2025 19:33:18.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Sep2025 19:33:18.679] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Sep2025 19:33:18.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Sep2025 19:33:18.680] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Sep2025 19:33:18.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Sep2025 19:33:18.681] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Sep2025 19:33:18.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/nuggets_dungeons_ii:shadow_realm
+[05Sep2025 19:33:18.682] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (shadow_realm): All chunks are saved
+[05Sep2025 19:33:18.683] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Sep2025 19:33:18.691] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Sep2025 19:33:18.713] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Sep2025 19:33:18.760] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Sep2025 19:33:18.761] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Sep2025 19:33:18.761] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (shadow_realm): All chunks are saved
+[05Sep2025 19:33:18.763] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[05Sep2025 19:33:18.763] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

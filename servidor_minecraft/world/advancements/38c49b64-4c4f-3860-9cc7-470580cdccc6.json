@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-09-05 19:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-09-05 19:21:52 +0000"
@@ -350,6 +356,12 @@
   "securitycraft:recipes/securitycraft/security_camera": {
     "criteria": {
       "has_iron": "2025-09-04 23:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-09-05 19:30:02 +0000"
     },
     "done": true
   },
@@ -574,6 +586,7 @@
       "minecraft:skeleton": "2025-09-04 23:06:56 +0000",
       "minecraft:spider": "2025-09-04 23:09:22 +0000",
       "minecraft:witch": "2025-09-05 17:38:28 +0000",
+      "minecraft:husk": "2025-09-05 19:26:57 +0000",
       "minecraft:cave_spider": "2025-09-05 18:44:01 +0000",
       "minecraft:zombie": "2025-09-04 22:58:40 +0000"
     },
@@ -1033,6 +1046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-05 19:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-05 17:33:23 +0000"
@@ -1380,6 +1399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-09-05 19:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2025-09-04 22:57:04 +0000"
@@ -1437,6 +1462,12 @@
   "securitycraft:recipes/securitycraft/disguise_module": {
     "criteria": {
       "has_iron": "2025-09-04 23:04:39 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-09-05 19:31:38 +0000"
     },
     "done": true
   },
@@ -1521,6 +1552,12 @@
   "simpleores:recipes/simpleores/adamantium_block": {
     "criteria": {
       "has_the_recipe": "2025-09-04 23:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-05 19:30:02 +0000"
     },
     "done": true
   },
@@ -1635,6 +1672,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2025-09-05 17:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-09-05 19:30:00 +0000"
     },
     "done": true
   },
@@ -1790,6 +1833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-05 19:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/green_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2025-09-05 17:41:52 +0000"
@@ -1799,6 +1848,12 @@
   "minecraft:recipes/travelersbackpack/pig_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-09-05 18:45:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-09-05 19:27:06 +0000"
     },
     "done": true
   },
@@ -1910,9 +1965,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-09-05 19:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-05 17:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-09-05 19:30:02 +0000"
     },
     "done": true
   },
@@ -2192,6 +2259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-05 19:30:02 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/gold_chandelier": {
     "criteria": {
       "has_gold_ingot": "2025-09-05 17:39:42 +0000"
@@ -2414,6 +2487,12 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/ender_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-09-05 19:31:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-09-04 22:52:55 +0000"
@@ -2450,6 +2529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-05 19:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-04 22:52:24 +0000"
@@ -2480,6 +2565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-09-05 19:30:02 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_axe_smithing": {
     "criteria": {
       "has_stick": "2025-09-04 22:52:38 +0000"
@@ -2495,6 +2586,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-09-04 22:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-05 19:30:02 +0000"
     },
     "done": true
   },
@@ -2795,6 +2892,12 @@
   "minecraft:recipes/travelersbackpack/enderman_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-09-05 18:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2025-09-05 19:30:00 +0000"
     },
     "done": true
   },
