@@ -4710,3 +4710,83 @@ java.lang.ClassNotFoundException: null
 [05Sep2025 17:23:42.882] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [05Sep2025 17:23:42.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Easter Food]
 [05Sep2025 17:23:56.378] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[05Sep2025 17:25:56.940] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Sep2025 17:25:56.949] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Sep2025 17:30:28.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was slain by Cave Centipede
+[05Sep2025 17:30:28.341] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[05Sep2025 17:30:28.342] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:33, y:16, z:-35, dim:minecraft:overworld]
+[05Sep2025 17:30:28.355] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[05Sep2025 17:30:29.787] [Server thread/DEBUG] [mixin/]: Mixing common.RandomClinitMixin from francium.mixins.json into net.minecraft.inventory.InventoryHelper
+[05Sep2025 17:30:30.156] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[05Sep2025 17:30:56.941] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Sep2025 17:30:56.949] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Sep2025 17:32:45.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 tried to swim in lava
+[05Sep2025 17:32:45.984] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:44, y:11, z:-25, dim:minecraft:overworld]
+[05Sep2025 17:32:45.985] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[05Sep2025 17:34:46.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 was blown up by Troll
+[05Sep2025 17:34:46.732] [Server thread/DEBUG] [tombstone/]: A new grave of the player Goj0 was created at position [x:24, y:14, z:-28, dim:minecraft:overworld]
+[05Sep2025 17:34:46.736] [Server thread/INFO] [tombstone/]: The player Goj0 has successfully been saved
+[05Sep2025 17:35:56.946] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Sep2025 17:35:56.953] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Sep2025 17:38:02.026] [Worker-Main-15/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@5a8c4f76' to registry
+[05Sep2025 17:38:02.027] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[05Sep2025 17:38:12.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_1
+[05Sep2025 17:38:19.729] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nuggets_dungeons_ii:deepelfcamp
+[05Sep2025 17:38:19.735] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:deep_elf
+[05Sep2025 17:38:19.735] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:deep_elf
+[05Sep2025 17:38:19.736] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:deep_elf
+[05Sep2025 17:38:19.736] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:deep_elf
+[05Sep2025 17:38:19.813] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:bluboar
+[05Sep2025 17:38:19.813] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:bluboar
+[05Sep2025 17:38:19.814] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:bluboar
+[05Sep2025 17:38:19.814] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:bluboar
+[05Sep2025 17:38:28.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Goj0 has made the advancement [Ambush]
+[05Sep2025 17:39:07.036] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nuggets_dungeons_ii:blighteddungeon
+[05Sep2025 17:39:10.744] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nuggets_dungeons_ii:geodedungeon
+[05Sep2025 17:39:16.069] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/TileEntityMerger$Type
+[05Sep2025 17:39:59.230] [Worker-Main-15/DEBUG] [ModernFix/]: Structure nuggets_dungeons_ii:beetlehill is being run through DFU (hash 5b02971d506e520073a4b26997ff8f4220f8e61960a419d51904e2be7a2f0be9), this will cause launch time delays
+[05Sep2025 17:39:59.244] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:beetle
+[05Sep2025 17:39:59.245] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:beetle
+[05Sep2025 17:39:59.245] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:beetle
+[05Sep2025 17:39:59.245] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:beetle
+[05Sep2025 17:40:03.730] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nuggets_dungeons_ii:curseddungeon
+[05Sep2025 17:40:03.731] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cursed
+[05Sep2025 17:40:03.731] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cursed
+[05Sep2025 17:40:03.732] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cursed
+[05Sep2025 17:40:03.732] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cursed
+[05Sep2025 17:40:03.732] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:cursed
+[05Sep2025 17:40:06.435] [Worker-Main-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@5a8c4f76' to registry
+[05Sep2025 17:40:06.436] [Worker-Main-1/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[05Sep2025 17:40:56.939] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Sep2025 17:40:56.947] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Sep2025 17:43:30.332] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nuggets_dungeons_ii:sasquatchden is being run through DFU (hash 8bbf96712fb6e2aef4b4e31431b3f4af7954b51eda5fc0eb3f841e10da9b9c03), this will cause launch time delays
+[05Sep2025 17:43:30.577] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sasquatch
+[05Sep2025 17:43:30.578] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:sasquatch
+[05Sep2025 17:43:30.590] [Worker-Main-16/DEBUG] [ModernFix/]: Structure nuggets_dungeons_ii:broodfatherden is being run through DFU (hash f9a865f54c46274dd127e75ba875266079c6c01edf2f5c4a3a0899fa9046122e), this will cause launch time delays
+[05Sep2025 17:43:30.605] [Worker-Main-16/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:spider_broodfather
+[05Sep2025 17:44:30.489] [Worker-Main-15/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@5a8c4f76' to registry
+[05Sep2025 17:44:30.490] [Worker-Main-15/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[05Sep2025 17:44:30.699] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nuggets_dungeons_ii:airtemple is being run through DFU (hash 7d0e98e4693e6a9904bea99884c7a221972448fe3a651c773e342055bb200552), this will cause launch time delays
+[05Sep2025 17:44:30.715] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:aeromancer
+[05Sep2025 17:44:30.716] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:aeromancer
+[05Sep2025 17:44:30.716] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:aeromancer
+[05Sep2025 17:44:30.716] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:aeromancer
+[05Sep2025 17:44:51.081] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[05Sep2025 17:45:08.948] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nuggets_dungeons_ii:draugrdungeon
+[05Sep2025 17:45:08.950] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:draugr
+[05Sep2025 17:45:08.950] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:draugr
+[05Sep2025 17:45:08.951] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:draugr
+[05Sep2025 17:45:08.951] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:draugr
+[05Sep2025 17:45:08.951] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:draugr
+[05Sep2025 17:45:08.951] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:draugr
+[05Sep2025 17:45:09.509] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:deep_elf
+[05Sep2025 17:45:09.509] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:deep_elf
+[05Sep2025 17:45:09.510] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:deep_elf
+[05Sep2025 17:45:09.510] [Worker-Main-1/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:deep_elf
+[05Sep2025 17:45:09.864] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nuggets_dungeons_ii:glowboarcave
+[05Sep2025 17:45:09.868] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:glowboar
+[05Sep2025 17:45:09.869] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:glowboar
+[05Sep2025 17:45:09.869] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:glowboar
+[05Sep2025 17:45:09.869] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:glowboar
+[05Sep2025 17:45:09.869] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:glowboar
+[05Sep2025 17:45:09.870] [Worker-Main-15/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nuggets_dungeons_ii:glowboar
