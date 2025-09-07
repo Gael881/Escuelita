@@ -1,69 +1,229 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1757025814714 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1757209636464 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757025817827 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757209639562 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757025820928 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757209642662 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757025824039 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757209645756 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757025827155 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757209648868 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757025830262 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757209651967 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757025833388 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757209655081 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757025836503 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757209658191 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757025839611 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757209661310 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757025842733 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757209664417 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757025845867 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757209667515 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757025848977 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757209670612 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757025852086 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757209673725 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757025855196 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757209676859 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209679951 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209683075 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209686174 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209689273 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209692371 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209695468 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209698566 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209701676 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209704792 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209707893 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209711001 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209714102 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209717218 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209720318 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209723429 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209726540 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209729659 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209732775 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209735868 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209738959 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209742061 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209745153 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209748269 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209751376 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209754486 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209757584 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209760678 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209763792 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209766943 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209770056 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209773151 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+payment-password.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1757209776250 tunnel running, 1 tunnels registered
 
 
 TUNNELS
