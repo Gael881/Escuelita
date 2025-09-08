@@ -318,3 +318,36 @@
 [01:36:25] [Server thread/INFO]: [Not Secure] <Sraut0placer> y
 [01:36:25] [Server thread/INFO]: [Not Secure] <Goj0> asi q ya sabes
 [01:36:27] [Server thread/INFO]: [Not Secure] <Sraut0placer> un escudo
+[01:36:30] [Server thread/INFO]: [Not Secure] <Goj0> si se cierra solo
+[01:36:33] [Server thread/INFO]: [Not Secure] <Goj0> es por eso
+[01:36:35] [Server thread/INFO]: [Not Secure] <Goj0> pero igual
+[01:36:40] [Server thread/INFO]: [Not Secure] <Goj0> creo q no se guarda
+[01:36:43] [Server thread/INFO]: [Not Secure] <Goj0> umh
+[01:36:49] [Server thread/INFO]: [Not Secure] <Goj0> tenemos un dilema brochacho
+[01:36:53] [Server thread/INFO]: [Not Secure] <Sraut0placer> q
+[01:37:02] [Server thread/INFO]: [Not Secure] <Goj0> pq si lo dejo encendido se apaga solo
+[01:37:05] [Server thread/INFO]: [Not Secure] <Goj0> a las 2 horas
+[01:37:11] [Server thread/INFO]: [Not Secure] <Goj0> pero llevamos jugando ocmo 1 hora
+[01:37:17] [Server thread/INFO]: [Not Secure] <Goj0> OLVIDALO
+[01:37:19] [Server thread/INFO]: [Not Secure] <Goj0> bye
+[01:37:21] [Server thread/INFO]: [Not Secure] <Goj0> cya
+[01:37:26] [Server thread/INFO]: [Not Secure] <Sraut0placer> chao
+[01:37:36] [Server thread/INFO]: [Not Secure] <Goj0> regalame hierrito
+[01:37:50] [Server thread/INFO]: [Not Secure] <Sraut0placer> mejor me voy
+[01:37:54] [Server thread/INFO]: [Not Secure] <Sraut0placer> aaaa
+[01:37:55] [Server thread/INFO]: Sraut0placer lost connection: Disconnected
+[01:37:55] [Server thread/INFO]: Sraut0placer left the game
+[01:37:56] [Server thread/INFO]: [Not Secure] <Goj0> me falta el casco
+[01:38:22] [Server thread/INFO]: Goj0 lost connection: Disconnected
+[01:38:22] [Server thread/INFO]: Goj0 left the game
+[01:38:32] [Server thread/INFO]: Stopping the server
+[01:38:32] [Server thread/INFO]: Stopping server
+[01:38:32] [Server thread/INFO]: Saving players
+[01:38:32] [Server thread/INFO]: Saving worlds
+[01:38:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:38:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:38:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:38:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:38:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:38:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:38:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
