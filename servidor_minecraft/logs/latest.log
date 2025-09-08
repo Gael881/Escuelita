@@ -25,3 +25,25 @@
 [14:39:06] [Server thread/INFO]: Done (4.112s)! For help, type "help"
 [14:39:09] [Server thread/INFO]: Seed: [2576583129998111998]
 [14:40:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:52:30] [Server thread/INFO]: Goj0[/127.71.179.52:56417] logged in with entity id 1 at (-346.88683557887794, -32.0, -415.30851918792644)
+[14:52:30] [Server thread/INFO]: Goj0 joined the game
+[14:56:53] [Server thread/INFO]: Goj0 has made the advancement [Hot Stuff]
+[15:02:08] [Server thread/INFO]: Goj0 was blown up by Creeper
+[15:05:07] [Server thread/INFO]: Goj0 was slain by Zombie
+[15:09:18] [Server thread/INFO]: Goj0 fell from a high place
+[15:14:34] [Server thread/INFO]: Goj0 fell from a high place
+[15:14:38] [Server thread/INFO]: Goj0 lost connection: Disconnected
+[15:14:38] [Server thread/INFO]: Goj0 left the game
+[15:14:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:14:43] [Server thread/INFO]: STOP<--[HERE]
+[15:14:45] [Server thread/INFO]: Stopping the server
+[15:14:45] [Server thread/INFO]: Stopping server
+[15:14:45] [Server thread/INFO]: Saving players
+[15:14:45] [Server thread/INFO]: Saving worlds
+[15:14:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:14:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:14:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:14:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:14:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:14:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:14:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
