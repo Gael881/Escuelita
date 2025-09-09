@@ -1,47 +1,132 @@
-[17:10:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:10:39] [ServerMain/INFO]: Loaded 1407 recipes
-[17:10:39] [ServerMain/INFO]: Loaded 1520 advancements
-[17:10:39] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[17:10:39] [Server thread/INFO]: Loading properties
-[17:10:39] [Server thread/INFO]: Default game type: SURVIVAL
-[17:10:39] [Server thread/INFO]: Generating keypair
-[17:10:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:10:39] [Server thread/INFO]: Using epoll channel type
-[17:10:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:10:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:10:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:10:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:10:40] [Server thread/INFO]: Preparing level "world"
-[17:10:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:10:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:10:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:10:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:10:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:10:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:10:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:10:43] [Server thread/INFO]: Time elapsed: 2693 ms
-[17:10:43] [Server thread/INFO]: Done (3.000s)! For help, type "help"
-[17:10:45] [Server thread/INFO]: Goj0[/127.71.179.52:43921] logged in with entity id 1 at (-379.9141134422093, -17.0, -445.98399534698905)
-[17:10:45] [Server thread/INFO]: Goj0 joined the game
-[17:12:34] [Server thread/INFO]: Goj0 tried to swim in lava
-[17:21:44] [Server thread/INFO]: Seed: [2576583129998111998]
-[17:52:24] [Server thread/INFO]: Goj0 was blown up by Creeper
-[17:55:01] [Server thread/INFO]: Goj0 fell from a high place
-[17:55:58] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-278, y=83, z=-291} jb{x=-279, y=81, z=-292}
-[17:57:22] [Server thread/INFO]: Goj0 was slain by Spider
-[18:18:47] [Server thread/INFO]: Goj0 has made the advancement [Fishy Business]
-[18:20:15] [Server thread/INFO]: Goj0 has made the advancement [Best Friends Forever]
-[18:25:42] [Server thread/INFO]: Goj0 has made the advancement [Sweet Dreams]
-[18:25:58] [Server thread/INFO]: Goj0 lost connection: Disconnected
-[18:25:58] [Server thread/INFO]: Goj0 left the game
-[18:26:30] [Server thread/INFO]: Stopping the server
-[18:26:30] [Server thread/INFO]: Stopping server
-[18:26:30] [Server thread/INFO]: Saving players
-[18:26:30] [Server thread/INFO]: Saving worlds
-[18:26:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:26:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:26:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:26:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:26:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:26:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:26:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:56:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:56:16] [ServerMain/INFO]: Loaded 1407 recipes
+[00:56:16] [ServerMain/INFO]: Loaded 1520 advancements
+[00:56:16] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[00:56:16] [Server thread/INFO]: Loading properties
+[00:56:16] [Server thread/INFO]: Default game type: SURVIVAL
+[00:56:16] [Server thread/INFO]: Generating keypair
+[00:56:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:56:16] [Server thread/INFO]: Using epoll channel type
+[00:56:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:56:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:56:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:56:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:56:16] [Server thread/INFO]: Preparing level "world"
+[00:56:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:56:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:56:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:56:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:56:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:56:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:56:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:56:20] [Worker-Main-3/INFO]: Preparing spawn area: 75%
+[00:56:20] [Server thread/INFO]: Time elapsed: 3057 ms
+[00:56:20] [Server thread/INFO]: Done (3.396s)! For help, type "help"
+[00:57:18] [Server thread/INFO]: l4s0mbra[/127.228.208.98:33811] logged in with entity id 2 at (-105.5, 65.0, -138.5)
+[00:57:18] [Server thread/INFO]: l4s0mbra joined the game
+[00:58:31] [Server thread/INFO]: Sraut0placer[/127.50.239.183:52373] logged in with entity id 448 at (-379.9455881446996, -41.0, -352.67831486530014)
+[00:58:31] [Server thread/INFO]: Sraut0placer joined the game
+[00:58:41] [Server thread/INFO]: [Not Secure] <Sraut0placer> pene
+[00:58:46] [Server thread/INFO]: [Not Secure] <l4s0mbra> comes
+[00:58:49] [Server thread/INFO]: [Not Secure] <Sraut0placer> tu
+[00:59:02] [Server thread/INFO]: [Not Secure] <l4s0mbra> mama
+[00:59:07] [Server thread/INFO]: [Not Secure] <Sraut0placer> la tuya
+[00:59:14] [Server thread/INFO]: l4s0mbra has made the advancement [Stone Age]
+[00:59:31] [Server thread/INFO]: [Not Secure] <l4s0mbra> :(
+[00:59:55] [Server thread/INFO]: l4s0mbra has made the advancement [Getting an Upgrade]
+[01:00:55] [Server thread/INFO]: Sraut0placer was blown up by Creeper
+[01:00:59] [Server thread/INFO]: [Not Secure] <Sraut0placer> uy
+[01:01:03] [Server thread/INFO]: [Not Secure] <l4s0mbra> troste
+[01:02:56] [Server thread/INFO]: Goj0[/127.71.179.52:49831] logged in with entity id 2574 at (-500.0029797810004, 67.0, -1000.6999999880791)
+[01:02:56] [Server thread/INFO]: Goj0 joined the game
+[01:03:04] [Server thread/INFO]: [Not Secure] <Goj0> GEY
+[01:03:13] [Server thread/INFO]: [Not Secure] <Goj0> oigan
+[01:03:17] [Server thread/INFO]: [Not Secure] <Goj0> traiganse una maderita
+[01:03:17] [Server thread/INFO]: [Not Secure] <l4s0mbra> e
+[01:03:20] [Server thread/INFO]: [Not Secure] <Sraut0placer> no
+[01:03:21] [Server thread/INFO]: [Not Secure] <Goj0> asi bien chingona
+[01:03:27] [Server thread/INFO]: [Not Secure] <Goj0> no hay madera en el puto desierto ue
+[01:03:32] [Server thread/INFO]: [Not Secure] <l4s0mbra> la de manglar?
+[01:03:34] [Server thread/INFO]: [Not Secure] <Sraut0placer> jaja que mal
+[01:03:39] [Server thread/INFO]: [Not Secure] <Goj0> bro
+[01:03:43] [Server thread/INFO]: [Not Secure] <Goj0> martin de q hablas
+[01:03:46] [Server thread/INFO]: [Not Secure] <Goj0> si vamos a vivir aqui
+[01:03:53] [Server thread/INFO]: [Not Secure] <Sraut0placer> donde
+[01:03:57] [Server thread/INFO]: [Not Secure] <Goj0> a menos q quieras caminar 1k bloques
+[01:04:00] [Server thread/INFO]: [Not Secure] <Goj0> a la otra aldea
+[01:04:02] [Server thread/INFO]: [Not Secure] <Goj0> con tierra
+[01:04:09] [Server thread/INFO]: [Not Secure] <Goj0> cual prefieres
+[01:04:21] [Server thread/INFO]: [Not Secure] <Sraut0placer> nose
+[01:04:21] [Server thread/INFO]: [Not Secure] <Goj0> ue nos vamos a quedar en esta aldea
+[01:04:23] [Server thread/INFO]: [Not Secure] <Sraut0placer> pero contigo no voy a vivir
+[01:04:34] [Server thread/INFO]: [Not Secure] <Goj0> vamos a vivir en la puta aldea de los cojones
+[01:04:41] [Server thread/INFO]: [Not Secure] <Sraut0placer> tu solo
+[01:04:43] [Server thread/INFO]: [Not Secure] <Goj0> hazte tu casa pal quinto culo pero ven
+[01:04:48] [Server thread/INFO]: [Not Secure] <Sraut0placer> no
+[01:04:50] [Server thread/INFO]: [Not Secure] <Goj0> HAY UN PUTO CAMELLO
+[01:05:01] [Server thread/INFO]: [Not Secure] <Goj0> jeej
+[01:05:33] [Server thread/INFO]: [Not Secure] <Sraut0placer> creo q perdi todas mis cosas
+[01:05:39] [Server thread/INFO]: [Not Secure] <Goj0> y a mi que
+[01:05:43] [Server thread/INFO]: [Not Secure] <Goj0> solo trae mucha madera
+[01:05:46] [Server thread/INFO]: [Not Secure] <Goj0> y yo te doy cosas
+[01:05:49] [Server thread/INFO]: [Not Secure] <Sraut0placer> no voy a ir donde ti
+[01:05:54] [Server thread/INFO]: [Not Secure] <Sraut0placer> me caes mal
+[01:05:57] [Server thread/INFO]: [Not Secure] <Goj0> aja
+[01:05:58] [Server thread/INFO]: [Not Secure] <Goj0> puto
+[01:06:01] [Server thread/INFO]: [Not Secure] <Goj0> ven tu sombra
+[01:06:06] [Server thread/INFO]: [Not Secure] <l4s0mbra> perate
+[01:06:23] [Server thread/INFO]: l4s0mbra has made the advancement [Acquire Hardware]
+[01:06:26] [Server thread/INFO]: [Not Secure] <Goj0> que
+[01:06:28] [Server thread/INFO]: [Not Secure] <Goj0> yo tengo 40 de hierro
+[01:06:36] [Server thread/INFO]: [Not Secure] <Goj0> a no
+[01:06:38] [Server thread/INFO]: [Not Secure] <Goj0> me lo gaste todo
+[01:06:39] [Server thread/INFO]: [Not Secure] <Goj0> jeje
+[01:06:41] [Server thread/INFO]: Sraut0placer lost connection: Disconnected
+[01:06:41] [Server thread/INFO]: Sraut0placer left the game
+[01:06:42] [Server thread/INFO]: [Not Secure] <Goj0> tengo 10
+[01:06:49] [Server thread/INFO]: [Not Secure] <Goj0> lo que si tengo es 55 diamantes
+[01:06:52] [Server thread/INFO]: [Not Secure] <l4s0mbra> llevo tierra?
+[01:06:57] [Server thread/INFO]: [Not Secure] <Goj0> no
+[01:07:01] [Server thread/INFO]: [Not Secure] <Goj0> ven a donde estoy yo
+[01:07:05] [Server thread/INFO]: l4s0mbra has made the advancement [Monster Hunter]
+[01:07:07] [Server thread/INFO]: [Not Secure] <Goj0> y nos vamos a una aldea con tierra
+[01:07:22] [Server thread/INFO]: [Not Secure] <l4s0mbra> ya hay slime xd
+[01:07:29] [Server thread/INFO]: [Not Secure] <Goj0> solo callate y ven
+[01:08:32] [Server thread/INFO]: [Not Secure] <Goj0> apurate blo
+[01:08:35] [Server thread/INFO]: [Not Secure] <Goj0> en la barra de exp
+[01:08:40] [Server thread/INFO]: [Not Secure] <Goj0> sale una luz
+[01:08:47] [Server thread/INFO]: [Not Secure] <Goj0> si vas a esa luz ahi estoy yo
+[01:08:49] [Server thread/INFO]: [Not Secure] <Goj0> jeje
+[01:08:59] [Server thread/INFO]: [Not Secure] <Goj0> mientras mas te acerques se agranda mas
+[01:09:10] [Server thread/INFO]: [Not Secure] <Goj0> oie bro
+[01:09:13] [Server thread/INFO]: [Not Secure] <l4s0mbra> e
+[01:09:20] [Server thread/INFO]: [Not Secure] <Goj0> eres un viejo cochino?
+[01:09:26] [Server thread/INFO]: l4s0mbra has made the advancement [Not Today, Thank You]
+[01:09:31] [Server thread/INFO]: [Not Secure] <Goj0> yes or not
+[01:10:03] [Server thread/INFO]: [Not Secure] <Goj0> responde pe
+[01:11:24] [Server thread/INFO]: [Not Secure] <l4s0mbra> manglares klias
+[01:11:29] [Server thread/INFO]: [Not Secure] <l4s0mbra> kliaos
+[01:11:30] [Server thread/INFO]: [Not Secure] <Goj0> me vas a responder
+[01:11:39] [Server thread/INFO]: [Not Secure] <l4s0mbra> aaaaa verdad
+[01:11:47] [Server thread/INFO]: [Not Secure] <l4s0mbra> esque me salieron2 creepers y 2 esqueletos
+[01:11:52] [Server thread/INFO]: [Not Secure] <l4s0mbra> nop
+[01:12:08] [Server thread/INFO]: [Not Secure] <Goj0> neta me lo juras
+[01:12:37] [Server thread/INFO]: [Not Secure] <Goj0> kieres gugal pol llamada jeje
+[01:12:47] [Server thread/INFO]: [Not Secure] <l4s0mbra> te lo juro
+[01:12:50] [Server thread/INFO]: [Not Secure] <l4s0mbra> no poder
+[01:12:53] [Server thread/INFO]: [Not Secure] <Goj0> gey
+[01:12:55] [Server thread/INFO]: [Not Secure] <l4s0mbra> me regañan xd
+[01:12:58] [Server thread/INFO]: [Not Secure] <Goj0> y pk
+[01:13:45] [Server thread/INFO]: [Not Secure] <l4s0mbra> a mi jfa no le gusta q hable con estraños xd
+[01:13:50] [Server thread/INFO]: [Not Secure] <Goj0> a bueno
+[01:14:04] [Server thread/INFO]: [Not Secure] <Goj0> ya he hablado con la perrita de martin y el gey de zapatos pero ya veo que tu me odias
+[01:14:07] [Server thread/INFO]: [Not Secure] <Goj0> bobolongo
+[01:14:10] [Server thread/INFO]: [Not Secure] <Goj0> ya no vengas
+[01:14:23] [Server thread/INFO]: [Not Secure] <l4s0mbra> troste
+[01:14:28] [Server thread/INFO]: [Not Secure] <l4s0mbra> tons me armo mi base solito
+[01:14:32] [Server thread/INFO]: [Not Secure] <Goj0> apurate gay
+[01:14:40] [Server thread/INFO]: [Not Secure] <l4s0mbra> aguanta toy cocinando
+[01:14:45] [Server thread/INFO]: [Not Secure] <Goj0> let him cook
+[01:15:21] [Server thread/INFO]: Villager cuf['Villager'/2576, l='ServerLevel[world]', x=-482.94, y=67.00, z=-1029.29] died, message: 'Villager was blown up by Creeper'
+[01:15:40] [Server thread/INFO]: Villager cuf['Nitwit'/2654, l='ServerLevel[world]', x=-455.70, y=67.00, z=-1017.54] died, message: 'Nitwit was blown up by Creeper'
+[01:15:40] [Server thread/INFO]: Villager cuf['Villager'/2613, l='ServerLevel[world]', x=-455.25, y=67.00, z=-1015.71] died, message: 'Villager was blown up by Creeper'
