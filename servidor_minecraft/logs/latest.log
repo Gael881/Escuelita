@@ -572,3 +572,17 @@
 [02:26:42] [Server thread/INFO]: [Not Secure] <l4s0mbra> pto
 [02:26:43] [Server thread/INFO]: l4s0mbra lost connection: Disconnected
 [02:26:43] [Server thread/INFO]: l4s0mbra left the game
+[02:28:55] [Server thread/INFO]: Goj0 lost connection: Disconnected
+[02:28:55] [Server thread/INFO]: Goj0 left the game
+[02:29:55] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:29:59] [Server thread/INFO]: Stopping the server
+[02:29:59] [Server thread/INFO]: Stopping server
+[02:29:59] [Server thread/INFO]: Saving players
+[02:29:59] [Server thread/INFO]: Saving worlds
+[02:29:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:29:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:29:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:29:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:29:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:29:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:29:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
